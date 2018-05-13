@@ -4,6 +4,9 @@
 
 <h3>Suru++ Dark</h3>
 
+<p align="center"> 
+
+![path1143](https://user-images.githubusercontent.com/7957697/39971755-22f98382-5701-11e8-9b6a-9d8a94e72a94.png)
 <h3 align="center">A dark third-party Suru icons for Ubuntu 18.04</h3>
 
 <h3 align="center">An elegant, modern and sweet Suru icons based on <a href="https://snwh.org/suru">Suru Icons</a> by Sam Hewitt</h3>
