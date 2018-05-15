@@ -2,8 +2,6 @@
   <img src="Title.png" alt="Title" height="256px" width="256px">
 </p>
 
-<h3>Suru++ Dark</h3>
-
 <p align="center"> 
 
 <h3 align="center">A dark third-party Suru icons for Ubuntu 18.04</h3>
