@@ -1,400 +1,400 @@
 [Icon Theme]
-Name = Suru++ Dark Lubuntu
-Name[af] = Suru++ Nag Lubuntu
-Name[ca] = Suru++ Fosc Lubuntu
-Name[cs] = Suru++ Noc Lubuntu
-Name[da] = Suru++ Nat Lubuntu
-Name[de] = Suru ++ Dunkel Lubuntu
-Name[el] = Suru++ Μαυριδερή Lubuntu
-Name[es] = Suru++ Nocturno Lubuntu
-Name[eo] = Suru++ Nokta Lubuntu
-Name[et] = Öösuru++ Lubuntu 
-Name[fi] = Yösuru++ Lubuntu
-Name[fr] = Suru++ Noire Lubuntu
-Name[fy] = Suru++ Nacht Lubuntu
-Name[ga] = Suru++ Oíche Lubuntu
-Name[gl] = Suru++ Noite Lubuntu
-Name[hr] = Suru++ Noć Lubuntu
-Name[is] = Suru++ Nótt Lubuntu
-Name[it] = Suru++ Scuro Lubuntu
-Name[ka] = Suru++ ბნელი Lubuntu
-Name[ja] = Suru++ 黒 Lubuntu
-Name[lb] = Nuechtsuru++ Lubuntu
-Name[lt] = Suru++ Naktis Lubuntu
-Name[lv] = Suru++ Nakts Lubuntu
-Name[mi] = Suru++ Parauri Lubuntu
-Name[mk] = Suru++ Ноќ Lubuntu
-Name[mn] = Suru++ Шөнө Lubuntu
-Name[mt] = Suru++ Diam Lubuntu
-Name[nl] = Suru++ Nacht Lubuntu
-Name[no] = Suru++ Natt Lubuntu
-Name[pl] = Suru++ Noc Lubuntu
-Name[pt_BR] = Suru++ Escuro Lubuntu
-Name[pt_PT] = Suru++ Nocturno Lubuntu
-Name[ro] = Suru++ Beznă Lubuntu 
-Name[ru] = Suru++ Темно Lubutnu
-Name[sk] = Suru++ Nočné Lubuntu
-Name[sl] = Suru++ Noč Lubuntu
-Name[sq] = Suru++ Mbrëmje Lubuntu
-Name[sr] = Suru++ Тамно Lubuntu
-Name[sr@latin] = Suru++ Tamano Lubuntu
-Name[sv] = Suru++ Natt Lubuntu
-Name[tr] = Suru++ Akşam Lubuntu
-Name[uk] = Suru++ Ніч Lubuntu
-Name[vi] = Suru++ đêm Lubuntu
-Name[zh_CN] = Suru++ 晚 Lubuntu
-Name[zh_TW] = Suru++ 晚 Lubuntu
+Name=Suru++ Dark Lubuntu
+Name[af]=Suru++ Nag Lubuntu
+Name[ca]=Suru++ Fosc Lubuntu
+Name[cs]=Suru++ Noc Lubuntu
+Name[da]=Suru++ Nat Lubuntu
+Name[de]=Suru ++ Dunkel Lubuntu
+Name[el]=Suru++ Μαυριδερή Lubuntu
+Name[es]=Suru++ Nocturno Lubuntu
+Name[eo]=Suru++ Nokta Lubuntu
+Name[et]=Öösuru++ Lubuntu 
+Name[fi]=Yösuru++ Lubuntu
+Name[fr]=Suru++ Noire Lubuntu
+Name[fy]=Suru++ Nacht Lubuntu
+Name[ga]=Suru++ Oíche Lubuntu
+Name[gl]=Suru++ Noite Lubuntu
+Name[hr]=Suru++ Noć Lubuntu
+Name[is]=Suru++ Nótt Lubuntu
+Name[it]=Suru++ Scuro Lubuntu
+Name[ka]=Suru++ ბნელი Lubuntu
+Name[ja]=Suru++ 黒 Lubuntu
+Name[lb]=Nuechtsuru++ Lubuntu
+Name[lt]=Suru++ Naktis Lubuntu
+Name[lv]=Suru++ Nakts Lubuntu
+Name[mi]=Suru++ Parauri Lubuntu
+Name[mk]=Suru++ Ноќ Lubuntu
+Name[mn]=Suru++ Шөнө Lubuntu
+Name[mt]=Suru++ Diam Lubuntu
+Name[nl]=Suru++ Nacht Lubuntu
+Name[no]=Suru++ Natt Lubuntu
+Name[pl]=Suru++ Noc Lubuntu
+Name[pt_BR]=Suru++ Escuro Lubuntu
+Name[pt_PT]=Suru++ Nocturno Lubuntu
+Name[ro]=Suru++ Beznă Lubuntu 
+Name[ru]=Suru++ Темно Lubutnu
+Name[sk]=Suru++ Nočné Lubuntu
+Name[sl]=Suru++ Noč Lubuntu
+Name[sq]=Suru++ Mbrëmje Lubuntu
+Name[sr]=Suru++ Тамно Lubuntu
+Name[sr@latin]=Suru++ Tamano Lubuntu
+Name[sv]=Suru++ Natt Lubuntu
+Name[tr]=Suru++ Akşam Lubuntu
+Name[uk]=Suru++ Ніч Lubuntu
+Name[vi]=Suru++ đêm Lubuntu
+Name[zh_CN]=Suru++ 晚 Lubuntu
+Name[zh_TW]=Suru++ 晚 Lubuntu
 
-Comment = A dark icons theme Suru++ for Lubuntu users
-Comment[af] = 'N nag ikone tema Suru++ vir Lubuntu gebruikers
-Comment[ca] = Un tema fosc d'icones Suru++ per usuaris de Lubuntu
-Comment[de] = Ein dunkele Ikonenthema Suru++ für Lubuntu-Nutzer
-Comment[de_AT] = Ein dunkele Ikonenthema Suru++ für Lubuntu-Benutzer
-Comment[de_CH] = Ein dunkele Ikonenthema Suru++ für Lubuntu-Benutzer
-Comment[el] = Ένα μαυριδερό θέμα εικονιδίων Suru ++ για χρήστες του Lubuntu
-Comment[es] = Un tema oscuro de iconos para usuarios de Lubuntu
-Comment[fr] = Un thème noir d'icônes Suru++ pour les utilisateurs de Lubuntu
-Comment[it] = Un tema scuro d'icone Suru++ per gli utenti di Lubuntu
-Comment[ka] = Suru++ ბნელი ხატები თემა Lubuntu-ის მომხმარებელებსთვის
-Comment[pt_BR] = Um tema escuro de ícones para usuários de Lubuntu
-Comment[pt_PT] = Um tema nocturno de ícones para utilizadores de Lubuntu
-Comment[ro] = O temă nocturnă de icoane Suru++ pentru utilizatorii Lubuntu
+Comment=A dark icons theme Suru++ for Lubuntu users
+Comment[af]='N nag ikone tema Suru++ vir Lubuntu gebruikers
+Comment[ca]=Un tema fosc d'icones Suru++ per usuaris de Lubuntu
+Comment[de]=Ein dunkele Ikonenthema Suru++ für Lubuntu-Nutzer
+Comment[de_AT]=Ein dunkele Ikonenthema Suru++ für Lubuntu-Benutzer
+Comment[de_CH]=Ein dunkele Ikonenthema Suru++ für Lubuntu-Benutzer
+Comment[el]=Ένα μαυριδερό θέμα εικονιδίων Suru ++ για χρήστες του Lubuntu
+Comment[es]=Un tema oscuro de iconos para usuarios de Lubuntu
+Comment[fr]=Un thème noir d'icônes Suru++ pour les utilisateurs de Lubuntu
+Comment[it]=Un tema scuro d'icone Suru++ per gli utenti di Lubuntu
+Comment[ka]=Suru++ ბნელი ხატები თემა Lubuntu-ის მომხმარებელებსთვის
+Comment[pt_BR]=Um tema escuro de ícones para usuários de Lubuntu
+Comment[pt_PT]=Um tema nocturno de ícones para utilizadores de Lubuntu
+Comment[ro]=O temă nocturnă de icoane Suru++ pentru utilizatorii Lubuntu
 
-DisplayDepth = 32
-Encoding = UTF-8
-Example = folder
+DisplayDepth=32
+Encoding=UTF-8
+Example=folder
 
-Inherits = Suru++ Dark
-Inherits[af] = Suru++ Nag
-Inherits[ca] = Suru++ Fosc
-Inherits[cs] = Suru++ Noc
-Inherits[da] = Suru++ Nat
-Inherits[de] = Suru ++ Dunkel
-Inherits[el] = Suru++ Μαυριδερή
-Inherits[es] = Suru++ Nocturno
-Inherits[eo] = Suru++ Nokta
-Inherits[et] = Öösuru++ 
-Inherits[fi] = Yösuru++
-Inherits[fr] = Suru++ Noire
-Inherits[fy] = Suru++ Nacht
-Inherits[ga] = Suru++ Oíche
-Inherits[gl] = Suru++ Noite
-Inherits[hr] = Suru++ Noć
-Inherits[is] = Suru++ Nótt
-Inherits[it] = Suru++ Scuro
-Inherits[ka] = Suru++ ბნელი
-Inherits[ja] = Suru++ 黒
-Inherits[lb] = Nuechtsuru++
-Inherits[lt] = Suru++ Naktis
-Inherits[lv] = Suru++ Nakts
-Inherits[mi] = Suru++ Parauri
-Inherits[mk] = Suru++ Ноќ
-Inherits[mn] = Suru++ Шөнө
-Inherits[mt] = Suru++ Diam
-Inherits[nl] = Suru++ Nacht
-Inherits[no] = Suru++ Natt
-Inherits[pl] = Suru++ Noc
-Inherits[pt_BR] = Suru++ Escuro 
-Inherits[pt_PT] = Suru++ Nocturno
-Inherits[ro] = Suru++ Beznă 
-Inherits[ru] = Suru++ Темно Lubutn
-Inherits[sk] = Suru++ Nočné
-Inherits[sl] = Suru++ Noč
-Inherits[sq] = Suru++ Mbrëmje
-Inherits[sr_CY] = Suru++ Тамно 
-Inherits[sr_LA] = Suru++ Tamano
-Inherits[sv] = Suru++ Natt
-Inherits[tr] = Suru++ Akşam
-Inherits[uk] = Suru++ Ніч 
-Inherits[vi] = Suru++ đêm
-Inherits[zh_CN] = Suru++ 晚
-Inherits[zh_TW] = Suru++ 晚
+Inherits=Suru++ Dark
+Inherits[af]=Suru++ Nag
+Inherits[ca]=Suru++ Fosc
+Inherits[cs]=Suru++ Noc
+Inherits[da]=Suru++ Nat
+Inherits[de]=Suru ++ Dunkel
+Inherits[el]=Suru++ Μαυριδερή
+Inherits[es]=Suru++ Nocturno
+Inherits[eo]=Suru++ Nokta
+Inherits[et]=Öösuru++ 
+Inherits[fi]=Yösuru++
+Inherits[fr]=Suru++ Noire
+Inherits[fy]=Suru++ Nacht
+Inherits[ga]=Suru++ Oíche
+Inherits[gl]=Suru++ Noite
+Inherits[hr]=Suru++ Noć
+Inherits[is]=Suru++ Nótt
+Inherits[it]=Suru++ Scuro
+Inherits[ka]=Suru++ ბნელი
+Inherits[ja]=Suru++ 黒
+Inherits[lb]=Nuechtsuru++
+Inherits[lt]=Suru++ Naktis
+Inherits[lv]=Suru++ Nakts
+Inherits[mi]=Suru++ Parauri
+Inherits[mk]=Suru++ Ноќ
+Inherits[mn]=Suru++ Шөнө
+Inherits[mt]=Suru++ Diam
+Inherits[nl]=Suru++ Nacht
+Inherits[no]=Suru++ Natt
+Inherits[pl]=Suru++ Noc
+Inherits[pt_BR]=Suru++ Escuro 
+Inherits[pt_PT]=Suru++ Nocturno
+Inherits[ro]=Suru++ Beznă 
+Inherits[ru]=Suru++ Темно Lubutn
+Inherits[sk]=Suru++ Nočné
+Inherits[sl]=Suru++ Noč
+Inherits[sq]=Suru++ Mbrëmje
+Inherits[sr_CY]=Suru++ Тамно 
+Inherits[sr_LA]=Suru++ Tamano
+Inherits[sv]=Suru++ Natt
+Inherits[tr]=Suru++ Akşam
+Inherits[uk]=Suru++ Ніч 
+Inherits[vi]=Suru++ đêm
+Inherits[zh_CN]=Suru++ 晚
+Inherits[zh_TW]=Suru++ 晚
 
-[X-GNOME-Metatheme]
-GtkTheme = 
-MetacityTheme = 
-IconTheme = Suru++ Dark Lubuntu
-IconTheme[af] = Suru++ Nag Lubuntu
-IconTheme[ca] = Suru++ Fosc Lubuntu
-IconTheme[cs] = Suru++ Noc Lubuntu
-IconTheme[da] = Suru++ Nat Lubuntu
-IconTheme[de] = Suru ++ Dunkel Lubuntu
-IconTheme[el] = Suru++ Μαυριδερή Lubuntu
-IconTheme[es] = Suru++ Nocturno Lubuntu
-IconTheme[eo] = Suru++ Nokta Lubuntu
-IconTheme[et] = Öösuru++ Lubuntu 
-IconTheme[fi] = Yösuru++ Lubuntu
-IconTheme[fr] = Suru++ Noire Lubuntu
-IconTheme[fy] = Suru++ Nacht Lubuntu
-IconTheme[ga] = Suru++ Oíche Lubuntu
-IconTheme[gl] = Suru++ Noite Lubuntu
-IconTheme[hr] = Suru++ Noć Lubuntu
-IconTheme[is] = Suru++ Nótt Lubuntu
-IconTheme[it] = Suru++ Scuro Lubuntu
-IconTheme[ka] = Suru++ ბნელი Lubuntu
-IconTheme[ja] = Suru++ 黒 Lubuntu
-IconTheme[lb] = Nuechtsuru++ Lubuntu
-IconTheme[lt] = Suru++ Naktis Lubuntu
-IconTheme[lv] = Suru++ Nakts Lubuntu
-IconTheme[mi] = Suru++ Parauri Lubuntu
-IconTheme[mk] = Suru++ Ноќ Lubuntu
-IconTheme[mn] = Suru++ Шөнө Lubuntu
-IconTheme[mt] = Suru++ Diam Lubuntu
-IconTheme[nl] = Suru++ Nacht Lubuntu
-IconTheme[no] = Suru++ Natt Lubuntu
-IconTheme[pl] = Suru++ Noc Lubuntu
-IconTheme[pt_BR] = Suru++ Escuro Lubuntu
-IconTheme[pt_PT] = Suru++ Nocturno Lubuntu
-IconTheme[ro] = Suru++ Beznă Lubuntu 
-IconTheme[ru] = Suru++ Темно Lubutnu
-IconTheme[sk] = Suru++ Nočné Lubuntu
-IconTheme[sl] = Suru++ Noč Lubuntu
-IconTheme[sq] = Suru++ Mbrëmje Lubuntu
-IconTheme[sr] = Suru++ Тамно Lubuntu
-IconTheme[sr@latin] = Suru++ Tamano Lubuntu
-IconTheme[sv] = Suru++ Natt Lubuntu
-IconTheme[tr] = Suru++ Akşam Lubuntu
-IconTheme[uk] = Suru++ Ніч Lubuntu
-IconTheme[vi] = Suru++ đêm Lubuntu
-IconTheme[zh_CN] = Suru++ 晚 Lubuntu
-IconTheme[zh_TW] = Suru++ 晚 Lubuntu
+DesktopDefault=48
+DesktopSizes=16,22,32,48,64,128,256
+ToolbarDefault=22
+ToolbarSizes=16,22,32,48
+MainToolbarDefault=22
+MainToolbarSizes=16,22,32,48
+SmallDefault=16
+SmallSizes=16,22,32,48
+PanelDefault=32
+PanelSizes=16,22,32,48,64,128,256
+DialogDefault=32
+DialogSizes=16,22,32,48,64,128,256
 
-ApplicationFont = fonts/overpass/
-BackgroundImage = 
-DesktopFont = fonts/overpass/
-GtkColorScheme =
-MonospaceFont = fonts/overpass-mono/
-SoundTheme =
-
-DesktopDefault = 48
-DesktopSizes = 16, 22, 32, 48, 64, 128, 256
-ToolbarDefault = 22
-ToolbarSizes = 16, 22, 32, 48
-MainToolbarDefault = 22
-MainToolbarSizes = 16, 22, 32, 48
-SmallDefault = 16
-SmallSizes = 16, 22, 32, 48
-PanelDefault = 32
-PanelSizes = 16, 22, 32, 48, 64, 128, 256
-DialogDefault = 32
-DialogSizes = 16, 22, 32, 48, 64, 128, 256
-
-Directories = actions/16, actions/22, actions/24, actions/32, actions/symbolic, animations/16, animations/24, apps/16, apps/24, apps/scalable, apps/symbolic, categories/16, categories/24, categories/32, categories/symbolic, devices/16, devices/24, devices/32, devices/scalable, devices/symbolic, emblems/16, emblems/symbolic, mimetypes/16, mimetypes/24, mimetypes/32, mimetypes/scalable, mimetypes/symbolic, places/16, places/24, places/32, places/scalable, places/symbolic, status/16, status/24, status/symbolic
+Directories=actions/16,actions/22,actions/24,actions/32,actions/symbolic,animations/16,animations/24,apps/16,apps/24,apps/scalable,apps/symbolic,categories/16,categories/24,categories/32,categories/symbolic,devices/16,devices/24,devices/32,devices/scalable,devices/symbolic,emblems/16,emblems/symbolic,mimetypes/16,mimetypes/24,mimetypes/32,mimetypes/scalable,mimetypes/symbolic,places/16,places/24,places/32,places/scalable,places/symbolic,status/16,status/24,status/symbolic,fonts,wallpapers
 
 [actions/16]
-Context = Actions
-Size = 16
-Type = Fixed
+Context=Actions
+Size=16
+Type=Fixed
 
 [actions/22]
-Context = Actions
-Size = 22
-Type = Fixed
+Context=Actions
+Size=22
+Type=Fixed
 
 [actions/24]
-Context = Actions
-Size = 24
-Type = Fixed
+Context=Actions
+Size=24
+Type=Fixed
 
 [actions/32]
-Size = 32
-Context = Actions
-MinSize = 8
-MaxSize = 47
-Type = Scalable
+Size=32
+Context=Actions
+MinSize=8
+MaxSize=47
+Type=Scalable
 
 [actions/symbolic]
-Size = 16
-Context = Actions
-MinSize = 8
-MaxSize = 512
-Type = Scalable
+Size=16
+Context=Actions
+MinSize=8
+MaxSize=512
+Type=Scalable
 
 [animations/16]
-Size = 16
-Context = Animations
-MinSize = 8
-MaxSize = 23
-Type = Scalable
+Size=16
+Context=Animations
+MinSize=8
+MaxSize=23
+Type=Scalable
 
 [animations/24]
-Size = 24
-Context = Animations
-MinSize = 8
-MaxSize = 31
-Type = Scalable
+Size=24
+Context=Animations
+MinSize=8
+MaxSize=31
+Type=Scalable
 
 [apps/16]
-Context = Actions
-Size = 16
-Type = Fixed
+Context=Actions
+Size=16
+Type=Fixed
 
 [apps/24]
-Context = Actions
-Size = 23
-MinSize = 1
-MaxSize = 23
-Type = Fixed
+Context=Actions
+Size=23
+MinSize=1
+MaxSize=23
+Type=Fixed
 
 [apps/scalable]
-Context = Actions
-Size = 24
-Type = Fixed
+Context=Actions
+Size=24
+Type=Fixed
 
 [apps/scalable]
-Context = Applications
-Size = 512
-MinSize = 24
-MaxSize = 512
-Type = Scalable
+Context=Applications
+Size=512
+MinSize=24
+MaxSize=512
+Type=Scalable
 
 [apps/symbolic]
-Context = Applications
-Size = 16
-MinSize = 1
-MaxSize = 512
-Type = Scalable
+Context=Applications
+Size=16
+MinSize=1
+MaxSize=512
+Type=Scalable
 
 [categories/16]
-Context = Categories
-Size = 16
-Type = Fixed
+Context=Categories
+Size=16
+Type=Fixed
 
 [categories/24]
-Context = Categories
-Size = 24
-Type = Fixed
+Context=Categories
+Size=24
+Type=Fixed
 
 [categories/32]
-Context = Categories
-Size = 32
-Type = Fixed
+Context=Categories
+Size=32
+Type=Fixed
 
 [categories/symbolic]
-Context = Categories
-Size = 16
-MinSize = 8
-MaxSize = 512
-Type = Scalable
+Context=Categories
+Size=16
+MinSize=8
+MaxSize=512
+Type=Scalable
 
 [devices/16]
-Context = Devices
-Size = 16
-Type = Fixed
+Context=Devices
+Size=16
+Type=Fixed
 
 [devices/24]
-Context = Devices
-Size = 24
-Type = Fixed
+Context=Devices
+Size=24
+Type=Fixed
 
 [devices/32]
-Context = Devices
-Size = 32
-Type = Fixed
+Context=Devices
+Size=32
+Type=Fixed
 
 [devices/scalable]
-Context = Devices
-Size = 512
-MinSize = 1
-MaxSize = 512
-Type = Scalable
+Context=Devices
+Size=512
+MinSize=1
+MaxSize=512
+Type=Scalable
 
 [devices/symbolic]
-Size = 16
-Context = Devices
-MinSize = 8
-MaxSize = 512
-Type = Scalable
+Size=16
+Context=Devices
+MinSize=8
+MaxSize=512
+Type=Scalable
 
 [emblems/16]
-Size = 16
-Context = Emblems
-Type = Fixed
+Size=16
+Context=Emblems
+Type=Fixed
 
 [emblems/symbolic]
-Size = 16
-Context = Emblems
-MinSize = 8
-MaxSize = 512
-Type = Scalable
+Size=16
+Context=Emblems
+MinSize=8
+MaxSize=512
+Type=Scalable
 
 [emotes/22]
-Size = 22
-Context = Emotes
-Type = Fixed
+Size=22
+Context=Emotes
+Type=Fixed
 
 [mimetypes/16]
-Size = 16
-Type = Fixed
+Size=16
+Type=Fixed
 
 [mimetypes/24]
-Size = 24
-Type = Fixed
+Size=24
+Type=Fixed
 
 [mimetypes/32]
-Size = 32
-Type = Fixed
+Size=32
+Type=Fixed
 
 [mimetypes/scalable]
-Context = Mimetypes
-Size = 512
-MinSize = 1
-MaxSize = 512
-Type = Scalable
+Context=Mimetypes
+Size=512
+MinSize=1
+MaxSize=512
+Type=Scalable
 
 [mimetypes/symbolic]
-Size = 16
-Context = MimeTypes
-MinSize = 8
-MaxSize = 512
-Type = Scalable
+Size=16
+Context=MimeTypes
+MinSize=8
+MaxSize=512
+Type=Scalable
 
 [places/16]
-Context = Places
-Size = 16
-Type = Fixed
+Context=Places
+Size=16
+Type=Fixed
 
 [places/24]
-Context = Places
-Size = 24
-Type = Fixed
+Context=Places
+Size=24
+Type=Fixed
 
 [places/32]
-Context = Places
-Size = 32
-Type = Fixed
+Context=Places
+Size=32
+Type=Fixed
 
 [places/scalable]
-Context = Places
-Size = 512
-MinSize = 1
-MaxSize = 512
-Type = Scalable
+Context=Places
+Size=512
+MinSize=1
+MaxSize=512
+Type=Scalable
 
 [places/symbolic]
-Size = 16
-Context = Places
-MinSize = 8
-MaxSize = 512
-Type = Scalable
+Size=16
+Context=Places
+MinSize=8
+MaxSize=512
+Type=Scalable
 
 [status/16]
-Size = 16
-Context = Status
-MinSize = 8
-MaxSize = 23
-Type = Scalable
+Size=16
+Context=Status
+MinSize=8
+MaxSize=23
+Type=Scalable
 
 [status/24]
-Size = 24
-Context = Status
-MinSize = 8
-MaxSize = 31
-Type = Scalable
+Size=24
+Context=Status
+MinSize=8
+MaxSize=31
+Type=Scalable
 
 [status/symbolic]
-Size = 16
-Context = Status
-MinSize = 8
-MaxSize = 512
-Type = Scalable
+Size=16
+Context=Status
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[X-GNOME-Metatheme]
+GtkTheme=
+MetacityTheme=
+IconTheme=Suru++ Dark Lubuntu
+IconTheme[af]=Suru++ Nag Lubuntu
+IconTheme[ca]=Suru++ Fosc Lubuntu
+IconTheme[cs]=Suru++ Noc Lubuntu
+IconTheme[da]=Suru++ Nat Lubuntu
+IconTheme[de]=Suru ++ Dunkel Lubuntu
+IconTheme[el]=Suru++ Μαυριδερή Lubuntu
+IconTheme[es]=Suru++ Nocturno Lubuntu
+IconTheme[eo]=Suru++ Nokta Lubuntu
+IconTheme[et]=Öösuru++ Lubuntu 
+IconTheme[fi]=Yösuru++ Lubuntu
+IconTheme[fr]=Suru++ Noire Lubuntu
+IconTheme[fy]=Suru++ Nacht Lubuntu
+IconTheme[ga]=Suru++ Oíche Lubuntu
+IconTheme[gl]=Suru++ Noite Lubuntu
+IconTheme[hr]=Suru++ Noć Lubuntu
+IconTheme[is]=Suru++ Nótt Lubuntu
+IconTheme[it]=Suru++ Scuro Lubuntu
+IconTheme[ka]=Suru++ ბნელი Lubuntu
+IconTheme[ja]=Suru++ 黒 Lubuntu
+IconTheme[lb]=Nuechtsuru++ Lubuntu
+IconTheme[lt]=Suru++ Naktis Lubuntu
+IconTheme[lv]=Suru++ Nakts Lubuntu
+IconTheme[mi]=Suru++ Parauri Lubuntu
+IconTheme[mk]=Suru++ Ноќ Lubuntu
+IconTheme[mn]=Suru++ Шөнө Lubuntu
+IconTheme[mt]=Suru++ Diam Lubuntu
+IconTheme[nl]=Suru++ Nacht Lubuntu
+IconTheme[no]=Suru++ Natt Lubuntu
+IconTheme[pl]=Suru++ Noc Lubuntu
+IconTheme[pt_BR]=Suru++ Escuro Lubuntu
+IconTheme[pt_PT]=Suru++ Nocturno Lubuntu
+IconTheme[ro]=Suru++ Beznă Lubuntu 
+IconTheme[ru]=Suru++ Темно Lubutnu
+IconTheme[sk]=Suru++ Nočné Lubuntu
+IconTheme[sl]=Suru++ Noč Lubuntu
+IconTheme[sq]=Suru++ Mbrëmje Lubuntu
+IconTheme[sr]=Suru++ Тамно Lubuntu
+IconTheme[sr@latin]=Suru++ Tamano Lubuntu
+IconTheme[sv]=Suru++ Natt Lubuntu
+IconTheme[tr]=Suru++ Akşam Lubuntu
+IconTheme[uk]=Suru++ Ніч Lubuntu
+IconTheme[vi]=Suru++ đêm Lubuntu
+IconTheme[zh_CN]=Suru++ 晚 Lubuntu
+IconTheme[zh_TW]=Suru++ 晚 Lubuntu
+
+ApplicationFont=fonts/overpass/
+BackgroundImage=
+DesktopFont=fonts/overpass/
+GtkColorScheme=
+MonospaceFont=fonts/overpass-mono/
+SoundTheme=

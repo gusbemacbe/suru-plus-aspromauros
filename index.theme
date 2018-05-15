@@ -1,350 +1,350 @@
 [Icon Theme]
-Name = Suru++ Dark
-Name[af] = Suru++ Nag
-Name[ca] = Suru++ Fosc
-Name[cs] = Suru++ Noc
-Name[da] = Suru++ Nat
-Name[de] = Suru ++ Dunkel
-Name[el] = Suru++ Μαυριδερή
-Name[es] = Suru++ Nocturno
-Name[eo] = Suru++ Nokta
-Name[et] = Öösuru++ 
-Name[fi] = Yösuru++
-Name[fr] = Suru++ Noire
-Name[fy] = Suru++ Nacht
-Name[ga] = Suru++ Oíche
-Name[gl] = Suru++ Noite
-Name[hr] = Suru++ Noć
-Name[is] = Suru++ Nótt
-Name[it] = Suru++ Scuro
-Name[ka] = Suru++ ბნელი
-Name[ja] = Suru++ 黒
-Name[lb] = Nuechtsuru++
-Name[lt] = Suru++ Naktis
-Name[lv] = Suru++ Nakts
-Name[mi] = Suru++ Parauri
-Name[mk] = Suru++ Ноќ
-Name[mn] = Suru++ Шөнө
-Name[mt] = Suru++ Diam
-Name[nl] = Suru++ Nacht
-Name[no] = Suru++ Natt
-Name[pl] = Suru++ Noc
-Name[pt_BR] = Suru++ Escuro 
-Name[pt_PT] = Suru++ Nocturno
-Name[ro] = Suru++ Beznă 
-Name[ru] = Suru++ Темно Lubutn
-Name[sk] = Suru++ Nočné
-Name[sl] = Suru++ Noč
-Name[sq] = Suru++ Mbrëmje
-Name[sr_CY] = Suru++ Тамно 
-Name[sr_LA] = Suru++ Tamano
-Name[sv] = Suru++ Natt
-Name[tr] = Suru++ Akşam
-Name[uk] = Suru++ Ніч 
-Name[vi] = Suru++ đêm
-Name[zh_CN] = Suru++ 晚
-Name[zh_TW] = Suru++ 晚
+Name=Suru++ Dark
+Name[af]=Suru++ Nag
+Name[ca]=Suru++ Fosc
+Name[cs]=Suru++ Noc
+Name[da]=Suru++ Nat
+Name[de]=Suru ++ Dunkel
+Name[el]=Suru++ Μαυριδερή
+Name[es]=Suru++ Nocturno
+Name[eo]=Suru++ Nokta
+Name[et]=Öösuru++ 
+Name[fi]=Yösuru++
+Name[fr]=Suru++ Noire
+Name[fy]=Suru++ Nacht
+Name[ga]=Suru++ Oíche
+Name[gl]=Suru++ Noite
+Name[hr]=Suru++ Noć
+Name[is]=Suru++ Nótt
+Name[it]=Suru++ Scuro
+Name[ka]=Suru++ ბნელი
+Name[ja]=Suru++ 黒
+Name[lb]=Nuechtsuru++
+Name[lt]=Suru++ Naktis
+Name[lv]=Suru++ Nakts
+Name[mi]=Suru++ Parauri
+Name[mk]=Suru++ Ноќ
+Name[mn]=Suru++ Шөнө
+Name[mt]=Suru++ Diam
+Name[nl]=Suru++ Nacht
+Name[no]=Suru++ Natt
+Name[pl]=Suru++ Noc
+Name[pt_BR]=Suru++ Escuro 
+Name[pt_PT]=Suru++ Nocturno
+Name[ro]=Suru++ Beznă 
+Name[ru]=Suru++ Темно Lubutn
+Name[sk]=Suru++ Nočné
+Name[sl]=Suru++ Noč
+Name[sq]=Suru++ Mbrëmje
+Name[sr_CY]=Suru++ Тамно 
+Name[sr_LA]=Suru++ Tamano
+Name[sv]=Suru++ Natt
+Name[tr]=Suru++ Akşam
+Name[uk]=Suru++ Ніч 
+Name[vi]=Suru++ đêm
+Name[zh_CN]=Suru++ 晚
+Name[zh_TW]=Suru++ 晚
 
-Comment = A dark, elegant and modern icons theme
-Comment[af] = 'N nagtelike, elegante en moderne ikone tema
-Comment[ca] = Un tema fosc, elegant i modern d'icones 
-Comment[de] = Ein dunkles, elegantes und modernes Ikonenthema
-Comment[de_AT] = Ein dunkles, elegantes und modernes Ikonenthema
-Comment[de_CH] = Ein dunkles, elegantes und modernes Ikonenthema
-Comment[el] = Ένα μαυριδερό, κομψό και μοντέρνο θέμα εικονιδίων
-Comment[es] = Un tema de iconos oscuro, elegante y moderno
-Comment[fr] = Un thème d'icônes nocturne, élégant et moderne
-Comment[it] = Un tema icone scuro, elegante e moderno
-Comment[ka] = ბნელი, ელეგანტური და თანამედროვე ხატები თემა
-Comment[pt_BR] = Um tema escuro elegante, escuro e moderno
-Comment[pt_PT] = Um tema elegante, moderno e nocturno de ícones
-Comment[ro] = O temă icoană nocturnă, elegantă și modernă
+Comment=A dark, elegant and modern icons theme
+Comment[af]='N nagtelike, elegante en moderne ikone tema
+Comment[ca]=Un tema fosc, elegant i modern d'icones 
+Comment[de]=Ein dunkles, elegantes und modernes Ikonenthema
+Comment[de_AT]=Ein dunkles, elegantes und modernes Ikonenthema
+Comment[de_CH]=Ein dunkles, elegantes und modernes Ikonenthema
+Comment[el]=Ένα μαυριδερό, κομψό και μοντέρνο θέμα εικονιδίων
+Comment[es]=Un tema de iconos oscuro, elegante y moderno
+Comment[fr]=Un thème d'icônes nocturne, élégant et moderne
+Comment[it]=Un tema icone scuro, elegante e moderno
+Comment[ka]=ბნელი, ელეგანტური და თანამედროვე ხატები თემა
+Comment[pt_BR]=Um tema escuro elegante, escuro e moderno
+Comment[pt_PT]=Um tema elegante, moderno e nocturno de ícones
+Comment[ro]=O temă icoană nocturnă, elegantă și modernă
 
-DisplayDepth = 32
-Encoding = UTF-8
-Example = folder
+DisplayDepth=32
+Encoding=UTF-8
+Example=folder
 
-Inherits = Suru++
+Inherits=Suru++
 
-[X-GNOME-Metatheme]
-GtkTheme = 
-MetacityTheme = 
-IconTheme = Suru++ Dark
-IconTheme[af] = Suru++ Nag
-IconTheme[ca] = Suru++ Fosc
-IconTheme[cs] = Suru++ Noc
-IconTheme[da] = Suru++ Nat
-IconTheme[de] = Suru ++ Dunkel
-IconTheme[el] = Suru++ Μαυριδερή
-IconTheme[es] = Suru++ Nocturno
-IconTheme[eo] = Suru++ Nokta
-IconTheme[et] = Öösuru++ 
-IconTheme[fi] = Yösuru++
-IconTheme[fr] = Suru++ Noire
-IconTheme[fy] = Suru++ Nacht
-IconTheme[ga] = Suru++ Oíche
-IconTheme[gl] = Suru++ Noite
-IconTheme[hr] = Suru++ Noć
-IconTheme[is] = Suru++ Nótt
-IconTheme[it] = Suru++ Scuro
-IconTheme[ka] = Suru++ ბნელი
-IconTheme[ja] = Suru++ 黒
-IconTheme[lb] = Nuechtsuru++
-IconTheme[lt] = Suru++ Naktis
-IconTheme[lv] = Suru++ Nakts
-IconTheme[mi] = Suru++ Parauri
-IconTheme[mk] = Suru++ Ноќ
-IconTheme[mn] = Suru++ Шөнө
-IconTheme[mt] = Suru++ Diam
-IconTheme[nl] = Suru++ Nacht
-IconTheme[no] = Suru++ Natt
-IconTheme[pl] = Suru++ Noc
-IconTheme[pt_BR] = Suru++ Escuro
-IconTheme[pt_PT] = Suru++ Nocturno
-IconTheme[ro] = Suru++ Beznă 
-IconTheme[ru] = Suru++ Темно Lubutnu
-IconTheme[sk] = Suru++ Nočné
-IconTheme[sl] = Suru++ Noč
-IconTheme[sq] = Suru++ Mbrëmje
-IconTheme[sr] = Suru++ Тамно
-IconTheme[sr@latin] = Suru++ Tamano
-IconTheme[sv] = Suru++ Natt
-IconTheme[tr] = Suru++ Akşam
-IconTheme[uk] = Suru++ Ніч
-IconTheme[vi] = Suru++ đêm
-IconTheme[zh_CN] = Suru++ 晚
-IconTheme[zh_TW] = Suru++ 晚
+DesktopDefault=48
+DesktopSizes=16,22,32,48,64,128,256
+DialogDefault=32
+DialogSizes=16,22,32,48,64,128,256
+MainToolbarDefault=22
+MainToolbarSizes=16,22,32,48
+PanelDefault=32
+PanelSizes=16,22,32,48,64,128,256
+SmallDefault=16
+SmallSizes=16,22,32,48
+ToolbarDefault=22
+ToolbarSizes=16,22,32,48
 
-ApplicationFont = fonts/overpass/
-BackgroundImage = 
-DesktopFont = fonts/overpass/
-GtkColorScheme =
-MonospaceFont = fonts/overpass-mono/
-SoundTheme =
-
-DesktopDefault = 48
-DesktopSizes = 16, 22, 32, 48, 64, 128, 256
-DialogDefault = 32
-DialogSizes = 16, 22, 32, 48, 64, 128, 256
-MainToolbarDefault = 22
-MainToolbarSizes = 16, 22, 32, 48
-PanelDefault = 32
-PanelSizes = 16, 22, 32, 48, 64, 128, 256
-SmallDefault = 16
-SmallSizes = 16, 22, 32, 48
-ToolbarDefault = 22
-ToolbarSizes = 16, 22, 32, 48
-
-Directories = actions/16, actions/22, actions/24, actions/32, actions/symbolic, animations/16, animations/24, apps/16, apps/24, apps/scalable, apps/symbolic, categories/16, categories/24, categories/32, categories/symbolic, devices/16, devices/24, devices/32, devices/scalable, devices/symbolic, emblems/16, emblems/symbolic, mimetypes/16, mimetypes/24, mimetypes/32, mimetypes/scalable, mimetypes/symbolic, places/16, places/24, places/32, places/scalable, places/symbolic, status/16, status/24, status/symbolic
+Directories=actions/16,actions/22,actions/24,actions/32,actions/symbolic,animations/16,animations/24,apps/16,apps/24,apps/scalable,apps/symbolic,categories/16,categories/24,categories/32,categories/symbolic,devices/16,devices/24,devices/32,devices/scalable,devices/symbolic,emblems/16,emblems/symbolic,mimetypes/16,mimetypes/24,mimetypes/32,mimetypes/scalable,mimetypes/symbolic,places/16,places/24,places/32,places/scalable,places/symbolic,status/16,status/24,status/symbolic
 
 [actions/16]
-Context = Actions
-Size = 16
-Type = Fixed
+Context=Actions
+Size=16
+Type=Fixed
 
 [actions/22]
-Context = Actions
-Size = 22
-Type = Fixed
+Context=Actions
+Size=22
+Type=Fixed
 
 [actions/24]
-Context = Actions
-Size = 24
-Type = Fixed
+Context=Actions
+Size=24
+Type=Fixed
 
 [actions/32]
-Size = 32
-Context = Actions
-MinSize = 8
-MaxSize = 47
-Type = Scalable
+Size=32
+Context=Actions
+MinSize=8
+MaxSize=47
+Type=Scalable
 
 [actions/symbolic]
-Size = 16
-Context = Actions
-MinSize = 8
-MaxSize = 512
-Type = Scalable
+Size=16
+Context=Actions
+MinSize=8
+MaxSize=512
+Type=Scalable
 
 [animations/16]
-Size = 16
-Context = Animations
-MinSize = 8
-MaxSize = 23
-Type = Scalable
+Size=16
+Context=Animations
+MinSize=8
+MaxSize=23
+Type=Scalable
 
 [animations/24]
-Size = 24
-Context = Animations
-MinSize = 8
-MaxSize = 31
-Type = Scalable
+Size=24
+Context=Animations
+MinSize=8
+MaxSize=31
+Type=Scalable
 
 [apps/16]
-Context = Actions
-Size = 16
-Type = Fixed
+Context=Actions
+Size=16
+Type=Fixed
 
 [apps/24]
-Context = Actions
-Size = 24
-Type = Fixed
+Context=Actions
+Size=24
+Type=Fixed
 
 [apps/scalable]
-Context = Applications
-Size = 512
-MinSize = 1
-MaxSize = 512
-Type = Scalable
+Context=Applications
+Size=512
+MinSize=1
+MaxSize=512
+Type=Scalable
 
 [apps/symbolic]
-Context = Applications
-Size = 16
-MinSize = 1
-MaxSize = 512
-Type = Scalable
+Context=Applications
+Size=16
+MinSize=1
+MaxSize=512
+Type=Scalable
 
 [categories/16]
-Context = Categories
-Size = 16
-Type = Fixed
+Context=Categories
+Size=16
+Type=Fixed
 
 [categories/24]
-Context = Categories
-Size = 24
-Type = Fixed
+Context=Categories
+Size=24
+Type=Fixed
 
 [categories/32]
-Context = Categories
-Size = 32
-Type = Fixed
+Context=Categories
+Size=32
+Type=Fixed
 
 [categories/symbolic]
-Context = Categories
-Size = 16
-MinSize = 8
-MaxSize = 512
-Type = Scalable
+Context=Categories
+Size=16
+MinSize=8
+MaxSize=512
+Type=Scalable
 
 [devices/16]
-Context = Devices
-Size = 16
-Type = Fixed
+Context=Devices
+Size=16
+Type=Fixed
 
 [devices/24]
-Context = Devices
-Size = 24
-Type = Fixed
+Context=Devices
+Size=24
+Type=Fixed
 
 [devices/32]
-Context = Devices
-Size = 32
-Type = Fixed
+Context=Devices
+Size=32
+Type=Fixed
 
 [devices/scalable]
-Context = Devices
-Size = 512
-MinSize = 1
-MaxSize = 512
-Type = Scalable
+Context=Devices
+Size=512
+MinSize=1
+MaxSize=512
+Type=Scalable
 
 [devices/symbolic]
-Size = 16
-Context = Devices
-MinSize = 8
-MaxSize = 512
-Type = Scalable
+Size=16
+Context=Devices
+MinSize=8
+MaxSize=512
+Type=Scalable
 
 [emblems/16]
-Size = 16
-Context = Emblems
-Type = Fixed
+Size=16
+Context=Emblems
+Type=Fixed
 
 [emblems/symbolic]
-Size = 16
-Context = Emblems
-MinSize = 8
-MaxSize = 512
-Type = Scalable
+Size=16
+Context=Emblems
+MinSize=8
+MaxSize=512
+Type=Scalable
 
 [emotes/22]
-Size = 22
-Context = Emotes
-Type = Fixed
+Size=22
+Context=Emotes
+Type=Fixed
 
 [mimetypes/16]
-Size = 16
-Type = Fixed
+Size=16
+Type=Fixed
 
 [mimetypes/24]
-Size = 24
-Type = Fixed
+Size=24
+Type=Fixed
 
 [mimetypes/32]
-Size = 32
-Type = Fixed
+Size=32
+Type=Fixed
 
 [mimetypes/scalable]
-Context = Mimetypes
-Size = 512
-MinSize = 1
-MaxSize = 512
-Type = Scalable
+Context=Mimetypes
+Size=512
+MinSize=1
+MaxSize=512
+Type=Scalable
 
 [mimetypes/symbolic]
-Size = 16
-Context = MimeTypes
-MinSize = 8
-MaxSize = 512
-Type = Scalable
+Size=16
+Context=MimeTypes
+MinSize=8
+MaxSize=512
+Type=Scalable
 
 [places/16]
-Context = Places
-Size = 16
-Type = Fixed
+Context=Places
+Size=16
+Type=Fixed
 
 [places/24]
-Context = Places
-Size = 24
-Type = Fixed
+Context=Places
+Size=24
+Type=Fixed
 
 [places/32]
-Context = Places
-Size = 32
-Type = Fixed
+Context=Places
+Size=32
+Type=Fixed
 
 [places/scalable]
-Context = Places
-Size = 512
-MinSize = 1
-MaxSize = 512
-Type = Scalable
+Context=Places
+Size=512
+MinSize=1
+MaxSize=512
+Type=Scalable
 
 [places/symbolic]
-Size = 16
-Context = Places
-MinSize = 8
-MaxSize = 512
-Type = Scalable
+Size=16
+Context=Places
+MinSize=8
+MaxSize=512
+Type=Scalable
 
 [status/16]
-Size = 16
-Context = Status
-MinSize = 8
-MaxSize = 23
-Type = Scalable
+Size=16
+Context=Status
+MinSize=8
+MaxSize=23
+Type=Scalable
 
 [status/24]
-Size = 24
-Context = Status
-MinSize = 8
-MaxSize = 31
-Type = Scalable
+Size=24
+Context=Status
+MinSize=8
+MaxSize=31
+Type=Scalable
 
 [status/symbolic]
-Size = 16
-Context = Status
-MinSize = 8
-MaxSize = 512
-Type = Scalable
+Size=16
+Context=Status
+MinSize=8
+MaxSize=512
+Type=Scalable
+
+[X-GNOME-Metatheme]
+GtkTheme=
+MetacityTheme=
+IconTheme=Suru++ Dark
+IconTheme[af]=Suru++ Nag
+IconTheme[ca]=Suru++ Fosc
+IconTheme[cs]=Suru++ Noc
+IconTheme[da]=Suru++ Nat
+IconTheme[de]=Suru ++ Dunkel
+IconTheme[el]=Suru++ Μαυριδερή
+IconTheme[es]=Suru++ Nocturno
+IconTheme[eo]=Suru++ Nokta
+IconTheme[et]=Öösuru++ 
+IconTheme[fi]=Yösuru++
+IconTheme[fr]=Suru++ Noire
+IconTheme[fy]=Suru++ Nacht
+IconTheme[ga]=Suru++ Oíche
+IconTheme[gl]=Suru++ Noite
+IconTheme[hr]=Suru++ Noć
+IconTheme[is]=Suru++ Nótt
+IconTheme[it]=Suru++ Scuro
+IconTheme[ka]=Suru++ ბნელი
+IconTheme[ja]=Suru++ 黒
+IconTheme[lb]=Nuechtsuru++
+IconTheme[lt]=Suru++ Naktis
+IconTheme[lv]=Suru++ Nakts
+IconTheme[mi]=Suru++ Parauri
+IconTheme[mk]=Suru++ Ноќ
+IconTheme[mn]=Suru++ Шөнө
+IconTheme[mt]=Suru++ Diam
+IconTheme[nl]=Suru++ Nacht
+IconTheme[no]=Suru++ Natt
+IconTheme[pl]=Suru++ Noc
+IconTheme[pt_BR]=Suru++ Escuro
+IconTheme[pt_PT]=Suru++ Nocturno
+IconTheme[ro]=Suru++ Beznă 
+IconTheme[ru]=Suru++ Темно Lubutnu
+IconTheme[sk]=Suru++ Nočné
+IconTheme[sl]=Suru++ Noč
+IconTheme[sq]=Suru++ Mbrëmje
+IconTheme[sr]=Suru++ Тамно
+IconTheme[sr@latin]=Suru++ Tamano
+IconTheme[sv]=Suru++ Natt
+IconTheme[tr]=Suru++ Akşam
+IconTheme[uk]=Suru++ Ніч
+IconTheme[vi]=Suru++ đêm
+IconTheme[zh_CN]=Suru++ 晚
+IconTheme[zh_TW]=Suru++ 晚
+
+ApplicationFont=fonts/overpass/
+BackgroundImage=
+DesktopFont=fonts/overpass/
+GtkColorScheme =
+MonospaceFont=fonts/overpass-mono/
+SoundTheme =
 
