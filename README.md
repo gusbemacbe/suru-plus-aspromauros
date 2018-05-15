@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="Title.png" alt="Title">
+  <img src="Title.png" alt="Title" height="256px" width="256px">
 </p>
 
 <h3>Suru++ Dark</h3>
