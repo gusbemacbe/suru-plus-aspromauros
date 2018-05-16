@@ -28,7 +28,7 @@ echo "Suru" >> .git/info/sparse-checkout
 git pull origin master
 # Download then two icon packs...
 git clone https://github.com/Magog64/SURU-PLUS.git
-git clone https://github.com/Magog64/SURU-PLUS-DARK.git
+git clone https://github.com/gusbemacbe/SURU-PLUS-DARK.git
 # To update the next latest changes
 git pull origin master 
 ```
@@ -42,8 +42,8 @@ mkdir ~/.icons
 svn export https://github.com/snwh/suru-icon-theme/trunk/Suru/ ~/.icons/Suru
 # Download quickly like a Millennium Falcon
 svn export https://github.com/Magog64/SURU-PLUS/trunk/ ~/.icons/Suru++
-svn export https://github.com/Magog64/SURU-PLUS-DARK/trunk/ ~/.icons/Suru++\ Dark
+svn export https://github.com/gusbemacbe/SURU-PLUS-DARK/trunk/ ~/.icons/Suru++\ Dark
 # To update the next latest changes and to overwrite
 svn export --force https://github.com/Magog64/SURU-PLUS/trunk/ ~/.icons/Suru++
-svn export --force https://github.com/Magog64/SURU-PLUS/trunk/ ~/.icons/Suru++\ Dark
+svn export --force https://github.com/gusbemacbe/SURU-PLUS-DARK/trunk/ ~/.icons/Suru++\ Dark
 ```
