@@ -1,3 +1,7 @@
+# v11.1
+
+* I have removed and moved the Suru++ Dark Lubuntu to a new repository, designed for Lubuntu users.
+
 # v10
 
 * We have created an alias of `apps/scalable` of Suru++ folder for Suru++ Dark and of Suru++ Dark for Suru++ Dark Lubuntu folder.
