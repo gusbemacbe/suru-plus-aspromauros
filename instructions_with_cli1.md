@@ -31,6 +31,9 @@ git clone https://github.com/Magog64/SURU-PLUS.git
 git clone https://github.com/gusbemacbe/SURU-PLUS-DARK.git
 # To update the next latest changes
 git pull origin master 
+# You need to rename the folders
+mv SURU-PLUS Suru++
+mv SURU-PLUS-DARK 'Suru++ Dark'
 ```
 
 ### SVN
