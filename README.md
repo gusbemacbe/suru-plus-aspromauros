@@ -14,7 +14,7 @@
 
 ### For Lubuntu users
 
-If you want the 24px and 26px icons to be colourful in the panel, the folder Suru++ Lubuntu is included in this repository. You must move this outside of folder Suru++ and apply "Suru++ Lubuntu".
+If you want the 24px and 26px icons to be colourful in the panel, the folder Suru++ Dark Lubuntu is included in this repository. You must move this outside of folder Suru++ Dark and apply "Suru++ Dark Lubuntu".
 
 ### Installation without CLI
 

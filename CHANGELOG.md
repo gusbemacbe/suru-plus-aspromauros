@@ -1,3 +1,7 @@
+# v10
+
+* We have created an alias of `apps/scalable` of Suru++ folder for Suru++ Dark and of Suru++ Dark for Suru++ Dark Lubuntu folder.
+
 # v9 
 
 * Starting a new dark icon pack theme
