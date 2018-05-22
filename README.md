@@ -49,7 +49,7 @@ We have already reported these issues:
 * IBus: [view the issue](https://github.com/phuang/ibus-pinyin/issues/13)
 * Mozc Setup: [view the issue](https://github.com/google/mozc/issues/440)
 
-We provide desktop files (AppImage, native Debian packages, snap app and source codes) for you for being able of opening the apps and displaying well the icons. They are in the folder `desktop`. Copy them to `your_name/local/applications/`, so they won't be affected or modified when you make next updates of Ubuntu and/or PPAs.
+We provide desktop files (AppImage, native Debian packages, snap app and source codes) for you for being able of opening the apps and displaying well the icons. You can download them from  <a href="https://github.com/Magog64/SURU-PLUS/tree/master/desktop">Suru++</a>. Copy them to `your_name/local/applications/`, so they won't be affected or modified when you make next updates of Ubuntu and/or PPAs.
 
 We recommend you to back your files up when you intend to make a clean install or reinstall your distribution.
 
