@@ -30,7 +30,7 @@ mv SURU-PLUS Suru++
 mv SURU-PLUS-DARK 'Suru++ Dark'
 ```
 
-You do not need to download and install Sam Hewitt's Suru Icon, because it already comes installed under Ubuntu 18.04 and above
+### SVN
 
 ```shell
 # If the folder icons doesn't exist
