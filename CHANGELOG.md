@@ -1,3 +1,8 @@
+# v11.2
+
+* We have added missed icons as cpu-freq and nm-applet as @denikris has suggested us.
+* I have fixed a lot of orthography, SVN path and made some small updates.
+
 # v11.1
 
 * I have removed and moved the Suru++ Dark Lubuntu to a new repository, designed for Lubuntu users.
