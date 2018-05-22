@@ -1,3 +1,9 @@
+---
+name: Missed icon
+about: This issue template is designed for ONE missed icon report.
+
+---
+
 <!-- Hello, user! -->
 
 <!-- ✋ PLEASE READ ATTENTIVELY! -->
@@ -8,7 +14,7 @@
 
 * **Distribution and version:**
 * **Distribution environment:**
-  - [ ] Cinnamon
+  - [ ] Cinammon
   - [ ] Gnome
   - [ ] KDE
   - [ ] LXDE
@@ -33,3 +39,5 @@
 
 * **Additional information:**
 <!-- for example, "these icons are not colourful in this panel and their icon size is 32px" -->
+
+
