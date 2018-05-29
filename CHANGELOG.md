@@ -1,3 +1,9 @@
+# v12
+
+* Biggest updates
+  * I purged the dead symlinks and symlinks and replaced for the original icons of Suru++.
+  * Oversimplified instructions and added official and released PPA
+
 # v11.2
 
 * We have added missed icons as cpu-freq and nm-applet as @denikris has suggested us.
