@@ -14,7 +14,7 @@ We replace Git for SVN and recommend strongly SVN, which is quicker like a Mille
 # If the folder icons doesn't exist
 mkdir ~/.icons
 # Download quickly like a Millennium Falcon
-svn export https://github.com/gusbemacbe/SURU-PLUS-DARK/trunk/ ~/.icons/Suru++\ Dark
+svn export https://github.com/gusbemacbe/suru-plus-dark/trunk/ ~/.icons/Suru++\ Dark
 # To update the next latest changes and to overwrite
-svn export --force https://github.com/gusbemacbe/SURU-PLUS-DARK/trunk/ ~/.icons/Suru++\ Dark
+svn export --force https://github.com/gusbemacbe/suru-plus-dark/trunk/ ~/.icons/Suru++\ Dark
 ```
