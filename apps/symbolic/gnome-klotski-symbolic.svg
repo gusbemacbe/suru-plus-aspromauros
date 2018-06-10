@@ -22,7 +22,7 @@
        id="linearGradient4751-5-4-1-2-9-1-2-3-365-589-154-4-7-64-3-8-6-5-3-8">
       <stop
          id="stop9737-3-0-8-1-8-3-3-0-4"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#F7F7F7;stop-opacity:1"
          offset="0" />
       <stop
          id="stop9739-4-8-0-7-48-9-7-7-4"
@@ -33,19 +33,19 @@
        id="linearGradient3924-1">
       <stop
          id="stop3926-3"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#F7F7F7;stop-opacity:1"
          offset="0" />
       <stop
          id="stop3928-91"
-         style="stop-color:#ffffff;stop-opacity:0.23529412"
+         style="stop-color:#F7F7F7;stop-opacity:0.23529412"
          offset="0.06316455" />
       <stop
          id="stop3930-6"
-         style="stop-color:#ffffff;stop-opacity:0.15686275"
+         style="stop-color:#F7F7F7;stop-opacity:0.15686275"
          offset="0.95056331" />
       <stop
          id="stop3932-6"
-         style="stop-color:#ffffff;stop-opacity:0.39215687"
+         style="stop-color:#F7F7F7;stop-opacity:0.39215687"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -130,8 +130,8 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
@@ -170,9 +170,9 @@
       <g
          id="g2485"
          transform="matrix(0.35433071,0,0,0.35433071,-3.9282038,-53.320708)"
-         style="fill:#808080;fill-opacity:1">
+         style="fill:#F7F7F7;fill-opacity:1">
         <rect
-           style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50396824"
+           style="fill:#F7F7F7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50396824"
            id="rect2918"
            y="261.96066"
            x="12.49734"
@@ -181,7 +181,7 @@
            height="21.166668"
            width="21.166668" />
         <rect
-           style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50396824"
+           style="fill:#F7F7F7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50396824"
            id="rect2920"
            y="240.79399"
            x="33.664005"
@@ -190,7 +190,7 @@
            height="21.166668"
            width="21.166668" />
         <rect
-           style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50396824"
+           style="fill:#F7F7F7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50396824"
            id="rect2922"
            y="245.83366"
            x="17.537022"
@@ -199,7 +199,7 @@
            height="12.095239"
            width="12.095239" />
         <rect
-           style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50396824"
+           style="fill:#F7F7F7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.50396824"
            id="rect2924"
            y="265.99237"
            x="37.695759"

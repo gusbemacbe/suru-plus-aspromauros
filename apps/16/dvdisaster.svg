@@ -38,17 +38,17 @@
          d="m 118.625,209.5 c 2.58333,-0.38773 5.16667,-0.51062 7.75,0.75 0,0 0.28209,5.48132 -1.625,5.625 -2.37827,0.17918 -6.125,-6.375 -6.125,-6.375 z"
          inkscape:connector-curvature="0"
          id="path11532"
-         style="fill:none;stroke:#000000;stroke-width:0.0875215;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible" />
+         style="fill:none;stroke:#F7F7F7;stroke-width:0.0875215;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;marker:none;visibility:visible;display:inline;overflow:visible" />
     </clipPath>
     <linearGradient
        id="linearGradient11579">
       <stop
          id="stop11581"
-         style="stop-color:#000000;stop-opacity:1"
+         style="stop-color:#F7F7F7;stop-opacity:1"
          offset="0" />
       <stop
          id="stop11583"
-         style="stop-color:#000000;stop-opacity:0"
+         style="stop-color:#F7F7F7;stop-opacity:0"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -66,11 +66,11 @@
        id="linearGradient6537">
       <stop
          id="stop6539"
-         style="stop-color:#000000;stop-opacity:1"
+         style="stop-color:#F7F7F7;stop-opacity:1"
          offset="0" />
       <stop
          id="stop6541"
-         style="stop-color:#000000;stop-opacity:0"
+         style="stop-color:#F7F7F7;stop-opacity:0"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -81,7 +81,7 @@
          offset="0" />
       <stop
          id="stop6812"
-         style="stop-color:#000000;stop-opacity:1"
+         style="stop-color:#F7F7F7;stop-opacity:1"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -118,7 +118,7 @@
          offset="0" />
       <stop
          id="stop6824"
-         style="stop-color:#000000;stop-opacity:1"
+         style="stop-color:#F7F7F7;stop-opacity:1"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -162,7 +162,7 @@
          offset="0" />
       <stop
          id="stop12481"
-         style="stop-color:#000000;stop-opacity:1"
+         style="stop-color:#F7F7F7;stop-opacity:1"
          offset="1" />
     </linearGradient>
     <filter
@@ -182,7 +182,7 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#F7F7F7666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
@@ -265,12 +265,12 @@
       <g
          transform="matrix(0.13262274,0,0,0.13163119,23.31342,21.781438)"
          id="g1554"
-         style="fill:#808080;fill-opacity:1">
+         style="fill:#F7F7F7;fill-opacity:1">
         <path
            inkscape:connector-curvature="0"
            d="m 184.87544,-10.354192 c 55.2,0 100,44.8 100,100.000002 0,55.2 -44.8,100 -100,100 -55.2,0 -100,44.8 -100,100 0,55.2 44.8,100 100,100 110.4,0 200,-89.6 200,-200 0,-110.4 -89.6,-200.000002 -200,-200.000002 z m 0,268.750002 c 17.25,0 31.25,14 31.25,31.25 0,17.25 -14,31.25 -31.25,31.25 -17.25,0 -31.25,-14 -31.25,-31.25 0,-17.25 14,-31.25 31.25,-31.25 z"
            id="use1550"
-           style="fill:#808080;fill-opacity:1;stroke-width:0.5" />
+           style="fill:#F7F7F7;fill-opacity:1;stroke-width:0.5" />
       </g>
       <g
          id="g1560"

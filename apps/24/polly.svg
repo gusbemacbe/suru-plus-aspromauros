@@ -28,8 +28,8 @@
   <defs
      id="defs10" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -48,13 +48,13 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="g4" />
   <g
-     color="#bebebe"
+     color="#F7F7F7"
      transform="translate(-1088 -74)"
      id="g4">
     <path
        d="m 1096,74 c -4.412,0 -8,3.588 -8,8 0,4.412 3.588,8 8,8 4.412,0 8,-3.588 8,-8 0,-4.412 -3.588,-8 -8,-8 z m 0,1 c 3.872,0 7,3.128 7,7 0,3.872 -3.128,7 -7,7 -3.872,0 -7,-3.128 -7,-7 0,-3.872 3.128,-7 7,-7 z m 2.022,3.496 c -6.6813,7.669333 -3.3407,3.834667 0,0 z m -3.0983,5.368407 1.0848,2.694915 1.339,-2.627119 z"
        overflow="visible"
-       style="overflow:visible;fill:#666666;marker:none"
+       style="overflow:visible;fill:#F7F7F7;marker:none"
        id="path2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssssssssscccccc" />
@@ -66,9 +66,9 @@
          cy="80.364403"
          cx="1093.3644"
          id="path822"
-         style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:9.52991199;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+         style="opacity:1;fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:9.52991199;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <circle
-         style="opacity:1;fill:#666666;fill-opacity:1;stroke:none;stroke-width:9.52991199;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="opacity:1;fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:9.52991199;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          id="circle824"
          cx="1099.3644"
          cy="80.364403"

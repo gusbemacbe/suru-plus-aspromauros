@@ -15,8 +15,8 @@
    sodipodi:docname="fontforge-SYMBOLIC.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -54,7 +54,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient4526"
@@ -62,7 +62,7 @@
       <stop
          id="stop4528"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <g
@@ -81,13 +81,13 @@
      id="layer1"
      transform="translate(-371.99997,-179.99994)" />
   <g
-     style="clip-rule:evenodd;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
+     style="clip-rule:evenodd;fill:#F7F7F7;fill-opacity:1;fill-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:1.41420996"
      transform="matrix(0.00809061,0,0,-0.00809061,3.1213576,11.64887)"
      id="g978">
     <path
        inkscape:connector-curvature="0"
        d="m 822,1290 c 96,0 184,-32 228,-87 108,109 209,139 296,139 140,0 184,-89 184,-148 0,-74 -47,-126 -118,-126 -77,0 -39,176 -148,176 -89,0 -163,-235 -200,-440 h 192 c 22,0 26,-16 26,-33 0,-46 -21,-85 -59,-85 h -189 c 0,0 -86.882,-411.191 -151,-668 -86.299,-345.65 -351,-442 -517,-442 -79,0 -163,28 -219,86 -75,-77 -189,-138 -311,-138 -60,0 -160,40 -160,116 0,43 43,108 89,108 81,0 91,-88 182,-88 44,0 74.498,12.138 111,144 80,289 201,882 201,882 H 116 c -23,0 -26,14 -26,29 0,40 15,89 66,89 h 133 c 73,251 235,486 533,486 z M 744,1190 C 603,1190 539,956 508,804 h 334 c 24,92 64,186 107,263 -48,76 -131,123 -205,123 z M 444,-302 c 78,0 140,26 178,162 90,324 190,826 190,826 H 482 C 434.075,464.729 381.246,226.205 334.818,47 303.225,-74.948 276.704,-143.428 249,-201 c 57,-67 131,-101 195,-101 z"
-       style="fill:#808080;fill-opacity:1;fill-rule:nonzero"
+       style="fill:#F7F7F7;fill-opacity:1;fill-rule:nonzero"
        id="path976-3" />
   </g>
 </svg>

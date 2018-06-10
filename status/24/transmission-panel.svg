@@ -29,8 +29,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -63,7 +63,7 @@
        id="linearGradient3587-6-5-9">
       <stop
          id="stop3589-9-2-0"
-         style="stop-color:#000000;stop-opacity:1"
+         style="stop-color:#F7F7F7;stop-opacity:1"
          offset="0" />
       <stop
          id="stop3591-7-4-6"
@@ -73,7 +73,7 @@
     <linearGradient
        id="linearGradient3678">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#F7F7F7;stop-opacity:1;"
          offset="0"
          id="stop3680" />
       <stop
@@ -92,7 +92,7 @@
        x1="159.68553" />
   </defs>
   <path
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.20000005;marker:none;enable-background:accumulate"
+     style="color:#F7F7F7;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#F7F7F7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.20000005;marker:none;enable-background:accumulate"
      id="path3712"
      d="m 7.1750001,4 c -0.6648001,0 -1.2,0.5352 -1.2,1.2 0,0.6648 0.5351999,1.2 1.2,1.2 H 10.8125 l -0.075,4.8 H 5.7500001 L 3.5,20.8 V 22 h 16.875 v -1.125 l -2.1,-9.675 h -5.1 v 3.6 h 2.4 L 12.012501,18.475 8.3750001,14.8 H 10.7375 l 0.075,-3.6 H 13.175 V 6.4 h 3.6 c 0.6648,0 1.200001,-0.5352 1.200001,-1.2 C 17.975001,4.5352 17.4398,4 16.775,4 Z"
      inkscape:connector-curvature="0" />

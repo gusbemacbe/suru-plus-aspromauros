@@ -20,8 +20,8 @@
      id="defs1531" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
@@ -63,13 +63,13 @@
          inkscape:connector-curvature="0"
          id="path1459"
          d="m -36.323192,1868.2136 v 128.5117 l 77.22273,-68.0352 z"
-         style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+         style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#F7F7F7;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
       <path
          sodipodi:nodetypes="cccccccc"
          inkscape:connector-curvature="0"
          id="path1461"
          d="m 22.798618,1913.1087 41.14176,-41.6287 21.6179,0.2327 v 120 h -40.90908 v -25 l -21.15256,21.8614 -23.7443104,-23.5344"
-         style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#808080;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
+         style="clip-rule:evenodd;fill:none;fill-rule:evenodd;stroke:#F7F7F7;stroke-width:6;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision" />
     </g>
   </g>
 </svg>

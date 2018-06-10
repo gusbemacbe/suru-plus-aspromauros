@@ -42,7 +42,7 @@
      inkscape:pageshadow="2"
      inkscape:guide-bbox="true"
      inkscape:snap-nodes="false"
-     bordercolor="#666666"
+     bordercolor="#F7F7F7"
      objecttolerance="10"
      id="namedview88"
      showgrid="false"
@@ -86,7 +86,7 @@
        id="rect4906-43-6"
        rx="0.34707889"
        ry="0.33926731"
-       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new;opacity:1"
+       style="color:#F7F7F7;display:inline;overflow:visible;visibility:visible;fill:#F7F7F7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new;opacity:1"
        width="2.0826192"
        x="103.43639"
        y="284.35709" />
@@ -95,7 +95,7 @@
        id="rect4906-4-6-6"
        rx="0.34694117"
        ry="0.33926731"
-       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new;opacity:1"
+       style="color:#F7F7F7;display:inline;overflow:visible;visibility:visible;fill:#F7F7F7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new;opacity:1"
        width="2.0823414"
        x="112.46062"
        y="284.35709" />
@@ -104,7 +104,7 @@
        id="rect8386"
        rx="0.34319478"
        ry="0.34319592"
-       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new;opacity:1"
+       style="color:#F7F7F7;display:inline;overflow:visible;visibility:visible;fill:#F7F7F7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new;opacity:1"
        transform="matrix(0.71510951,-0.69901244,0.71510951,0.69901244,0,0)"
        width="2.0593128"
        x="-133.17076"
@@ -114,7 +114,7 @@
        id="rect8388"
        rx="0.34305865"
        ry="0.34319592"
-       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new;opacity:1"
+       style="color:#F7F7F7;display:inline;overflow:visible;visibility:visible;fill:#F7F7F7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new;opacity:1"
        transform="matrix(0.71510951,-0.69901244,0.71510951,0.69901244,0,0)"
        width="2.0590382"
        x="-124.24753"
@@ -124,7 +124,7 @@
        id="rect8390"
        rx="0.33926618"
        ry="0.34708008"
-       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new;opacity:1"
+       style="color:#F7F7F7;display:inline;overflow:visible;visibility:visible;fill:#F7F7F7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new;opacity:1"
        transform="matrix(0,-1,1,0,0,0)"
        width="2.0357397"
        x="-290.4639"
@@ -134,7 +134,7 @@
        id="rect8392"
        rx="0.33913162"
        ry="0.34708008"
-       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new;opacity:1"
+       style="color:#F7F7F7;display:inline;overflow:visible;visibility:visible;fill:#F7F7F7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new;opacity:1"
        transform="matrix(0,-1,1,0,0,0)"
        width="2.0354681"
        x="-281.64285"
@@ -144,7 +144,7 @@
        id="rect8394"
        rx="0.34319478"
        ry="0.34319592"
-       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new;opacity:1"
+       style="color:#F7F7F7;display:inline;overflow:visible;visibility:visible;fill:#F7F7F7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new;opacity:1"
        transform="matrix(-0.71510951,-0.69901244,0.71510951,-0.69901244,0,0)"
        width="2.0593128"
        x="-285.58051"
@@ -154,7 +154,7 @@
        id="rect8396"
        rx="0.34305865"
        ry="0.34319592"
-       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new;opacity:1"
+       style="color:#F7F7F7;display:inline;overflow:visible;visibility:visible;fill:#F7F7F7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:new;opacity:1"
        transform="matrix(-0.71510951,-0.69901244,0.71510951,-0.69901244,0,0)"
        width="2.0590382"
        x="-276.65729"
@@ -164,12 +164,12 @@
        d="m 107.42521,282.69964 0,4.68792 0.42057,0 0.0437,0 c 0.0811,4.5e-4 0.16137,-0.0176 0.23205,-0.0586 l 3.24866,-1.87517 c 0.14419,-0.0807 0.21756,-0.24538 0.21756,-0.41019 0,-0.1648 -0.0734,-0.3296 -0.21756,-0.41021 l -3.24866,-1.87517 c -0.0706,-0.0404 -0.1509,-0.0591 -0.23205,-0.0586 l -0.0437,0 z"
        id="path3807-1-1-9-38-4"
        sodipodi:nodetypes="ccccccsccccc"
-       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate;opacity:1" />
+       style="color:#F7F7F7;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Bitstream Vera Sans';-inkscape-font-specification:'Bitstream Vera Sans';text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#F7F7F7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate;opacity:1" />
     <path
        inkscape:connector-curvature="0"
        d="m 109,277 c -4.40886,0 -8,3.59113 -8,8 0,4.40881 3.59114,8 8,8 4.40881,0 8,-3.59119 8,-8 0,-4.40887 -3.59119,-8 -8,-8 z m 0,1.14286 c 3.79121,0 6.85714,3.06587 6.85714,6.85714 0,3.79121 -3.06593,6.85714 -6.85714,6.85714 -3.79126,0 -6.85714,-3.06593 -6.85714,-6.85714 0,-3.79127 3.06588,-6.85714 6.85714,-6.85714 z"
        id="path8781"
-       style="color:#bebebe;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:Sans;text-indent:0pt;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.99817187;marker:none;enable-background:accumulate;opacity:1" />
+       style="color:#F7F7F7;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:'Andale Mono';-inkscape-font-specification:Sans;text-indent:0pt;text-align:start;text-decoration:none;text-decoration-line:none;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;baseline-shift:baseline;text-anchor:start;display:inline;overflow:visible;visibility:visible;fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:0.99817187;marker:none;enable-background:accumulate;opacity:1" />
   </g>
   <g
      inkscape:label="devices"

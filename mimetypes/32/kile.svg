@@ -15,8 +15,8 @@
    sodipodi:docname="kipi-panorama-symbolic.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -54,7 +54,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient4526"
@@ -62,7 +62,7 @@
       <stop
          id="stop4528"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient3600-4"
@@ -120,7 +120,7 @@
      transform="translate(-332,-180)" />
   <path
      inkscape:connector-curvature="0"
-     style="opacity:0.83200001;fill:#808080;fill-opacity:1;stroke-width:0.94009554"
+     style="opacity:0.83200001;fill:#F7F7F7;fill-opacity:1;stroke-width:0.94009554"
      d="m 15.498922,1.7787839 -7.520765,0.0034 -4.17496,7.230274 -1.46185,-2.533568 -1.840709,0.09146 v 0.940082 h 1.342454 l 2.005228,3.4717991 0.499189,-1.02943 4.176847,-7.2340161 6.975507,0.0034 z m -4.700477,2.820283 c -1.5624384,0 -2.820288,1.257827 -2.820288,2.820284 0,1.562418 1.2578496,2.8202831 2.820288,2.8202831 0.726693,0 1.381002,-0.280063 1.88019,-0.7286171 v 0.7286171 h 0.940097 V 4.5990669 h -0.940097 v 0.728542 c -0.499188,-0.448441 -1.153497,-0.728542 -1.88019,-0.728542 m 0,0.940082 c 1.041626,0 1.88019,0.838564 1.88019,1.880202 0,1.0416 -0.838564,1.880163 -1.88019,1.880163 -1.0416271,0 -1.880191,-0.838563 -1.880191,-1.880163 0,-1.041638 0.8385639,-1.880202 1.880191,-1.880202 M 0.5091,11.261505 c -0.0057,0 -0.0091,0.209764 -0.0091,0.470022 0,0.26041 0.0038,0.47006 0.0091,0.47006 l 14.980423,-0.09146 c 0.0057,0 0.0094,-0.209763 0.0094,-0.47006 0,-0.260409 -0.0038,-0.470059 -0.0094,-0.470059 z m 5.588867,1.798413 V 14 h 3.7603841 v -0.940082 z"
      id="path32" />
 </svg>

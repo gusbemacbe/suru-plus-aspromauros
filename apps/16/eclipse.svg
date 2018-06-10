@@ -69,7 +69,7 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#F7F7F7666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
@@ -110,7 +110,7 @@
      id="layer1"
      transform="translate(-292,-398.64789)">
     <path
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25064874;stroke-opacity:1;marker:none;enable-background:accumulate"
+       style="color:#F7F7F7;display:inline;overflow:visible;visibility:visible;fill:#F7F7F7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.25064874;stroke-opacity:1;marker:none;enable-background:accumulate"
        d="M 8 0.5 A 7.5 7.5 0 0 0 1.0625 5.1601562 L 6.0410156 6.0136719 L 5.8730469 7 L 0.75 6.1210938 A 7.5 7.5 0 0 0 0.5234375 7.5 L 6 7.5 L 6 8.5 L 0.52539062 8.5 A 7.5 7.5 0 0 0 0.75195312 9.8769531 L 5.8730469 9 L 6.0410156 9.9863281 L 1.0742188 10.837891 A 7.5 7.5 0 0 0 8 15.5 A 7.5 7.5 0 0 0 15.5 8 A 7.5 7.5 0 0 0 8 0.5 z "
        transform="translate(292,398.64789)"
        id="path5132" />

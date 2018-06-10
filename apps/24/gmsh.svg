@@ -51,8 +51,8 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
@@ -92,7 +92,7 @@
     <g
        id="g2254"
        transform="matrix(0.01763889,0,0,0.01763889,-0.08819458,292.63115)"
-       style="fill:#808080;fill-opacity:1">
+       style="fill:#F7F7F7;fill-opacity:1">
       <path
          inkscape:connector-curvature="0"
          id="path1466"
@@ -105,7 +105,7 @@
          d="M 125,20.636364 20,223 125,195.31818 Z"
          style="fill:#a7a7a7;fill-opacity:1;stroke:none;stroke-width:0.95454544px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
-         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.95454544px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:0.95454544px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="M 125,20.636364 230,223 125,195.31818 Z"
          id="path1464"
          inkscape:connector-curvature="0"

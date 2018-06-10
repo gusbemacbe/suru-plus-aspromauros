@@ -51,8 +51,8 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
@@ -91,22 +91,22 @@
      transform="translate(0,-292.76665)">
     <g
        id="g10"
-       style="clip-rule:evenodd;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+       style="clip-rule:evenodd;fill:#F7F7F7;fill-opacity:1;fill-rule:evenodd;stroke:none;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
        transform="matrix(0.01431679,0,0,0.01431679,-1.551081,291.67915)">
       <path
          inkscape:connector-curvature="0"
          id="p"
-         style="fill:#808080;fill-opacity:1;stroke:none"
+         style="fill:#F7F7F7;fill-opacity:1;stroke:none"
          d="m 370.396,202.698 h -51.851 l -22.421,113.51 h 26.627 l 5.606,-29.428 h 25.224 c 23.824,1.402 50.449,-18.218 50.449,-51.851 -10e-4,-19.615 -11.212,-30.828 -33.634,-32.231 z m -19.62,63.065 H 333.96 l 7.008,-42.042 h 18.218 c 9.811,0 16.816,4.205 16.816,12.614 -1.402,23.822 -12.612,28.026 -25.226,29.428 z" />
       <path
          inkscape:connector-curvature="0"
          id="h_1_"
-         style="fill:#808080;fill-opacity:1;stroke:none"
+         style="fill:#F7F7F7;fill-opacity:1;stroke:none"
          d="m 207.836,286.782 22.421,-113.51 h 26.627 l -5.606,29.428 h 25.224 c 22.421,1.402 30.83,12.614 28.027,26.627 l -9.811,57.455 h -28.027 l 9.811,-51.851 c 1.402,-7.008 1.402,-11.21 -8.407,-11.21 h -21.021 l -12.614,63.061 z" />
       <path
          inkscape:connector-curvature="0"
          id="p_1_"
-         style="fill:#808080;fill-opacity:1;stroke:none"
+         style="fill:#F7F7F7;fill-opacity:1;stroke:none"
          d="m 182.612,202.698 h -51.851 l -22.421,113.51 h 26.627 l 5.606,-29.428 h 25.224 c 23.824,1.402 50.449,-18.218 50.449,-51.851 0.001,-19.615 -11.213,-30.828 -33.634,-32.231 z m -19.619,63.065 h -16.816 l 7.008,-42.042 h 18.218 c 9.811,0 16.816,4.205 16.816,12.614 -1.402,23.822 -12.612,28.026 -25.226,29.428 z" />
     </g>
   </g>

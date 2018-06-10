@@ -11,7 +11,7 @@
   </metadata>
   <defs id='defs7386'>
     <linearGradient id='linearGradient5606' osb:paint='solid'>
-      <stop id='stop5608' offset='0' style='stop-color:#000000;stop-opacity:1;'/>
+      <stop id='stop5608' offset='0' style='stop-color:#F7F7F7;stop-opacity:1;'/>
     </linearGradient>
     <linearGradient id='linearGradient4526' osb:paint='solid'>
       <stop id='stop4528' offset='0' style='stop-color:#ffffff;stop-opacity:1;'/>
@@ -26,9 +26,9 @@
   <g id='layer4' transform='translate(-332,-180)'/>
   <g id='g1812' style='display:inline' transform='translate(-332,-180)'>
     
-    <path d='m 343.5,183 c -0.82843,0 -1.5,0.67157 -1.5,1.5 0,0.82843 0.67157,1.5 1.5,1.5 0.82843,0 1.5,-0.67157 1.5,-1.5 0,-0.82843 -0.67157,-1.5 -1.5,-1.5 z' id='path7661' style='color:#000000;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.99881363;marker:none;enable-background:accumulate'/>
-    <path d='m 333,181 v 14 h 14 v -14 z m 1,1 h 12 v 10 h -12 z' id='path7663' style='color:#000000;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.99920893;marker:none;enable-background:accumulate'/>
-    <path d='m 338,185.5 -3,5.5 H 337.71817 343 l -2.5,-4.5 -1,1.5 z' id='path7665' style='color:#000000;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.99881363;marker:none;enable-background:accumulate'/>
+    <path d='m 343.5,183 c -0.82843,0 -1.5,0.67157 -1.5,1.5 0,0.82843 0.67157,1.5 1.5,1.5 0.82843,0 1.5,-0.67157 1.5,-1.5 0,-0.82843 -0.67157,-1.5 -1.5,-1.5 z' id='path7661' style='color:#F7F7F7;display:inline;overflow:visible;visibility:visible;fill:#F7F7F7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.99881363;marker:none;enable-background:accumulate'/>
+    <path d='m 333,181 v 14 h 14 v -14 z m 1,1 h 12 v 10 h -12 z' id='path7663' style='color:#F7F7F7;display:inline;overflow:visible;visibility:visible;fill:#F7F7F7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.99920893;marker:none;enable-background:accumulate'/>
+    <path d='m 338,185.5 -3,5.5 H 337.71817 343 l -2.5,-4.5 -1,1.5 z' id='path7665' style='color:#F7F7F7;display:inline;overflow:visible;visibility:visible;fill:#F7F7F7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.99881363;marker:none;enable-background:accumulate'/>
   </g>
   <g id='g6217' transform='translate(-332,-180)'/>
   <g id='layer3' style='display:inline' transform='translate(-332,-180)'/>

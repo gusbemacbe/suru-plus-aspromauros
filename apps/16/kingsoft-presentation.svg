@@ -50,8 +50,8 @@
     </linearGradient>
   </defs>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -73,7 +73,7 @@
      id="g984"
      transform="matrix(0.37795275,0,0,0.37795275,-5.0127712,-92.002081)">
     <path
-       style="fill:#8c8c8c;fill-opacity:1;stroke-width:0.76322132"
+       style="fill:#F7F7F7;fill-opacity:1;stroke-width:0.76322132"
        d="m 16.173374,264.69469 v -19.84376 h 18.317312 18.317312 l -2.91e-4,24.42309 -14.577529,-6e-5 v -9.15865 l 3.892429,6e-5 2.92e-4,-6.10578 H 26.858471 l -2.92e-4,30.52884 H 16.173374 Z"
        id="path4543"
        inkscape:connector-curvature="0" />

@@ -19,7 +19,7 @@
      id="defs967" />
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -56,15 +56,15 @@
      transform="translate(-241 -767)">
     <path
        id="path36048"
-       style="color-rendering:auto;text-decoration-color:#000000;color:#000000;shape-rendering:auto;solid-color:#000000;text-decoration-line:none;fill:#808080;mix-blend-mode:normal;block-progression:tb;text-indent:0;image-rendering:auto;white-space:normal;text-decoration-style:solid;isolation:auto;enable-background:new;text-transform:none;fill-opacity:1"
+       style="color-rendering:auto;text-decoration-color:#F7F7F7;color:#F7F7F7;shape-rendering:auto;solid-color:#F7F7F7;text-decoration-line:none;fill:#F7F7F7;mix-blend-mode:normal;block-progression:tb;text-indent:0;image-rendering:auto;white-space:normal;text-decoration-style:solid;isolation:auto;enable-background:new;text-transform:none;fill-opacity:1"
        d="m252.09 767.05a1.0001 1.0001 0 0 0 -0.88672 0.50391l-3.3125 5.625a1.0001 1.0001 0 1 0 1.7227 1.0156l3.3125-5.625a1.0001 1.0001 0 0 0 -0.83594 -1.5195z" />
     <path
        id="path36050"
-       style="color:#000000;enable-background:new;fill:#808080;fill-opacity:1"
+       style="color:#F7F7F7;enable-background:new;fill:#F7F7F7;fill-opacity:1"
        d="m246.22 772.09 4.9474 3.0538c0.60355 0.31472 0.81997 1.1131 0.16464 1.597l-0.62186 0.21653-6.0192-3.5214 0.0177-0.90733c0.28883-0.58524 0.75466-0.81586 1.5113-0.43864z" />
     <path
        id="path9831"
-       style="color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;fill:#808080;mix-blend-mode:normal;image-rendering:auto;isolation:auto;paint-order:normal;fill-opacity:1"
+       style="color-rendering:auto;color:#F7F7F7;shape-rendering:auto;solid-color:#F7F7F7;fill:#F7F7F7;mix-blend-mode:normal;image-rendering:auto;isolation:auto;paint-order:normal;fill-opacity:1"
        d="m244.05 774.49 5.9899 3.4746-1.0446 1.5421c-0.22097 0.24307-0.13258 0.57452 0.0884 0.7071l0.95017 0.81759h-5.3696c-2.1905 0-3.1968-2.0645-2.1434-3.8891z" />
   </g>
 </svg>

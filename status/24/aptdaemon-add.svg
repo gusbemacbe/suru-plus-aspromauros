@@ -28,8 +28,8 @@
   <defs
      id="defs10" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -50,12 +50,12 @@
   <g
      transform="translate(-412,-224)"
      id="g4"
-     style="color:#000000">
+     style="color:#F7F7F7">
     <path
        d="m 423.30487,228.07265 -0.0321,7.39402 H 416 v 1.42222 h 7.27273 V 244 h 1.45454 v -7.11111 H 432 v -1.42222 h -7.27273 V 228 Z"
        font-weight="400"
        overflow="visible"
-       style="font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#4d4d4d;fill-opacity:1;stroke-width:1.4382931"
+       style="font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#F7F7F7;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#F7F7F7;fill-opacity:1;stroke-width:1.4382931"
        id="path2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccc" />

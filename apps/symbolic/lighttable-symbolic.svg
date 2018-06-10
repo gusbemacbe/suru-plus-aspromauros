@@ -28,8 +28,8 @@
   <defs
      id="defs10" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -48,7 +48,7 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="svg6" />
   <g
-     style="clip-rule:evenodd;fill:#808080;fill-opacity:1;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+     style="clip-rule:evenodd;fill:#F7F7F7;fill-opacity:1;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
      id="g858"
      transform="matrix(0.09375,0,0,0.09642855,-3.9997947,-4.0398239)">
     <rect
@@ -57,7 +57,7 @@
        x="47.997818"
        height="124.44443"
        width="26.666662"
-       style="fill:#808080;fill-opacity:1;stroke-width:8.88888836" />
+       style="fill:#F7F7F7;fill-opacity:1;stroke-width:8.88888836" />
     <rect
        id="rect12"
        transform="rotate(90)"
@@ -65,7 +65,7 @@
        x="160.41299"
        height="88.888878"
        width="26.666662"
-       style="fill:#808080;fill-opacity:1;stroke-width:8.88888836" />
+       style="fill:#F7F7F7;fill-opacity:1;stroke-width:8.88888836" />
     <rect
        id="rect14"
        transform="scale(-1)"
@@ -73,7 +73,7 @@
        x="-207.9978"
        height="124.44443"
        width="26.666662"
-       style="fill:#808080;fill-opacity:1;stroke-width:8.88888836" />
+       style="fill:#F7F7F7;fill-opacity:1;stroke-width:8.88888836" />
     <rect
        id="rect16"
        transform="rotate(-90)"
@@ -81,6 +81,6 @@
        x="-89.301888"
        height="88.888878"
        width="26.666662"
-       style="fill:#808080;fill-opacity:1;stroke-width:8.88888836" />
+       style="fill:#F7F7F7;fill-opacity:1;stroke-width:8.88888836" />
   </g>
 </svg>

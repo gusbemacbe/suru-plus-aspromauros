@@ -89,8 +89,8 @@
        xlink:href="#linearGradient3242-187-536" />
   </defs>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -109,7 +109,7 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="svg6" />
   <path
-     style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.32608733;stroke-linejoin:round"
+     style="fill:#F7F7F7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.32608733;stroke-linejoin:round"
      d="M 0.50039675,1.6093747 4.2503967,7.8046877 0.50039675,14 H 2.4574287 l 3.75,-6.1953123 -3.75,-6.195313 z m 3.42382895,0 3.75,6.195313 L 3.9242257,14 h 1.957031 L 8.4886785,9.4355467 11.424225,14 h 1.957032 L 5.8812567,1.6093747 Z m 5.380859,3.583985 0.9765623,1.632812 h 5.21875 v -1.632812 z m 1.6289063,2.609375 0.978516,1.632812 h 3.58789 v -1.632812 z"
      id="path2262-4"
      inkscape:connector-curvature="0" />

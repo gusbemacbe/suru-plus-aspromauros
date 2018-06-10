@@ -15,8 +15,8 @@
    sodipodi:docname="application-vnd.ms-access.svg"
    inkscape:version="0.92.2 (unknown)">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -54,7 +54,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient4526"
@@ -62,7 +62,7 @@
       <stop
          id="stop4528"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <g

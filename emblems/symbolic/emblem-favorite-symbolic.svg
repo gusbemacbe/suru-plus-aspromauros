@@ -11,10 +11,10 @@
   </metadata>
   <defs id='defs7386'>
     <linearGradient id='linearGradient5606' osb:paint='solid'>
-      <stop id='stop5608' offset='0' style='stop-color:#000000;stop-opacity:1;'/>
+      <stop id='stop5608' offset='0' style='stop-color:#F7F7F7;stop-opacity:1;'/>
     </linearGradient>
     <linearGradient id='linearGradient4526' osb:paint='solid'>
-      <stop id='stop4528' offset='0' style='stop-color:#ffffff;stop-opacity:1;'/>
+      <stop id='stop4528' offset='0' style='stop-color:#F7F7F7;stop-opacity:1;'/>
     </linearGradient>
     <linearGradient id='linearGradient3600-4' osb:paint='gradient'>
       <stop id='stop3602-7' offset='0' style='stop-color:#f4f4f4;stop-opacity:1'/>
@@ -26,7 +26,7 @@
   <g id='layer4' transform='translate(-312,-200)'/>
   <g id='g1812' style='display:inline' transform='translate(-312,-200)'>
     
-    <path d='m 316.75,201 c -2.04308,0 -3.70547,1.63427 -3.75,3.66667 0,0.94313 0.24728,1.67924 0.5,2.35937 1.18715,2.81037 3.5,5.15792 6.5,7.97396 3,-2.81604 5.31285,-5.16359 6.5,-7.97396 0.25272,-0.68013 0.5,-1.41624 0.5,-2.35937 C 326.9555,202.63427 325.29309,201 323.25,201 c -1.38988,0 -2.60225,0.75685 -3.25,1.88021 C 319.35225,201.75685 318.13988,201 316.75,201 Z' id='path4849' style='color:#000000;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.00000048;marker:none;enable-background:accumulate'/>
+    <path d='m 316.75,201 c -2.04308,0 -3.70547,1.63427 -3.75,3.66667 0,0.94313 0.24728,1.67924 0.5,2.35937 1.18715,2.81037 3.5,5.15792 6.5,7.97396 3,-2.81604 5.31285,-5.16359 6.5,-7.97396 0.25272,-0.68013 0.5,-1.41624 0.5,-2.35937 C 326.9555,202.63427 325.29309,201 323.25,201 c -1.38988,0 -2.60225,0.75685 -3.25,1.88021 C 319.35225,201.75685 318.13988,201 316.75,201 Z' id='path4849' style='color:#F7F7F7;display:inline;overflow:visible;visibility:visible;fill:#F7F7F7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.00000048;marker:none;enable-background:accumulate'/>
   </g>
   <g id='g6217' transform='translate(-312,-200)'/>
   <g id='layer3' style='display:inline' transform='translate(-312,-200)'/>

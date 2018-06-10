@@ -25,8 +25,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -50,12 +50,12 @@
        type="text/css"
        id="current-color-scheme">
       .ColorScheme-Text {
-        color:#4d4d4d;
+        color:#F7F7F7;
       }
       </style>
   </defs>
   <path
-     style="fill:#808080;fill-opacity:1;stroke:none"
+     style="fill:#F7F7F7;fill-opacity:1;stroke:none"
      d="M 1 2 L 1 14 L 15 14 L 15 2 L 1 2 z M 2.7070312 3 L 13.292969 3 L 8 8.2929688 L 2.7070312 3 z M 2 3.7070312 L 5.9335938 7.640625 L 2 12.230469 L 2 3.7070312 z M 14 3.7070312 L 14 12.232422 L 10.066406 7.640625 L 14 3.7070312 z M 6.6425781 8.3496094 L 8 9.7070312 L 9.3574219 8.3496094 L 13.341797 13 L 2.65625 13 L 6.6425781 8.3496094 z "
      class="ColorScheme-Text"
      id="path4" />

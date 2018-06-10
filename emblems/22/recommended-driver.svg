@@ -17,8 +17,8 @@
    inkscape:version="0.92.1 unknown"
    sodipodi:docname="recommended-driver.svg">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -62,19 +62,19 @@
        id="linearGradient4011-0-8-3">
       <stop
          id="stop4013-2-3-6"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#F7F7F7;stop-opacity:1"
          offset="0" />
       <stop
          id="stop4015-7-1-68"
-         style="stop-color:#ffffff;stop-opacity:0.23529412"
+         style="stop-color:#F7F7F7;stop-opacity:0.23529412"
          offset="0.507761" />
       <stop
          id="stop4017-13-5-6"
-         style="stop-color:#ffffff;stop-opacity:0.15686275"
+         style="stop-color:#F7F7F7;stop-opacity:0.15686275"
          offset="0.83456558" />
       <stop
          id="stop4019-92-5-3"
-         style="stop-color:#ffffff;stop-opacity:0.39215687"
+         style="stop-color:#F7F7F7;stop-opacity:0.39215687"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -102,16 +102,16 @@
   <path
      d="M 8.0000001,1.4e-7 C 3.5858743,1.4e-7 0,3.5858744 0,8 0,12.414126 3.5858743,16 8.0000001,16 12.414126,16 16.000007,12.414126 16,8 16,3.5858744 12.414126,1.4e-7 8.0000001,1.4e-7 Z"
      id="path2555-7-8-5-0"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#61a83d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999982;marker:none;enable-background:accumulate"
+     style="color:#F7F7F7;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#61a83d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999982;marker:none;enable-background:accumulate"
      inkscape:connector-curvature="0" />
   <g
      id="layer12"
-     style="display:inline;fill:#ffffff;fill-opacity:1"
+     style="display:inline;fill:#F7F7F7;fill-opacity:1"
      transform="matrix(0.56670526,0,0,0.53839113,-230.29978,20.652084)">
     <path
        inkscape:connector-curvature="0"
        d="m 414.32434,-23.9998 6.19157,7.00085 6.16053,-7.00085 h -3.67605 v -6.00085 h -5 v 6.00085 z"
        id="path26667"
-       style="color:#bebebe;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
+       style="color:#F7F7F7;display:inline;overflow:visible;visibility:visible;fill:#F7F7F7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;enable-background:accumulate" />
   </g>
 </svg>

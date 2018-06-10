@@ -22,20 +22,20 @@
       <stop
          id="stop3948"
          offset="0"
-         style="stop-color:#000000;stop-opacity:0.74698794;" />
+         style="stop-color:#F7F7F7;stop-opacity:0.74698794;" />
       <stop
          id="stop3950"
          offset="1"
-         style="stop-color:#000000;stop-opacity:0.02409638;" />
+         style="stop-color:#F7F7F7;stop-opacity:0.02409638;" />
     </linearGradient>
     <linearGradient
        id="linearGradient3830-9">
       <stop
-         style="stop-color:#000000;stop-opacity:0.74698794;"
+         style="stop-color:#F7F7F7;stop-opacity:0.74698794;"
          offset="0"
          id="stop3832-7" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.02409638;"
+         style="stop-color:#F7F7F7;stop-opacity:0.02409638;"
          offset="1"
          id="stop3834-5" />
     </linearGradient>
@@ -54,7 +54,7 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#555753"
-     bordercolor="#666666"
+     bordercolor="#F7F7F7666"
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
@@ -105,7 +105,7 @@
      id="layer1"
      transform="translate(-31.97559,-220.36218)">
     <path
-       style="opacity:0.5;fill:#bebebe;fill-opacity:1;stroke:none"
+       style="opacity:0.5;fill:#F7F7F7;fill-opacity:1;stroke:none"
        d="m 34,222.3622 6,0 0,6 -6,0 z"
        id="rect3782"
        inkscape:connector-curvature="0"
@@ -115,6 +115,6 @@
        inkscape:connector-curvature="0"
        id="path3801"
        d="m 40,228.3622 6,0 0,6 -6,0 z"
-       style="fill:#bebebe;fill-opacity:1;stroke:none" />
+       style="fill:#F7F7F7;fill-opacity:1;stroke:none" />
   </g>
 </svg>

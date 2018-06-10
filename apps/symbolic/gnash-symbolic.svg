@@ -25,8 +25,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -54,39 +54,39 @@
        type="text/css"
        id="current-color-scheme">
       .ColorScheme-Text {
-        color:#4d4d4d;
+        color:#F7F7F7;
       }
       </style>
   </defs>
   <g
      transform="matrix(0.05010021,0,0,0.05010021,-4.8256523,-4.8256552)"
      id="g1153"
-     style="fill:#808080;fill-opacity:1">
+     style="fill:#F7F7F7;fill-opacity:1">
     <g
        id="g1145"
-       style="fill:#808080;fill-opacity:1">
+       style="fill:#F7F7F7;fill-opacity:1">
       <path
          inkscape:connector-curvature="0"
-         style="fill:#808080;fill-opacity:1"
+         style="fill:#F7F7F7;fill-opacity:1"
          d="m 303.43,153.731 c 0,26.195 -47.43,70.618 -47.43,70.618 0,0 -47.43,-44.423 -47.43,-70.618 0,-26.195 21.235,-47.431 47.43,-47.431 26.195,0 47.43,21.236 47.43,47.431 z"
          id="path1141" />
       <path
          inkscape:connector-curvature="0"
-         style="fill:#808080;fill-opacity:1"
+         style="fill:#F7F7F7;fill-opacity:1"
          d="m 303.43,358.269 c 0,-26.195 -47.43,-70.618 -47.43,-70.618 0,0 -47.43,44.423 -47.43,70.618 0,26.195 21.235,47.431 47.43,47.431 26.195,0 47.43,-21.236 47.43,-47.431 z"
          id="path1143-3" />
     </g>
     <g
        id="g1151"
-       style="fill:#808080;fill-opacity:1">
+       style="fill:#F7F7F7;fill-opacity:1">
       <path
          inkscape:connector-curvature="0"
-         style="fill:#808080;fill-opacity:1"
+         style="fill:#F7F7F7;fill-opacity:1"
          d="m 153.731,208.57 c 26.195,0 70.618,47.43 70.618,47.43 0,0 -44.423,47.43 -70.618,47.43 -26.195,0 -47.431,-21.235 -47.431,-47.43 0,-26.195 21.236,-47.43 47.431,-47.43 z"
          id="path1147" />
       <path
          inkscape:connector-curvature="0"
-         style="fill:#808080;fill-opacity:1"
+         style="fill:#F7F7F7;fill-opacity:1"
          d="m 358.269,208.57 c -26.195,0 -70.618,47.43 -70.618,47.43 0,0 44.423,47.43 70.618,47.43 26.195,0 47.431,-21.235 47.431,-47.43 0,-26.195 -21.236,-47.43 -47.431,-47.43 z"
          id="path1149" />
     </g>

@@ -15,8 +15,8 @@
    sodipodi:docname="simple-ccsm-symbolic.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -58,7 +58,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient4526"
@@ -66,7 +66,7 @@
       <stop
          id="stop4528"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient3600-4"
@@ -116,11 +116,11 @@
      id="layer1"
      transform="translate(-471.99997,-99.999939)" />
   <g
-     style="filter:url(#filter7554);enable-background:new;fill:#808080;fill-opacity:1"
+     style="filter:url(#filter7554);enable-background:new;fill:#F7F7F7;fill-opacity:1"
      transform="translate(-324.86451,154.86049)"
      id="g33">
     <path
-       style="fill:#808080;fill-opacity:1"
+       style="fill:#F7F7F7;fill-opacity:1"
        d="M 7.0019531 1.9980469 L 7.0019531 2.0019531 L 2.0019531 2.0019531 C 2.0019531 2.0019531 1.0019531 2.0019531 1.0019531 3.0019531 L 1.0019531 13.001953 C 1.0019531 14.001953 2.0019531 14.001953 2.0019531 14.001953 L 7.0058594 14.001953 L 7.0058594 13.998047 L 10.001953 13.998047 L 10.005859 13.998047 L 14.001953 14.001953 C 15.005313 14.002933 15.001953 13.001953 15.001953 13.001953 L 15.001953 3.0019531 C 15.001953 3.0019531 15.004953 2.0029331 14.001953 2.0019531 L 10.005859 1.9980469 L 10.001953 1.9980469 L 7.0019531 1.9980469 z M 2.0058594 2.9980469 L 3.9511719 2.9980469 L 7.0019531 2.9980469 L 10.005859 2.9980469 L 11.001953 2.9980469 L 14.005859 2.9980469 L 14.005859 12.998047 L 11.001953 12.998047 L 10.005859 12.998047 L 9.515625 12.998047 L 6.4277344 8.2773438 L 9.4023438 8.2773438 L 4 4 L 4 10.884766 L 5.8066406 8.6230469 L 7.6484375 12.998047 L 7.0019531 12.998047 L 3.9511719 12.998047 L 2.0058594 12.998047 L 2.0058594 2.9980469 z "
        id="path31"
        transform="translate(324.86451,-154.86049)" />

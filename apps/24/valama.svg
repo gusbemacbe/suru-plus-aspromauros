@@ -15,8 +15,8 @@
    sodipodi:docname="valama-symbolic.svg"
    inkscape:version="0.92.3 (unknown)">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -54,7 +54,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient4526"
@@ -62,7 +62,7 @@
       <stop
          id="stop4528"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <g
@@ -86,12 +86,12 @@
   <g
      transform="matrix(0.31478018,0,0,0.31478018,-8.2480003,-2.8106028)"
      id="text4567"
-     style="font-style:normal;font-weight:normal;font-size:62.35904694px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1.5589757"
+     style="font-style:normal;font-weight:normal;font-size:62.35904694px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:1.5589757"
      aria-label="V">
     <path
        inkscape:connector-curvature="0"
        id="path4569"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#808080;fill-opacity:1;stroke-width:1.5589757"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';fill:#F7F7F7;fill-opacity:1;stroke-width:1.5589757"
        d="M 27.790823,12.709502 H 39.574491 L 51.632197,46.264028 63.659455,12.709502 H 75.443122 L 58.604962,58.169491 H 44.628984 Z" />
   </g>
 </svg>

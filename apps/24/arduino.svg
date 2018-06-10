@@ -27,8 +27,8 @@
   <svg:defs
      id="defs14" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -49,58 +49,58 @@
   <svg:g
      id="g1613"
      transform="matrix(0.28346457,0,0,0.28346457,-1.4031364,-66.513957)"
-     style="fill:none;fill-opacity:1;stroke:#808080;stroke-opacity:1">
+     style="fill:none;fill-opacity:1;stroke:#F7F7F7;stroke-opacity:1">
     <svg:g
-       style="fill:none;fill-opacity:1;stroke:#808080;stroke-width:60;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;stroke:#F7F7F7;stroke-width:60;stroke-opacity:1"
        transform="matrix(0.07338438,0,0,0.07338438,6.8271835,250.52694)"
        id="g4">
       <svg:path
          inkscape:connector-curvature="0"
          id="path6-3"
          d="m 174,30 a 145.54455,140 0 0 0 0,280 C 364,320 344,30 544,30 a 145.54455,140 0 0 1 0,280 C 354,320 374,30 174,30"
-         style="fill:none;fill-opacity:1;stroke:#808080;stroke-opacity:1" />
+         style="fill:none;fill-opacity:1;stroke:#F7F7F7;stroke-opacity:1" />
     </svg:g>
     <svg:g
-       style="font-size:167px;font-family:sans-serif;text-anchor:middle;fill:none;fill-opacity:1;stroke:#808080;stroke-width:20;stroke-opacity:1"
+       style="font-size:167px;font-family:sans-serif;text-anchor:middle;fill:none;fill-opacity:1;stroke:#F7F7F7;stroke-width:20;stroke-opacity:1"
        transform="matrix(0.07338438,0,0,0.07338438,6.8271835,251.26078)"
        id="g8-6"
        font-size="167">
       <svg:g
          id="text10"
-         style="fill:none;fill-opacity:1;stroke:#808080;stroke-opacity:1">
+         style="fill:none;fill-opacity:1;stroke:#F7F7F7;stroke-opacity:1">
         <svg:path
            inkscape:connector-curvature="0"
            id="path3075"
            d="M 528.06885,194.67432 V 161.89404 H 495.5332 v -13.69922 h 32.53565 v -32.53564 h 13.8623 v 32.53564 h 32.53565 v 13.69922 h -32.53565 v 32.78028 z"
-           style="fill:none;fill-opacity:1;stroke:#808080;stroke-opacity:1" />
+           style="fill:none;fill-opacity:1;stroke:#F7F7F7;stroke-opacity:1" />
       </svg:g>
       <svg:text
          id="text12"
          dy="0"
          y="218"
          x="181"
-         style="fill:none;fill-opacity:1;stroke:#808080;stroke-opacity:1">
+         style="fill:none;fill-opacity:1;stroke:#F7F7F7;stroke-opacity:1">
         <ndash />
       </svg:text>
     </svg:g>
     <svg:g
-       style="font-size:167px;font-family:sans-serif;text-anchor:middle;fill:none;fill-opacity:1;stroke:#808080;stroke-width:20;stroke-opacity:1"
+       style="font-size:167px;font-family:sans-serif;text-anchor:middle;fill:none;fill-opacity:1;stroke:#F7F7F7;stroke-width:20;stroke-opacity:1"
        transform="matrix(0.07338438,0,0,0.07338438,-20.01642,250.56567)"
        id="g8-1"
        font-size="167">
       <svg:g
          id="text10-7"
-         style="font-size:197.21893311px;fill:none;fill-opacity:1;stroke:#808080;stroke-width:23.61903381;stroke-opacity:1"
+         style="font-size:197.21893311px;fill:none;fill-opacity:1;stroke:#F7F7F7;stroke-width:23.61903381;stroke-opacity:1"
          transform="scale(1.5645974,0.63914206)">
         <svg:path
            inkscape:connector-curvature="0"
            id="path3078"
-           style="font-size:197.21893311px;fill:none;fill-opacity:1;stroke:#808080;stroke-width:23.61903381;stroke-opacity:1"
+           style="font-size:197.21893311px;fill:none;fill-opacity:1;stroke:#F7F7F7;stroke-width:23.61903381;stroke-opacity:1"
            d="m 321.41756,266.30877 v -17.43 h 53.25297 v 17.43 z" />
       </svg:g>
       <svg:g
          id="text12-4"
-         style="fill:none;fill-opacity:1;stroke:#808080;stroke-opacity:1" />
+         style="fill:none;fill-opacity:1;stroke:#F7F7F7;stroke-opacity:1" />
     </svg:g>
   </svg:g>
 </svg:svg>

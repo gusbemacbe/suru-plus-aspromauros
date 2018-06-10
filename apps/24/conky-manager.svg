@@ -15,8 +15,8 @@
    sodipodi:docname="conky-manager-symbolic.svg"
    inkscape:version="0.92.3 (unknown)">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -58,7 +58,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient4526"
@@ -66,7 +66,7 @@
       <stop
          id="stop4528"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient3600-4"
@@ -108,12 +108,12 @@
      id="layer1"
      transform="translate(-491.5,-179.99999)" />
   <path
-     style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="m 0.5,3 v 10 h 6 v -1 h -5 V 4 h 5 V 3 Z"
      id="path833"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#666666;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="M 7.5,13 V 3 h 1 l 3,2.6324626 L 14.5,3 h 1 v 10 h -1 V 4.4287936 L 11.5,7 8.5,4.4696311 V 13 Z"
      id="path837"
      inkscape:connector-curvature="0"

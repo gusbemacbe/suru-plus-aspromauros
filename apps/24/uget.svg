@@ -15,8 +15,8 @@
    sodipodi:docname="uget-icon-symbolic.svg"
    inkscape:version="0.92.3 (unknown)">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -54,7 +54,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient4526"
@@ -62,7 +62,7 @@
       <stop
          id="stop4528"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient3600-4"
@@ -105,7 +105,7 @@
      transform="translate(-492,-179.99999)" />
   <path
      inkscape:connector-curvature="0"
-     style="display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.74999994"
+     style="display:inline;fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:0.74999994"
      d="M 15.499999,6.5000005 H 11.75 v 2.2499977 h 2.249999 L 9.875001,13.625001 6.1249979,8.7499982 h 1.875001 V 3.5000015 H 11.75 V 5.000001 h 3.749999 V 3.5000015 c 0,0 0,-3.0000013 -2.812501,-3.0000013 H 7.0624979 c 0,0 -2.8124979,0 -2.8124979,3.1875022 V 4.2500001 9.4999992 H 2.75 V 4.2500001 H 0.5 V 9.875001 C 0.5,11.75 2.374998,11.75 2.374998,11.75 H 4.25 v 0.937499 C 4.25,15.5 7.0624979,15.5 7.0624979,15.5 h 5.6250001 c 2.812501,0 2.812501,-2.812501 2.812501,-2.812501"
      id="path8" />
 </svg>

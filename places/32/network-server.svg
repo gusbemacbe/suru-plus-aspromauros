@@ -28,8 +28,8 @@
   <defs
      id="defs20" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -54,36 +54,36 @@
        d="m 402,43 h 3 v 1 h -3 z"
        id="path2"
        inkscape:connector-curvature="0"
-       style="fill:#808080" />
+       style="fill:#F7F7F7" />
     <path
        d="m 393,40 v 4 h 1 v -3 h 12 v 3 h 1 v -4 z"
        font-weight="400"
        overflow="visible"
-       style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#808080;fill-rule:evenodd"
+       style="color:#F7F7F7;font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#F7F7F7;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#F7F7F7;fill-rule:evenodd"
        id="path4"
        inkscape:connector-curvature="0" />
     <path
        d="m 402,48 h 3 v 1 h -3 z"
        id="path6"
        inkscape:connector-curvature="0"
-       style="fill:#808080" />
+       style="fill:#F7F7F7" />
     <path
        d="m 393,45 v 4 h 1 v -3 h 12 v 3 h 1 v -4 z"
        font-weight="400"
        overflow="visible"
-       style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#808080;fill-rule:evenodd"
+       style="color:#F7F7F7;font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#F7F7F7;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#F7F7F7;fill-rule:evenodd"
        id="path8"
        inkscape:connector-curvature="0" />
     <path
        d="m 402,53 h 3 v 1 h -3 z"
        id="path10"
        inkscape:connector-curvature="0"
-       style="fill:#808080" />
+       style="fill:#F7F7F7" />
     <path
        d="m 393,50 v 6 h 14 v -6 z m 1,1 h 12 v 4 h -12 z"
        font-weight="400"
        overflow="visible"
-       style="color:#000000;font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#808080;fill-rule:evenodd"
+       style="color:#F7F7F7;font-weight:400;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#F7F7F7;text-transform:none;text-orientation:mixed;white-space:normal;shape-padding:0;overflow:visible;isolation:auto;mix-blend-mode:normal;fill:#F7F7F7;fill-rule:evenodd"
        id="path12"
        inkscape:connector-curvature="0" />
   </g>

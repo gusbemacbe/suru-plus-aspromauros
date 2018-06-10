@@ -15,8 +15,8 @@
    sodipodi:docname="media-playlist-no-shuffle-symbolic.svg"
    inkscape:version="0.92.2 (unknown)">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -54,7 +54,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient4526"
@@ -62,7 +62,7 @@
       <stop
          id="stop4528"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <g
@@ -86,6 +86,6 @@
     <path
        d="m 603,381 v 2 h -11 v 1 h 11 0.002 v 2 c 0.76044,-0.34766 1.53408,-0.73627 2.32227,-1.16602 0.78078,-0.43079 1.53279,-0.87569 2.25781,-1.33398 -0.72502,-0.44911 -1.47703,-0.88952 -2.25781,-1.32031 C 604.53561,381.7497 603.76084,381.35694 603,381 Z m 0,9 v 2 h -11 v 1 h 11 0.002 v 2 c 0.76044,-0.34766 1.53408,-0.73627 2.32227,-1.16602 0.78078,-0.43079 1.53279,-0.87569 2.25781,-1.33398 -0.72502,-0.44911 -1.47703,-0.88952 -2.25781,-1.32031 C 604.53561,390.7497 603.76084,390.35694 603,390 Z"
        id="path9092"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.99940634;marker:none;enable-background:accumulate" />
+       style="color:#F7F7F7;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#F7F7F7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.99940634;marker:none;enable-background:accumulate" />
   </g>
 </svg>

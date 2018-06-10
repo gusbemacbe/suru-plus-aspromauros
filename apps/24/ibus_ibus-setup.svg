@@ -51,8 +51,8 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
@@ -93,6 +93,6 @@
        d="m 2.12445,292.89894 a 0.46691246,0.46691246 0 0 0 -0.466912,0.46691 0.46691246,0.46691246 0 0 0 0.466912,0.46691 0.46691246,0.46691246 0 0 0 0.466913,-0.46691 0.46691246,0.46691246 0 0 0 -0.466913,-0.46691 z m -0.933825,1.40074 v 0.4669 h 0.466913 v 1.6342 H 1.190625 v 0.46691 h 1.86765 v -0.46691 H 2.591363 v -2.1011 z"
        id="path1016"
        inkscape:connector-curvature="0"
-       style="fill:#808080;fill-opacity:1;stroke-width:0.23345619" />
+       style="fill:#F7F7F7;fill-opacity:1;stroke-width:0.23345619" />
   </g>
 </svg>

@@ -15,8 +15,8 @@
    sodipodi:docname="gnome-iagnosymbolic.svg"
    inkscape:version="0.92.2 (unknown)">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -54,7 +54,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient4526"
@@ -62,7 +62,7 @@
       <stop
          id="stop4528"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient3600-4"
@@ -106,16 +106,16 @@
   <g
      id="g932"
      transform="matrix(-0.29355554,0,0,-0.29355554,37.904973,79.793259)"
-     style="fill:#808080;fill-opacity:1">
+     style="fill:#F7F7F7;fill-opacity:1">
     <path
        inkscape:connector-curvature="0"
        id="path1880"
-       style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.99491537;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:0.99491537;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 100.58117,230.32809 a 12.977532,12.977532 0 0 1 -25.955064,0 12.977532,12.977532 0 1 1 25.955064,0 z" />
     <path
        inkscape:connector-curvature="0"
        id="path3701"
-       style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.99491537;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:0.99491537;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 129.12368,258.84626 a 12.977532,12.977532 0 0 1 -25.95506,0 12.977532,12.977532 0 1 1 25.95506,0 z" />
     <path
        inkscape:connector-curvature="0"

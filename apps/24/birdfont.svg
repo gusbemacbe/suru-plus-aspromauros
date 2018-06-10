@@ -15,8 +15,8 @@
    sodipodi:docname="bird.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -54,7 +54,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient4526"
@@ -62,7 +62,7 @@
       <stop
          id="stop4528"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <g
@@ -83,11 +83,11 @@
   <g
      transform="matrix(0.52157646,0,0,0.52157646,-9.2020058,-129.76408)"
      aria-label="F"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.17645645px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';letter-spacing:0px;word-spacing:0px;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1.00441146"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40.17645645px;line-height:1.25;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';letter-spacing:0px;word-spacing:0px;fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:1.00441146"
      id="text1603">
     <path
        inkscape:connector-curvature="0"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';fill:#808080;fill-opacity:1;stroke-width:3.79620075"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, ';fill:#F7F7F7;fill-opacity:1;stroke-width:3.79620075"
        d="M 166.27734,77.419922 H 84.796875 V 186.11523 H 118.5332 v -44.41211 h 38.85547 l 3.03516,-21.94726 H 118.5332 v -18.98047 h 44.51368 z"
        id="path1618"
        transform="matrix(0.26458333,0,0,0.26458333,0,229.26666)" />

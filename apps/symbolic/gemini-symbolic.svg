@@ -28,8 +28,8 @@
   <defs
      id="defs10" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -50,18 +50,18 @@
   <g
      id="g8483"
      transform="matrix(0.31495695,0,0,0.31496069,-3.1145707,-74.656249)"
-     style="fill:#808080;fill-opacity:1">
+     style="fill:#F7F7F7;fill-opacity:1">
     <circle
        id="circle10"
        r="10.990391"
        cx="35.166935"
        cy="249.61143"
-       style="fill:#808080;fill-opacity:1;stroke-width:0.9158659" />
+       style="fill:#F7F7F7;fill-opacity:1;stroke-width:0.9158659" />
     <circle
        id="circle14"
        r="10.990391"
        cx="35.166935"
        cy="275.25565"
-       style="fill:#808080;fill-opacity:1;stroke-width:0.9158659" />
+       style="fill:#F7F7F7;fill-opacity:1;stroke-width:0.9158659" />
   </g>
 </svg>

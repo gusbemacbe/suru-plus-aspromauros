@@ -15,7 +15,7 @@
    sodipodi:docname="emblem-flag-green.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#F7F7F7"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -103,13 +103,13 @@
        id="rect6315"
        rx="1.0001068"
        ry="1.0001068"
-       style="color:#000000;fill:#70c932;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+       style="color:#F7F7F7;fill:#70c932;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
        width="2.0002136"
        x="557.00018"
        y="171" />
     <path
        d="M 567.65665,170.84375 C 564.83194,170.56445 564.0629,175.25 560.0004,172 l 0,8 c 5,4 5,-4 10,0 l 0,-8 c -0.9375,-0.75 -1.6919,-1.0918 -2.34375,-1.15625 z"
        id="rect6317"
-       style="color:#000000;fill:#70c932;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#F7F7F7;fill:#70c932;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
   </g>
 </svg>

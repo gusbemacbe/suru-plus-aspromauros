@@ -16,7 +16,7 @@
    inkscape:version="0.92.3 (unknown)">
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -54,7 +54,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient4526"
@@ -90,7 +90,7 @@
      id="layer1"
      transform="translate(-891.99998,-260)" />
   <path
-     style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.04918065px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     style="fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:0.04918065px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
      d="M 8.1434427,0.5 1.75,4.1885118 V 5.6410927 L 9.1978653,1.1083024 Z M 13.513926,3.5982679 1.75,10.757944 v 1.053545 L 8.1434427,15.5 14.536883,11.811489 V 4.1885118 Z"
      id="path5251"
      inkscape:connector-curvature="0" />

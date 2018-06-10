@@ -15,8 +15,8 @@
    sodipodi:docname="fuse-symbolic.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -54,7 +54,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient4526"
@@ -62,7 +62,7 @@
       <stop
          id="stop4528"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <g
@@ -92,7 +92,7 @@
      transform="translate(-331.99997,-239.99994)" />
   <path
      inkscape:connector-curvature="0"
-     style="fill:#808080;fill-opacity:1;stroke-width:0.49999997"
+     style="fill:#F7F7F7;fill-opacity:1;stroke-width:0.49999997"
      d="M 8.5000017,3.9999875 11,8.0000126 8.5000017,12 h 2.0000013 l 1.5,-2.4004913 1.5,2.4004913 H 15.5 L 13.000002,8.0000126 15.5,3.9999875 h -1.999997 l -1.5,2.4004913 -1.5,-2.4004913 z m -8.00000115,0 H 7.5000025 v 1.0000252 l -4.500001,5.5000063 h 4.500001 V 12 H 0.50000055 V 11.000013 L 5.0000001,5.5000064 H 0.50000055 Z"
      id="path963" />
 </svg>

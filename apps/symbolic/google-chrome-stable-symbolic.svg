@@ -28,8 +28,8 @@
   <defs
      id="defs12" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -54,18 +54,18 @@
   <g
      transform="translate(-4,-4)"
      id="g9"
-     style="fill:#808080;fill-opacity:1">
+     style="fill:#F7F7F7;fill-opacity:1">
     <path
        inkscape:connector-curvature="0"
        class="ColorScheme-ButtonBackground"
        d="M 12,4 A 8,8 0 0 0 6.3965,6.293 l 2.7558,4.773 A 3,3 0 0 1 12,9 h 7.412 A 8,8 0 0 0 12,4 Z M 5.6992,7.0859 A 8,8 0 0 0 4,12 8,8 0 0 0 9.8652,19.701 L 12.617,14.934 A 3,3 0 0 1 12,15 3,3 0 0 1 9.4062,13.498 L 9.4023,13.5 Z M 14.23,10 a 3,3 0 0 1 0.77,2 3,3 0 0 1 -0.404,1.498 l 0.002,0.002 -3.7035,6.414 A 8,8 0 0 0 12,20 8,8 0 0 0 20,12 8,8 0 0 0 19.74,10 Z"
-       style="fill:#808080;fill-opacity:1"
+       style="fill:#F7F7F7;fill-opacity:1"
        id="path5" />
     <path
        inkscape:connector-curvature="0"
        class="ColorScheme-ButtonBackground"
        d="M 11.999823,10 A 1.9999646,1.9999646 0 0 0 10,11.999823 1.9999646,1.9999646 0 0 0 11.999823,14 1.9999646,1.9999646 0 0 0 14,11.999823 1.9999646,1.9999646 0 0 0 11.999823,10 Z"
-       style="fill:#808080;fill-opacity:1"
+       style="fill:#F7F7F7;fill-opacity:1"
        id="path7" />
   </g>
 </svg>

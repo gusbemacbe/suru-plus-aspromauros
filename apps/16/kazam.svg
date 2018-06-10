@@ -29,7 +29,7 @@
      id="defs12" />
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -58,9 +58,9 @@
        id="path821"
        d="m 600,182 a 6,6 0 0 0 -6,6 6,6 0 0 0 6,6 6,6 0 0 0 6,-6 6,6 0 0 0 -6,-6 z m 0,0.75 a 5.25,5.25 0 0 1 5.25,5.25 5.25,5.25 0 0 1 -5.25,5.25 5.25,5.25 0 0 1 -5.25,-5.25 5.25,5.25 0 0 1 5.25,-5.25 z"
        inkscape:connector-curvature="0"
-       style="fill:#808080;stroke-width:0.75" />
+       style="fill:#F7F7F7;stroke-width:0.75" />
     <path
-       style="fill:#808080;stroke-width:0.375"
+       style="fill:#F7F7F7;stroke-width:0.375"
        inkscape:connector-curvature="0"
        d="m 600,185 c -1.65685,0 -3,1.34315 -3,3 0,1.65685 1.34315,3 3,3 1.65685,0 3,-1.34315 3,-3 0,-1.65685 -1.34315,-3 -3,-3 z m -0.17349,2.99669 c 1.44974,0 2.79849,-1.44644 2.79849,0.003 0,1.44975 -1.17525,2.625 -2.625,2.625 -1.44975,0 -2.625,-1.17525 -2.625,-2.625 0,-1.44975 1.00176,-0.003 2.45151,-0.003 z"
        id="path823"

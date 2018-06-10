@@ -26,8 +26,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -50,11 +50,11 @@
     <style
        type="text/css"
        id="current-color-scheme">
-   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+   .ColorScheme-Text { color:#F7F7F7; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
   </style>
   </defs>
   <path
-     style="color:#d3dae3;opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke-width:1.22089279"
+     style="color:#d3dae3;opacity:0.98999999;fill:#F7F7F7;fill-opacity:1;stroke-width:1.22089279"
      d="M 7.1164288,2.9657151 1.0119647,6.6283935 5.895536,10.272026 1,13.943983 7.1164288,17.616429 12,13.95375 5.895536,10.291072 12,6.6283935 18.104464,10.310118 12,13.95375 16.883571,17.616429 23,13.925181 18.10422,10.286921 22.987791,6.6242425 16.883327,2.9615641 11.999756,6.6051966 7.1161846,2.9615641 Z M 12,15.174643 7.1164288,18.837322 5.895536,18.105262 v 0.73206 L 12,22.5 18.104464,18.837322 v -0.736834 l -1.220893,0.736834 z"
      id="path4"
      class="ColorScheme-ButtonBackground"

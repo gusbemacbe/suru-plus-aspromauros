@@ -15,8 +15,8 @@
    sodipodi:docname="kingsoft-spreadsheets-symbolic.svg"
    inkscape:version="0.92.3 (unknown)">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -54,7 +54,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient4526"
@@ -62,7 +62,7 @@
       <stop
          id="stop4528"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <g
@@ -84,12 +84,12 @@
      id="layer1"
      transform="translate(-271.99997,-319.99994)" />
   <path
-     style="fill:#808080;fill-opacity:1;stroke-width:0.28846157"
+     style="fill:#F7F7F7;fill-opacity:1;stroke-width:0.28846157"
      d="m 1.200057,12.162035 9.93132,-0.12359 6.4e-5,-2.3076668 H 8.4115954 7.43077 V 6.2692226 h 7.615446 V 15.5 H 8.123134 1.200057 Z m 0,-11.66210986 h 6.923077 6.923082 L 15.046155,3.961481 H 4.661597 V 7.422999 9.7307032 L 1.2,9.7306652 c 0,0 6.12e-4,-8.6958236 5.7e-5,-9.23074006 z"
      id="path4557"
      inkscape:connector-curvature="0" />
   <path
-     style="fill:#808080;fill-opacity:1;stroke-width:0.24379745"
+     style="fill:#F7F7F7;fill-opacity:1;stroke-width:0.24379745"
      d="M 4.661643,6.2691471 H 6.516034 7.54628 v 3.4615181 l -2.884687,3.8e-5 z"
      id="path4557-3"
      inkscape:connector-curvature="0" />

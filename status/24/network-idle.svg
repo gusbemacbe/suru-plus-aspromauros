@@ -15,8 +15,8 @@
    sodipodi:docname="network-idle.svg"
    inkscape:version="0.92.2 (unknown)">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -54,7 +54,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient4526"
@@ -62,7 +62,7 @@
       <stop
          id="stop4528"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <g
@@ -73,12 +73,12 @@
     <path
        d="m 918.5002,-311.00002 v 0 0 c 0,0 -1,-0.99998 -4.5,-5.99998 h 2 v -2.5 -0.5 h 1 v 0.5 3.5 h -1.21875 c 2.21875,3 2.71875,3.40623 2.71875,3.40623 0,0 0.5,-0.40623 2.71875,-3.40623 h -1.21875 v -3.00002 h 1 V -317 h 2 c -3.5,5 -4.5,5.99998 -4.5,5.99998 z"
        id="path8472"
-       style="color:#000000;opacity:0.5;fill:#808080;fill-opacity:1;stroke:none"
+       style="color:#F7F7F7;opacity:0.5;fill:#F7F7F7;fill-opacity:1;stroke:none"
        inkscape:connector-curvature="0" />
     <path
        d="m 922.5002,-326.99998 v 0 0 c 0,0 1,0.99998 4.5,5.99998 h -2 v 2.5 0.5 h -1 v -0.5 -3.5 h 1.21875 c -2.21875,-3 -2.71875,-3.40623 -2.71875,-3.40623 0,0 -0.5,0.40623 -2.71875,3.40623 h 1.21875 v 3.00002 h -1 V -321 h -2 c 3.5,-5 4.5,-5.99998 4.5,-5.99998 z"
        id="path8474"
-       style="color:#000000;opacity:0.5;fill:#808080;fill-opacity:1;stroke:none"
+       style="color:#F7F7F7;opacity:0.5;fill:#F7F7F7;fill-opacity:1;stroke:none"
        inkscape:connector-curvature="0" />
   </g>
   <g

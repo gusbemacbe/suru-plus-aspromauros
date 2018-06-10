@@ -15,8 +15,8 @@
    sodipodi:docname="web-deviantart-symbolic.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -54,7 +54,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient4526"
@@ -62,7 +62,7 @@
       <stop
          id="stop4528"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient3600-4"
@@ -138,15 +138,15 @@
       <stop
          id="stop38"
          offset="0"
-         style="stop-opacity:1;stop-color:#ffffff" />
+         style="stop-opacity:1;stop-color:#F7F7F7" />
       <stop
          id="stop40"
          offset="0.8587"
-         style="stop-opacity:0.14129854;stop-color:#ffffff" />
+         style="stop-opacity:0.14129854;stop-color:#F7F7F7" />
       <stop
          id="stop42"
          offset="1"
-         style="stop-opacity:0;stop-color:#ffffff" />
+         style="stop-opacity:0;stop-color:#F7F7F7" />
     </radialGradient>
     <clipPath
        id="clipPath86"
@@ -202,15 +202,15 @@
       <stop
          id="stop100"
          offset="0"
-         style="stop-opacity:1;stop-color:#ffffff" />
+         style="stop-opacity:1;stop-color:#F7F7F7" />
       <stop
          id="stop102"
          offset="0.8587"
-         style="stop-opacity:0.14129854;stop-color:#ffffff" />
+         style="stop-opacity:0.14129854;stop-color:#F7F7F7" />
       <stop
          id="stop104"
          offset="1"
-         style="stop-opacity:0;stop-color:#ffffff" />
+         style="stop-opacity:0;stop-color:#F7F7F7" />
     </radialGradient>
     <clipPath
        id="clipPath148"
@@ -266,15 +266,15 @@
       <stop
          id="stop162"
          offset="0"
-         style="stop-opacity:1;stop-color:#ffffff" />
+         style="stop-opacity:1;stop-color:#F7F7F7" />
       <stop
          id="stop164"
          offset="0.8587"
-         style="stop-opacity:0.14129854;stop-color:#ffffff" />
+         style="stop-opacity:0.14129854;stop-color:#F7F7F7" />
       <stop
          id="stop166"
          offset="1"
-         style="stop-opacity:0;stop-color:#ffffff" />
+         style="stop-opacity:0;stop-color:#F7F7F7" />
     </radialGradient>
   </defs>
   <g
@@ -305,47 +305,47 @@
   <g
      transform="matrix(0.06623833,0,0,-0.06623833,-8.8148581,24.957038)"
      id="g10"
-     style="fill:#808080;fill-opacity:1">
+     style="fill:#F7F7F7;fill-opacity:1">
     <g
        id="g12"
-       style="fill:#808080;fill-opacity:1">
+       style="fill:#F7F7F7;fill-opacity:1">
       <g
          clip-path="url(#clipPath16)"
          id="g14"
-         style="fill:#808080;fill-opacity:1">
+         style="fill:#F7F7F7;fill-opacity:1">
         <g
            id="g20"
-           style="fill:#808080;fill-opacity:1">
+           style="fill:#F7F7F7;fill-opacity:1">
           <g
              id="g22"
-             style="fill:#808080;fill-opacity:1" />
+             style="fill:#F7F7F7;fill-opacity:1" />
           <g
              id="g64"
-             style="fill:#808080;fill-opacity:1">
+             style="fill:#F7F7F7;fill-opacity:1">
             <g
-               style="opacity:0.39999402;fill:#808080;fill-opacity:1"
+               style="opacity:0.39999402;fill:#F7F7F7;fill-opacity:1"
                id="g66"
                clip-path="url(#clipPath24)">
               <g
                  id="g68"
-                 style="fill:#808080;fill-opacity:1">
+                 style="fill:#F7F7F7;fill-opacity:1">
                 <g
                    id="g70"
                    clip-path="url(#clipPath28)"
-                   style="fill:#808080;fill-opacity:1">
+                   style="fill:#F7F7F7;fill-opacity:1">
                   <g
                      id="g72"
-                     style="fill:#808080;fill-opacity:1">
+                     style="fill:#F7F7F7;fill-opacity:1">
                     <g
                        id="g74"
-                       style="fill:#808080;fill-opacity:1" />
+                       style="fill:#F7F7F7;fill-opacity:1" />
                     <g
                        id="g76"
                        mask="url(#mask44)"
-                       style="fill:#808080;fill-opacity:1">
+                       style="fill:#F7F7F7;fill-opacity:1">
                       <g
                          id="g78"
-                         style="fill:#808080;fill-opacity:1" />
+                         style="fill:#F7F7F7;fill-opacity:1" />
                     </g>
                   </g>
                 </g>
@@ -355,37 +355,37 @@
         </g>
         <g
            id="g82"
-           style="fill:#808080;fill-opacity:1">
+           style="fill:#F7F7F7;fill-opacity:1">
           <g
              id="g84"
-             style="fill:#808080;fill-opacity:1" />
+             style="fill:#F7F7F7;fill-opacity:1" />
           <g
              id="g126"
-             style="fill:#808080;fill-opacity:1">
+             style="fill:#F7F7F7;fill-opacity:1">
             <g
-               style="opacity:0.39999402;fill:#808080;fill-opacity:1"
+               style="opacity:0.39999402;fill:#F7F7F7;fill-opacity:1"
                id="g128"
                clip-path="url(#clipPath86)">
               <g
                  id="g130"
-                 style="fill:#808080;fill-opacity:1">
+                 style="fill:#F7F7F7;fill-opacity:1">
                 <g
                    id="g132"
                    clip-path="url(#clipPath90)"
-                   style="fill:#808080;fill-opacity:1">
+                   style="fill:#F7F7F7;fill-opacity:1">
                   <g
                      id="g134"
-                     style="fill:#808080;fill-opacity:1">
+                     style="fill:#F7F7F7;fill-opacity:1">
                     <g
                        id="g136"
-                       style="fill:#808080;fill-opacity:1" />
+                       style="fill:#F7F7F7;fill-opacity:1" />
                     <g
                        id="g138"
                        mask="url(#mask106)"
-                       style="fill:#808080;fill-opacity:1">
+                       style="fill:#F7F7F7;fill-opacity:1">
                       <g
                          id="g140"
-                         style="fill:#808080;fill-opacity:1" />
+                         style="fill:#F7F7F7;fill-opacity:1" />
                     </g>
                   </g>
                 </g>
@@ -395,37 +395,37 @@
         </g>
         <g
            id="g144"
-           style="fill:#808080;fill-opacity:1">
+           style="fill:#F7F7F7;fill-opacity:1">
           <g
              id="g146"
-             style="fill:#808080;fill-opacity:1" />
+             style="fill:#F7F7F7;fill-opacity:1" />
           <g
              id="g188"
-             style="fill:#808080;fill-opacity:1">
+             style="fill:#F7F7F7;fill-opacity:1">
             <g
-               style="opacity:0.39999402;fill:#808080;fill-opacity:1"
+               style="opacity:0.39999402;fill:#F7F7F7;fill-opacity:1"
                id="g190"
                clip-path="url(#clipPath148)">
               <g
                  id="g192"
-                 style="fill:#808080;fill-opacity:1">
+                 style="fill:#F7F7F7;fill-opacity:1">
                 <g
                    id="g194"
                    clip-path="url(#clipPath152)"
-                   style="fill:#808080;fill-opacity:1">
+                   style="fill:#F7F7F7;fill-opacity:1">
                   <g
                      id="g196"
-                     style="fill:#808080;fill-opacity:1">
+                     style="fill:#F7F7F7;fill-opacity:1">
                     <g
                        id="g198"
-                       style="fill:#808080;fill-opacity:1" />
+                       style="fill:#F7F7F7;fill-opacity:1" />
                     <g
                        id="g200"
                        mask="url(#mask168)"
-                       style="fill:#808080;fill-opacity:1">
+                       style="fill:#F7F7F7;fill-opacity:1">
                       <g
                          id="g202"
-                         style="fill:#808080;fill-opacity:1" />
+                         style="fill:#F7F7F7;fill-opacity:1" />
                     </g>
                   </g>
                 </g>
@@ -436,14 +436,14 @@
         <g
            transform="translate(433.2792,78.7208)"
            id="g206"
-           style="fill:#808080;fill-opacity:1" />
+           style="fill:#F7F7F7;fill-opacity:1" />
         <g
            transform="translate(323.9554,323.9949)"
            id="g210"
-           style="fill:#808080;fill-opacity:1">
+           style="fill:#F7F7F7;fill-opacity:1">
           <path
              id="path212"
-             style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none"
+             style="fill:#F7F7F7;fill-opacity:1;fill-rule:nonzero;stroke:none"
              d="M 0,0 H 0.002 L 2.128,4.057 V 45.233 H 2.115 -39.048 l -4.109,-4.145 -19.429,-37.026 -6.11,-4.122 h -69.342 v -56.545 h 38.122 l 3.395,-4.107 -39.39,-75.278 h -0.002 l -2.125,-4.057 v -41.175 h 0.012 41.163 l 4.109,4.144 19.429,37.026 6.11,4.122 H 2.128 v 56.545 h -38.122 l -3.392,4.135 z"
              inkscape:connector-curvature="0" />
         </g>

@@ -26,7 +26,7 @@
   </metadata>
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -50,7 +50,7 @@
        type="text/css"
        id="current-color-scheme">
       .ColorScheme-Text {
-        color:#4d4d4d;
+        color:#F7F7F7;
       }
       </style>
   </defs>
@@ -59,5 +59,5 @@
      inkscape:connector-curvature="0"
      id="path4168"
      d="m 15.28889,1.2777775 -3.555557,7.1111294 1.777777,0.355573 z M 3.200001,6.2555424 0,9.1000159 3.555557,7.6777979 6.044445,15.5 7.822223,14.433318 16.000001,15.144464 13.155557,9.811126 11.733333,9.4555529 7.111111,12.655563 4.622222,6.6111159 Z"
-     style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.12769176" />
+     style="fill:#F7F7F7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.12769176" />
 </svg>

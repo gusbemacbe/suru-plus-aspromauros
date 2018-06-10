@@ -52,7 +52,7 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#F7F7F7666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
@@ -92,28 +92,28 @@
     <g
        transform="matrix(0.01399241,0,0,0.01399241,-1.4653897,291.19443)"
        id="g948"
-       style="fill:#808080;fill-opacity:1">
+       style="fill:#F7F7F7;fill-opacity:1">
       <g
          id="g940"
-         style="fill:#808080;fill-opacity:1">
+         style="fill:#F7F7F7;fill-opacity:1">
         <polygon
-           style="fill:#808080;fill-opacity:1"
+           style="fill:#F7F7F7;fill-opacity:1"
            points="240.945,216.906 196.767,172.729 185.358,184.138 255.56,254.341 256.449,254.341 326.642,184.147 315.233,172.738 271.064,216.906 "
            id="polygon936" />
         <polygon
-           style="fill:#808080;fill-opacity:1"
+           style="fill:#F7F7F7;fill-opacity:1"
            points="240.945,295.094 196.767,339.271 185.358,327.862 255.56,257.659 256.449,257.659 326.642,327.853 315.233,339.262 271.064,295.094 "
            id="polygon938" />
       </g>
       <g
          id="g946"
-         style="fill:#808080;fill-opacity:1">
+         style="fill:#F7F7F7;fill-opacity:1">
         <polygon
-           style="fill:#808080;fill-opacity:1"
+           style="fill:#F7F7F7;fill-opacity:1"
            points="151.617,241.673 195.794,197.495 184.385,186.086 114.182,256.288 114.182,257.177 184.376,327.37 195.785,315.961 151.617,271.792 "
            id="polygon942" />
         <polygon
-           style="fill:#808080;fill-opacity:1"
+           style="fill:#F7F7F7;fill-opacity:1"
            points="360.383,271.783 316.206,315.961 327.615,327.37 397.818,257.168 397.818,256.279 327.624,186.086 316.215,197.495 360.383,241.664 "
            id="polygon944" />
       </g>

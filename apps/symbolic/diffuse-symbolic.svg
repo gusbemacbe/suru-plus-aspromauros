@@ -44,8 +44,8 @@
     </linearGradient>
   </defs>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -66,6 +66,6 @@
   <path
      d="M 8.3571409,0.50000215 V 5.4899992 L 5.5,8.3471452 l 0.010003,0.01 H 5.5 V 15.5 H 6.9285729 V 8.9385682 l 1.428568,-1.428568 V 15.5 H 9.7857138 V 0.50000215 Z"
      id="path21"
-     style="fill:#808080;fill-opacity:1;stroke-width:1.99999964;stroke-opacity:0.55;enable-background:new"
+     style="fill:#F7F7F7;fill-opacity:1;stroke-width:1.99999964;stroke-opacity:0.55;enable-background:new"
      inkscape:connector-curvature="0" />
 </svg>

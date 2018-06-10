@@ -11,7 +11,7 @@
   </metadata>
   <defs id='defs7386'>
     <linearGradient id='linearGradient5606' osb:paint='solid'>
-      <stop id='stop5608' offset='0' style='stop-color:#000000;stop-opacity:1;'/>
+      <stop id='stop5608' offset='0' style='stop-color:#F7F7F7;stop-opacity:1;'/>
     </linearGradient>
     <linearGradient id='linearGradient4526' osb:paint='solid'>
       <stop id='stop4528' offset='0' style='stop-color:#ffffff;stop-opacity:1;'/>
@@ -30,6 +30,6 @@
   <g id='g1833' style='display:inline' transform='translate(-172,-319.98047)'/>
   <g id='layer1' transform='translate(-172,-319.98047)'>
     
-    <path d='M 172.98047,319.98047 173,320 172.9805,333 H 174 v -12 h 11 l 0.0117,-1.01953 L 173,320 Z M 175.00391,322 v 13 H 187 v -13 h -11.49609 z m 1.00195,1 H 186 v 11 h -9.99414 z M 178,325 v 1 h 6.01953 v -1 z m 0,2 v 1 h 6.01953 v -1 z m -0.008,2 v 1 H 181 v -1 z' id='path7248' style='color:#000000;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.99881315;marker:none;enable-background:accumulate'/>
+    <path d='M 172.98047,319.98047 173,320 172.9805,333 H 174 v -12 h 11 l 0.0117,-1.01953 L 173,320 Z M 175.00391,322 v 13 H 187 v -13 h -11.49609 z m 1.00195,1 H 186 v 11 h -9.99414 z M 178,325 v 1 h 6.01953 v -1 z m 0,2 v 1 h 6.01953 v -1 z m -0.008,2 v 1 H 181 v -1 z' id='path7248' style='color:#F7F7F7;display:inline;overflow:visible;visibility:visible;fill:#F7F7F7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.99881315;marker:none;enable-background:accumulate'/>
   </g>
 </svg>

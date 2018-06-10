@@ -11,7 +11,7 @@
   </metadata>
   <defs id='defs7386'>
     <linearGradient id='linearGradient5606' osb:paint='solid'>
-      <stop id='stop5608' offset='0' style='stop-color:#000000;stop-opacity:1;'/>
+      <stop id='stop5608' offset='0' style='stop-color:#F7F7F7;stop-opacity:1;'/>
     </linearGradient>
     <linearGradient id='linearGradient4526' osb:paint='solid'>
       <stop id='stop4528' offset='0' style='stop-color:#ffffff;stop-opacity:1;'/>
@@ -30,6 +30,6 @@
   <g id='g1833' style='display:inline' transform='translate(-212,-320.00021)'/>
   <g id='layer1' transform='translate(-212,-320.00021)'>
     
-    <path d='m 217,321 1,1 v 4 l -2,2 h 7 l -2,-2 v -4 l 1,-1 z m 2,8 v 4.75 c 0.0695,0.24887 0.14841,0.50377 0.23438,0.76172 0.0862,0.25552 0.17396,0.50101 0.26562,0.73828 0.0898,-0.23727 0.17751,-0.4847 0.26367,-0.74023 0.086,-0.25809 0.16494,-0.51077 0.23633,-0.75977 V 329 Z' id='path5588-9-2-96-04' style='color:#000000;fill:#808080;stroke:none;stroke-width:0.74985158'/>
+    <path d='m 217,321 1,1 v 4 l -2,2 h 7 l -2,-2 v -4 l 1,-1 z m 2,8 v 4.75 c 0.0695,0.24887 0.14841,0.50377 0.23438,0.76172 0.0862,0.25552 0.17396,0.50101 0.26562,0.73828 0.0898,-0.23727 0.17751,-0.4847 0.26367,-0.74023 0.086,-0.25809 0.16494,-0.51077 0.23633,-0.75977 V 329 Z' id='path5588-9-2-96-04' style='color:#F7F7F7;fill:#F7F7F7;stroke:none;stroke-width:0.74985158'/>
   </g>
 </svg>

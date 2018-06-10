@@ -32,7 +32,7 @@
      id="defs12" />
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -57,13 +57,13 @@
   <g
      transform="translate(-256,-75.996643)"
      id="g6"
-     style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-opacity:1" />
+     style="fill:#F7F7F7;fill-opacity:1;stroke:#F7F7F7;stroke-opacity:1" />
   <path
-     style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:5.33333302;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:5.33333302;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      d="M 0 0.00390625 L 0 16.003906 L 16 16.003906 L 16 0.00390625 L 0 0.00390625 z M 1.5 1.5039062 L 14.5 1.5039062 L 14.5 14.503906 L 1.5 14.503906 L 1.5 1.5039062 z "
      id="rect1471" />
   <rect
-     style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:9.12428951;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:9.12428951;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="rect1476"
      width="10"
      height="10"

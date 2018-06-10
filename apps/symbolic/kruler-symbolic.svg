@@ -33,7 +33,7 @@
   <sodipodi:namedview
      inkscape:bbox-nodes="true"
      inkscape:bbox-paths="true"
-     bordercolor="#666666"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      inkscape:current-layer="layer12"
      inkscape:cx="3.0391216"
@@ -45,7 +45,7 @@
      inkscape:object-nodes="true"
      inkscape:object-paths="false"
      objecttolerance="10"
-     pagecolor="#ffffff"
+     pagecolor="#F7F7F7"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      showborder="true"
@@ -79,9 +79,9 @@
        type="xygrid"
        visible="true" />
     <inkscape:grid
-       color="#000000"
+       color="#F7F7F7"
        dotted="true"
-       empcolor="#000000"
+       empcolor="#F7F7F7"
        empopacity="0.25098039"
        empspacing="4"
        enabled="true"
@@ -145,11 +145,11 @@
        inkscape:connector-curvature="0"
        d="m 605.31799,3 h -9.31781 v -16 z m -3.31779,-2 -4,-7 v 7 z"
        id="path3757"
-       style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:1.33111489"
+       style="fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:1.33111489"
        sodipodi:nodetypes="cccccccc" />
     <g
        id="layer1-8-4"
        transform="translate(568.0678,-28.494844)"
-       style="fill:#808080;fill-opacity:1" />
+       style="fill:#F7F7F7;fill-opacity:1" />
   </g>
 </svg>

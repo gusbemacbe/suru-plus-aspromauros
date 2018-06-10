@@ -21,7 +21,7 @@
   <sodipodi:namedview
      inkscape:bbox-nodes="true"
      inkscape:bbox-paths="true"
-     bordercolor="#666666"
+     bordercolor="#F7F7F7666"
      borderlayer="false"
      borderopacity="1"
      inkscape:current-layer="layer1"
@@ -56,7 +56,7 @@
      inkscape:window-y="34"
      inkscape:zoom="51.8125">
     <inkscape:grid
-       color="#000000"
+       color="#F7F7F7"
        dotted="false"
        empcolor="#0800ff"
        empopacity="0.4627451"
@@ -94,7 +94,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
     <filter
        inkscape:collect="always"
@@ -125,7 +125,7 @@
       <stop
          id="stop3789"
          offset="1"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <g
@@ -147,7 +147,7 @@
      style="display:inline"
      transform="translate(-618.99999,-286)">
     <path
-       style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:0.625;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 624.87353,286.63425 -3.24708,1.87502 2.12647,3.68285 h -4.25293 v 3.75001 h 4.25293 l -2.12647,3.68288 3.24708,1.87499 2.12646,-3.68288 2.12646,3.68288 3.24708,-1.87499 -2.12647,-3.68288 h 4.25293 v -3.75001 h -4.25293 l 2.12647,-3.68285 -3.24708,-1.87502 -2.12646,3.68288 z"
        id="path31"
        inkscape:connector-curvature="0" />

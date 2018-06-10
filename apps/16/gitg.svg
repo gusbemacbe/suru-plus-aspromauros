@@ -29,7 +29,7 @@
          d="M 0,0 H 92 V 92 H 0 Z"
          id="path6" /></clipPath></defs><sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -54,4 +54,4 @@
      id="path11"
      inkscape:connector-curvature="0"
      transform="matrix(0.57683433,0,0,0.57683433,-1.2209852,-1.228484)"
-     style="fill:#808080;fill-opacity:1" /></svg>
+     style="fill:#F7F7F7;fill-opacity:1" /></svg>

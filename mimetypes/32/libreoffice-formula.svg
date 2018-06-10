@@ -15,8 +15,8 @@
    sodipodi:docname="application-x-cue.svg"
    inkscape:version="0.92.2 (unknown)">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -54,7 +54,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient4526"
@@ -62,7 +62,7 @@
       <stop
          id="stop4528"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <g
@@ -85,13 +85,13 @@
      transform="translate(-272,-160)" />
   <path
      d="m 6.9385,3.0377329 h 9.061501 v 1.8114 h -0.9062 v -0.6038 H 7.6946 L 4.0027,13.000032 H 3.4665 L 1.2054,8.1750329 0.3249,8.6365329 0,7.5051329 1.8274,6.8099329 3.7283,10.520032 6.9378,3.0377329"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Symbol;display:inline;opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.1509434;enable-background:new"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8px;font-family:Symbol;display:inline;opacity:1;fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:0.1509434;enable-background:new"
      id="path8416"
      sodipodi:nodetypes="cccccccccccccc"
      inkscape:connector-curvature="0" />
   <path
      d="m 15.450201,6.0566329 h -1.497 l -1.84,2.4147 h -0.047 l -1.7776,-2.4147 H 8.6669 l 2.546701,3.3856 v 0.043 L 8.5733,12.999932 h 1.497001 l 1.9647,-2.6155 h 0.047 l 1.9648,2.6155 h 1.6217 l -2.7026,-3.5720991 v -0.043 l 2.4843,-3.3282"
-     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.6529007px;font-family:Vegur;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1509434;marker:none;enable-background:new"
+     style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.6529007px;font-family:Vegur;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#F7F7F7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1509434;marker:none;enable-background:new"
      id="path8420"
      sodipodi:nodetypes="ccccccccccccccccc"
      inkscape:connector-curvature="0" />

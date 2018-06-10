@@ -21,27 +21,27 @@
     <linearGradient
        id="linearGradient3767">
       <stop
-         style="stop-color:#ffffff;stop-opacity:1;"
+         style="stop-color:#F7F7F7;stop-opacity:1;"
          offset="0"
          id="stop3769" />
       <stop
          id="stop3777"
          offset="0.08994294"
-         style="stop-color:#ffffff;stop-opacity:0.23529412;" />
+         style="stop-color:#F7F7F7;stop-opacity:0.23529412;" />
       <stop
          id="stop3775"
          offset="0.87385589"
-         style="stop-color:#ffffff;stop-opacity:0.15686275;" />
+         style="stop-color:#F7F7F7;stop-opacity:0.15686275;" />
       <stop
-         style="stop-color:#ffffff;stop-opacity:0.39215687;"
+         style="stop-color:#F7F7F7;stop-opacity:0.39215687;"
          offset="1"
          id="stop3771" />
     </linearGradient>
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
@@ -82,14 +82,14 @@
     <g
        id="g973"
        transform="matrix(0.175,0,0,0.18910522,-4.7648646,1040.1439)"
-       style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:5.57935762;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+       style="fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:5.57935762;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
       <g
          transform="matrix(2,0,0,2,24.834232,-1978.9059)"
          id="g4195"
-         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:2.78967881;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+         style="fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:2.78967881;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
         <path
            inkscape:connector-curvature="0"
-           style="display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:2.78967881;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
+           style="display:inline;fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:2.78967881;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new"
            d="m 25,983.36228 v 8.9999 l 9,8.00002 -9,8 v 8.9999 l 19,-16.9999 z"
            id="path3904"
            sodipodi:nodetypes="ccccccc" />
@@ -98,7 +98,7 @@
            inkscape:connector-curvature="0"
            id="path3860"
            d="m 4,994.36218 v 12.00002 h 9 v 11 l 19,-17 -19,-17.00002 v 11 z"
-           style="display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:2.78967881;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
+           style="display:inline;fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:2.78967881;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;enable-background:new" />
       </g>
     </g>
   </g>

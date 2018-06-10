@@ -17,8 +17,8 @@
    inkscape:version="0.92.3 (unknown)"
    sodipodi:docname="cdcat-symbolic.svg">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -55,19 +55,19 @@
        id="linearGradient3977">
       <stop
          id="stop3979"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#F7F7F7;stop-opacity:1"
          offset="0" />
       <stop
          id="stop3981"
-         style="stop-color:#ffffff;stop-opacity:0.23529412"
+         style="stop-color:#F7F7F7;stop-opacity:0.23529412"
          offset="0.02929282" />
       <stop
          id="stop3983"
-         style="stop-color:#ffffff;stop-opacity:0.15686275"
+         style="stop-color:#F7F7F7;stop-opacity:0.15686275"
          offset="0.97230476" />
       <stop
          id="stop3985"
-         style="stop-color:#ffffff;stop-opacity:0.39215687"
+         style="stop-color:#F7F7F7;stop-opacity:0.39215687"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -94,11 +94,11 @@
        id="linearGradient3104-9">
       <stop
          id="stop3106-5"
-         style="stop-color:#000000;stop-opacity:0.33950618"
+         style="stop-color:#F7F7F7;stop-opacity:0.33950618"
          offset="0" />
       <stop
          id="stop3108-5"
-         style="stop-color:#000000;stop-opacity:0.24691358"
+         style="stop-color:#F7F7F7;stop-opacity:0.24691358"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -172,30 +172,30 @@
        id="linearGradient3104-6">
       <stop
          offset="0"
-         style="stop-color:#000000;stop-opacity:0.31782946"
+         style="stop-color:#F7F7F7;stop-opacity:0.31782946"
          id="stop3106-3" />
       <stop
          offset="1"
-         style="stop-color:#000000;stop-opacity:0.24031007"
+         style="stop-color:#F7F7F7;stop-opacity:0.24031007"
          id="stop3108-9" />
     </linearGradient>
     <linearGradient
        id="linearGradient3977-4">
       <stop
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#F7F7F7;stop-opacity:1"
          id="stop3979-7" />
       <stop
          offset="0.01214366"
-         style="stop-color:#ffffff;stop-opacity:0.23529412"
+         style="stop-color:#F7F7F7;stop-opacity:0.23529412"
          id="stop3981-6" />
       <stop
          offset="0.98781353"
-         style="stop-color:#ffffff;stop-opacity:0.15686275"
+         style="stop-color:#F7F7F7;stop-opacity:0.15686275"
          id="stop3983-5" />
       <stop
          offset="1"
-         style="stop-color:#ffffff;stop-opacity:0.39215687"
+         style="stop-color:#F7F7F7;stop-opacity:0.39215687"
          id="stop3985-6" />
     </linearGradient>
     <linearGradient
@@ -241,11 +241,11 @@
        id="linearGradient5060">
       <stop
          offset="0"
-         style="stop-color:#000000;stop-opacity:1"
+         style="stop-color:#F7F7F7;stop-opacity:1"
          id="stop5062" />
       <stop
          offset="1"
-         style="stop-color:#000000;stop-opacity:0"
+         style="stop-color:#F7F7F7;stop-opacity:0"
          id="stop5064" />
     </linearGradient>
     <radialGradient
@@ -262,15 +262,15 @@
        id="linearGradient5048">
       <stop
          offset="0"
-         style="stop-color:#000000;stop-opacity:0"
+         style="stop-color:#F7F7F7;stop-opacity:0"
          id="stop5050" />
       <stop
          offset="0.5"
-         style="stop-color:#000000;stop-opacity:1"
+         style="stop-color:#F7F7F7;stop-opacity:1"
          id="stop5056" />
       <stop
          offset="1"
-         style="stop-color:#000000;stop-opacity:0"
+         style="stop-color:#F7F7F7;stop-opacity:0"
          id="stop5052" />
     </linearGradient>
     <linearGradient
@@ -298,9 +298,9 @@
   <g
      id="g920"
      transform="matrix(0.18559771,0,0,0.18559771,-6.0911001,11.556975)"
-     style="fill:#808080;fill-opacity:1">
+     style="fill:#F7F7F7;fill-opacity:1">
     <path
-       style="fill:#808080;fill-opacity:1;stroke-width:0.79998243;enable-background:new"
+       style="fill:#F7F7F7;fill-opacity:1;stroke-width:0.79998243;enable-background:new"
        d="M 4.3222656 1.1992188 C 1.9431181 1.1992188 0 2.9864674 0 5.1992188 C 0 6.3508574 0.52113678 7.4019484 1.3574219 8.1328125 L 7.8925781 14 L 14.642578 8.1328125 C 15.479364 7.4032285 16 6.3511935 16 5.1992188 C 16 2.9864666 14.056884 1.2011719 11.677734 1.2011719 C 10.11137 1.2011719 8.7535833 1.9696382 8 3.1328125 C 7.2464163 1.9696382 5.8886309 1.2011719 4.3222656 1.2011719 L 4.3222656 1.1992188 z M 4.8476562 2.1152344 C 6.1899215 2.1152344 7.3542316 2.7747256 8 3.7714844 C 8.6457681 2.7747256 9.8100795 2.1152344 11.152344 2.1152344 C 13.191108 2.1152344 14.855469 3.6467952 14.855469 5.5429688 C 14.855469 6.5301304 14.410426 7.4314382 13.693359 8.0566406 L 7.9082031 13.083984 L 2.3066406 8.0566406 C 1.5900029 7.4303413 1.1445312 6.5298423 1.1445312 5.5429688 C 1.1445313 3.6467959 2.8088936 2.1152344 4.8476562 2.1152344 z "
        transform="matrix(5.3879975,0,0,5.3879975,32.818832,-62.268953)"
        id="path8" />

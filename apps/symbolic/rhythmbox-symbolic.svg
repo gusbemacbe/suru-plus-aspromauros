@@ -15,8 +15,8 @@
    sodipodi:docname="gtkpod.svg"
    inkscape:version="0.92.2 (unknown)">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -54,7 +54,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient4526"
@@ -62,7 +62,7 @@
       <stop
          id="stop4528"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <g
@@ -85,5 +85,5 @@
      d="m 4.0000302,15.500061 c -2,0 -2,-2 -2,-2 V 2.5000616 c 0,-1.99999993 1.89327,-1.99636993 2,-1.99999993 H 12.00003 c 0,0 2,0.004 2,1.99999993 V 13.500061 c 0,2 -2,2 -2,2 z m 6.9999998,-0.75 c 0.69036,0 1.25,-0.55964 1.25,-1.25 0,-0.69036 -0.55964,-1.25 -1.25,-1.25 -0.69036,0 -1.2499998,0.55964 -1.2499998,1.25 0,0.69036 0.5596398,1.25 1.2499998,1.25 z m -2.9999998,-4.25 c 2.2091398,0 3.9999998,-1.7908596 3.9999998,-3.9999994 0,-2.20914 -1.79086,-4 -3.9999998,-4 -2.20914,0 -4,1.79086 -4,4 0,2.2091398 1.79086,3.9999994 4,3.9999994 z m 0,-1.9999996 c -1.10457,0 -2,-0.89543 -2,-1.9999998 0,-1.10457 0.89543,-2 2,-2 1.10457,0 1.9999998,0.89543 1.9999998,2 0,1.1045698 -0.8954298,1.9999998 -1.9999998,1.9999998 z"
      id="path10508-6"
      sodipodi:nodetypes="scsccsscssssssssssssssss"
-     style="display:inline;fill:#808080;fill-opacity:1;stroke:none;enable-background:new" />
+     style="display:inline;fill:#F7F7F7;fill-opacity:1;stroke:none;enable-background:new" />
 </svg>

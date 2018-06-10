@@ -15,8 +15,8 @@
    sodipodi:docname="echonest-symbolic.svg"
    inkscape:version="0.92.3 (unknown)">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -54,7 +54,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient4526"
@@ -62,7 +62,7 @@
       <stop
          id="stop4528"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <g
@@ -83,15 +83,15 @@
   <g
      id="g877"
      transform="matrix(0.35433074,0,0,0.35433074,-3.9286148,-84.989537)"
-     style="fill:#808080;fill-opacity:1">
+     style="fill:#F7F7F7;fill-opacity:1">
     <path
        id="path14"
-       style="fill:#808080;fill-opacity:1;stroke-width:1.05833364"
+       style="fill:#F7F7F7;fill-opacity:1;stroke-width:1.05833364"
        d="m 33.665209,241.27046 a 21.166674,21.166674 0 0 0 -21.166675,21.16668 21.166674,21.166674 0 0 0 21.166675,21.16665 v -6.35 a 14.816672,14.816672 0 0 1 -14.816673,-14.81665 14.816672,14.816672 0 0 1 14.816673,-14.81668 14.816672,14.816672 0 0 1 14.816672,14.81668 h 6.349998 a 21.166674,21.166674 0 0 0 -21.16667,-21.16668 z"
        inkscape:connector-curvature="0" />
     <path
        id="path16"
-       style="fill:#808080;fill-opacity:1;stroke-width:1.05833364"
+       style="fill:#F7F7F7;fill-opacity:1;stroke-width:1.05833364"
        d="m 33.665209,251.85378 a 10.583337,10.583337 0 0 0 -10.583336,10.58336 h 6.350002 a 4.2333345,4.2333345 0 0 1 4.233334,-4.23336 4.2333345,4.2333345 0 0 1 4.233333,4.23336 h 6.350002 A 10.583337,10.583337 0 0 0 33.665209,251.85378 Z"
        inkscape:connector-curvature="0" />
   </g>

@@ -26,8 +26,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -50,13 +50,13 @@
     <style
        type="text/css"
        id="current-color-scheme">
-   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+   .ColorScheme-Text { color:#F7F7F7; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#F7F7F7; }
   </style>
   </defs>
   <path
      inkscape:connector-curvature="0"
      d="m 8.1999939,15.5 c 3.8474671,0 6.7499941,-1.93504 6.7499941,-4.500035 0,-3.3375007 -4.604971,-10.49996492 -6.7499941,-10.49996492 C 5.9274802,0.50000008 1.45,7.4674831 1.45,10.999965 1.45,13.56496 4.352528,15.5 8.1999939,15.5 Z"
      id="use921"
-     style="fill:#808080;fill-opacity:1;stroke-width:0.37499911"
+     style="fill:#F7F7F7;fill-opacity:1;stroke-width:0.37499911"
      sodipodi:nodetypes="sssss" />
 </svg>

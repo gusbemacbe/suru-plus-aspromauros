@@ -28,8 +28,8 @@
   <defs
      id="defs10" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -52,7 +52,7 @@
        id="grid824" />
   </sodipodi:namedview>
   <circle
-     style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:7.71852112;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:7.71852112;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="path822"
      cx="8"
      cy="7"
@@ -62,9 +62,9 @@
      cy="13"
      cx="2"
      id="circle815"
-     style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:7.71852112;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+     style="opacity:1;fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:7.71852112;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <circle
-     style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:7.71852112;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     style="opacity:1;fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:7.71852112;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
      id="circle817"
      cx="14"
      cy="13"

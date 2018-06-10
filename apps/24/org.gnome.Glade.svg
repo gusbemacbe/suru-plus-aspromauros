@@ -33,7 +33,7 @@
   <sodipodi:namedview
      inkscape:bbox-nodes="true"
      inkscape:bbox-paths="true"
-     bordercolor="#666666"
+     bordercolor="#F7F7F7"
      borderopacity="1"
      inkscape:current-layer="layer12"
      inkscape:cx="8"
@@ -78,9 +78,9 @@
        type="xygrid"
        visible="true" />
     <inkscape:grid
-       color="#000000"
+       color="#F7F7F7"
        dotted="true"
-       empcolor="#000000"
+       empcolor="#F7F7F7"
        empopacity="0.25098039"
        empspacing="4"
        enabled="true"
@@ -161,15 +161,15 @@
        inkscape:connector-curvature="0"
        d="M 593.0002,-8.0000007 V -1 h 12.02 z m 2,3.0536004 3.1156,1.9776003 h -3.1156 z"
        id="path3757"
-       style="fill:#808080;stroke:none;fill-opacity:1" />
+       style="fill:#F7F7F7;stroke:none;fill-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        d="m 606.0002,-12 0,14 -11,0 0,-2 1,0 0,1 9,0 0,-12 -9,0 0,3.6 -1,-0.6 0,-4 z"
        id="path3701-0-3-2-4-2-9-2-1-1"
-       style="color:#bebebe;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
+       style="color:#F7F7F7;fill:#F7F7F7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate" />
     <g
        id="layer1-8-4"
        transform="translate(568.0678,-28.494844)"
-       style="fill:#808080;fill-opacity:1" />
+       style="fill:#F7F7F7;fill-opacity:1" />
   </g>
 </svg>

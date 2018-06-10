@@ -37,7 +37,7 @@
       <path
          id="path1027"
          d="M 111.94141,84 C 99.359506,84.145 90.1531,83.713998 82.625,87.867188 c -3.7641,2.0768 -6.751838,5.574737 -8.398438,9.960937 C 72.580062,102.21433 72,107.4241 72,114 v 42 h 160 v -26 c 0,-6.5759 -0.57996,-11.78566 -2.22656,-16.17188 -0.205,-0.5455 -0.47919,-1.03993 -0.74219,-1.54296 -0.1,-0.1848 -0.17844,-0.38051 -0.27344,-0.56641 -1.727,-3.38752 -4.25471,-6.14522 -7.38281,-7.87109 C 213.8463,99.694146 204.64049,100.1454 192.05859,100 H 192 151.66797 L 135.45312,84 h -23.49218 z"
-         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:none;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;fill:#e3dfd5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.00000048;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+         style="color:#F7F7F7;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:none;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#F7F7F7;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#F7F7F7;solid-opacity:1;fill:#e3dfd5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.00000048;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;marker:none;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
          inkscape:connector-curvature="0" />
     </clipPath>
     <clipPath
@@ -129,7 +129,7 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#F7F7F7666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
@@ -172,7 +172,7 @@
       <path
          id="path3239"
          d="m 1.6312713,295.0904 c -0.03003,-0.13069 0.127288,-0.20641 0.234407,-0.19243 0.209389,0.0273 0.30867,0.26166 0.260454,0.44942 -0.07332,0.28552 -0.398128,0.414 -0.664425,0.32848 -0.361853,-0.11621 -0.52046494,-0.53526 -0.396505,-0.87944 0.1579021,-0.43841 0.672667,-0.62748 1.094441,-0.46453 0.5151241,0.19902 0.7348071,0.81023 0.5325561,1.30945 -0.2398061,0.59193 -0.9478771,0.84232 -1.5244581,0.60058 -0.66879594,-0.2804 -0.94995794,-1.08558 -0.66860594,-1.73946 0.320864,-0.74571 1.22334294,-1.05769 1.95447604,-0.73664 0.8226568,0.36124 1.16547,1.36113 0.8046569,2.16949 -0.4015531,0.89963 -1.498932,1.27331 -2.38449194,0.87268 -0.976618,-0.44181 -1.381177,-1.63675 -0.94071,-2.5995 0.345373,-0.7549 1.13490394,-1.2299 1.96112594,-1.2085"
-         style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.03731246;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         style="fill:#F7F7F7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.03731246;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          inkscape:export-xdpi="251.89999"
          inkscape:export-ydpi="251.89999"
          inkscape:export-filename="E:\back up Escritorio\Mis Documentos\Diseño Web\Gloobus-web\path3266.png"

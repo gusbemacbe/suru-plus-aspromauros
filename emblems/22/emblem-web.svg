@@ -17,8 +17,8 @@
    inkscape:version="0.91 r"
    sodipodi:docname="emblem-synchronizing.svg">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -62,19 +62,19 @@
        id="linearGradient4011-0-8-3">
       <stop
          id="stop4013-2-3-6"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#F7F7F7;stop-opacity:1"
          offset="0" />
       <stop
          id="stop4015-7-1-68"
-         style="stop-color:#ffffff;stop-opacity:0.23529412"
+         style="stop-color:#F7F7F7;stop-opacity:0.23529412"
          offset="0.507761" />
       <stop
          id="stop4017-13-5-6"
-         style="stop-color:#ffffff;stop-opacity:0.15686275"
+         style="stop-color:#F7F7F7;stop-opacity:0.15686275"
          offset="0.83456558" />
       <stop
          id="stop4019-92-5-3"
-         style="stop-color:#ffffff;stop-opacity:0.39215687"
+         style="stop-color:#F7F7F7;stop-opacity:0.39215687"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -102,7 +102,7 @@
   <path
      d="M 8.0000001,1.4e-7 C 3.5858743,1.4e-7 0,3.5858744 0,8 0,12.414126 3.5858743,16 8.0000001,16 12.414126,16 16.000007,12.414126 16,8 16,3.5858744 12.414126,1.4e-7 8.0000001,1.4e-7 Z"
      id="path2555-7-8-5-0"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#5294e2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999982;marker:none;enable-background:accumulate"
+     style="color:#F7F7F7;display:inline;overflow:visible;visibility:visible;opacity:1;fill:#5294e2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.99999982;marker:none;enable-background:accumulate"
      inkscape:connector-curvature="0" />
   <g
      style="display:inline"
@@ -147,7 +147,7 @@
      style="display:inline"
      transform="matrix(1.1428571,0,0,1.1428571,-595.24376,504.26142)" />
   <g
-     style="opacity:0.3;fill:#ffffff;fill-opacity:1"
+     style="opacity:0.3;fill:#F7F7F7;fill-opacity:1"
      id="g5"
      transform="matrix(0.03337271,0,0,0.03337271,-28.397448,1.1630453)" />
   <g
@@ -157,10 +157,10 @@
   <g
      transform="matrix(1.1798472,0,0,1.1798472,-100.24207,-929.18792)"
      id="layer12-9"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.70000005;marker:none;enable-background:accumulate" />
+     style="color:#F7F7F7;display:inline;overflow:visible;visibility:visible;opacity:0.3;fill:#F7F7F7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.70000005;marker:none;enable-background:accumulate" />
   <path
      d="m 10.754641,3.1248799 c -1.0036654,0 -1.8172987,0.81314 -1.8172987,1.81621 0,0.11885 0.016451,0.23164 0.038259,0.34413 l -2.52509,1.35738 c -0.3221123,-0.29028 -0.7372706,-0.47795 -1.2051564,-0.47795 -1.0036662,0 -1.8172991,0.81315 -1.8172991,1.81623 0,1.00307 0.8136329,1.8162203 1.8172991,1.8162203 0.4582923,0 0.8663488,-0.1790903 1.1860268,-0.4588403 L 8.9756013,10.75301 c -0.017374,0.10085 -0.038259,0.20008 -0.038259,0.30589 0,1.00306 0.8136333,1.81622 1.8172987,1.81622 1.003667,0 1.8173,-0.81316 1.8173,-1.81622 0,-1.00307 -0.813633,-1.8162301 -1.8173,-1.8162301 -0.453863,0 -0.8675474,0.16478 -1.1860264,0.43972 l -2.5442187,-1.41475 c 0.015331,-0.0949 0.038259,-0.18749 0.038259,-0.28676 0,-0.092 -0.00587,-0.17928 -0.019127,-0.26766 l 2.5633477,-1.37651 c 0.314137,0.2591 0.7086644,0.4206 1.1477674,0.4206 1.003666,0 1.817301,-0.81314 1.817301,-1.81622 0,-1.00307 -0.813635,-1.81621 -1.817301,-1.81621 z"
      inkscape:connector-curvature="0"
      id="path24876-5-1-7-8"
-     style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.70000005;marker:none;enable-background:accumulate" />
+     style="color:#F7F7F7;display:inline;overflow:visible;visibility:visible;fill:#F7F7F7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.70000005;marker:none;enable-background:accumulate" />
 </svg>

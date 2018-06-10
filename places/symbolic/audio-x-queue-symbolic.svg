@@ -19,8 +19,8 @@
      id="defs4" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
@@ -68,9 +68,9 @@
        height="3"
        width="16"
        id="rect3769"
-       style="fill:#bebebe;fill-opacity:1;stroke:none" />
+       style="fill:#F7F7F7;fill-opacity:1;stroke:none" />
     <rect
-       style="fill:#bebebe;fill-opacity:1;stroke:none"
+       style="fill:#F7F7F7;fill-opacity:1;stroke:none"
        id="rect3802"
        width="16"
        height="2.0000174"
@@ -86,9 +86,9 @@
        height="1.0000261"
        width="16"
        id="rect3804"
-       style="fill:#bebebe;fill-opacity:1;stroke:none" />
+       style="fill:#F7F7F7;fill-opacity:1;stroke:none" />
     <rect
-       style="fill:#bebebe;fill-opacity:1;stroke:none"
+       style="fill:#F7F7F7;fill-opacity:1;stroke:none"
        id="rect3806"
        width="16"
        height="1.0000261"
@@ -104,6 +104,6 @@
        height="1.0000261"
        width="16"
        id="rect3808"
-       style="fill:#bebebe;fill-opacity:1;stroke:none" />
+       style="fill:#F7F7F7;fill-opacity:1;stroke:none" />
   </g>
 </svg>

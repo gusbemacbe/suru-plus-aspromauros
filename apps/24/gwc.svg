@@ -27,8 +27,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -57,7 +57,7 @@
     <style
        type="text/css"
        id="current-color-scheme">
-   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+   .ColorScheme-Text { color:#F7F7F7; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#F7F7F7; }
   </style>
   </defs>
   <g
@@ -71,10 +71,10 @@
          inkscape:connector-curvature="0"
          id="path818"
          d="M 8,1 V 15 H 9 V 1 Z"
-         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          transform="rotate(180,8.5,8)"
-         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.84515429px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:0.84515429px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 10,3 v 10 h 1 V 3 Z"
          id="path820"
          inkscape:connector-curvature="0" />
@@ -83,15 +83,15 @@
          inkscape:connector-curvature="0"
          id="path822"
          d="m 12,4 v 8 h 1 V 4 Z"
-         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.75592893px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:0.75592893px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
          transform="rotate(180,8.5,8)"
-         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.46291003px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:0.46291003px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 14,7 v 3 h 1 V 7 Z"
          id="path824"
          inkscape:connector-curvature="0" />
       <path
-         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.84515429px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:0.84515429px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 10,3 v 10 h 1 V 3 Z"
          id="path826"
          inkscape:connector-curvature="0" />
@@ -99,9 +99,9 @@
          inkscape:connector-curvature="0"
          id="path828"
          d="m 12,4 v 8 h 1 V 4 Z"
-         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.75592893px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+         style="fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:0.75592893px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
       <path
-         style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.46291003px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         style="fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:0.46291003px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          d="m 14,6 v 3 h 1 V 6 Z"
          id="path830"
          inkscape:connector-curvature="0" />

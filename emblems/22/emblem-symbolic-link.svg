@@ -29,8 +29,8 @@
   <defs
      id="defs10" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -49,13 +49,13 @@
      inkscape:window-maximized="0"
      inkscape:current-layer="svg6" />
   <circle
-     style="opacity:1;fill:#808080;fill-opacity:1"
+     style="opacity:1;fill:#F7F7F7;fill-opacity:1"
      cx="8"
      cy="8"
      r="7"
      id="circle2" />
   <path
-     style="fill:#ffffff;fill-rule:evenodd"
+     style="fill:#000;fill-rule:evenodd"
      d="M 10.188163,11.737201 8.8641053,10.214028 10.086828,9.1511448 C 10.863304,8.4760985 11.24706,7.4684392 11.093554,6.5077031 10.940038,5.5469103 10.174108,4.6657976 9.2440345,4.3800484 8.3603755,4.1099863 7.36444,4.3132208 6.5987334,4.9198605 7.1991044,4.4884636 7.9534121,4.5934891 8.4031734,5.1109888 8.8867281,5.6672618 8.7368384,6.3859674 8.1306129,6.9007492 L 6.9078905,7.9636325 5.5957817,6.4542053 4.8731176,11.719921 Z"
      id="path4"
      inkscape:connector-curvature="0" />

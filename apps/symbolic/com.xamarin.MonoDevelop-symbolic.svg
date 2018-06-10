@@ -26,8 +26,8 @@
     </rdf:RDF>
   </metadata>
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -50,11 +50,11 @@
     <style
        type="text/css"
        id="current-color-scheme">
-   .ColorScheme-Text { color:#5c616c; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#d3dae3; }
+   .ColorScheme-Text { color:#F7F7F7; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#F7F7F7; }
   </style>
   </defs>
   <g
-     style="display:inline;fill:#808080;fill-opacity:1;enable-background:new"
+     style="display:inline;fill:#F7F7F7;fill-opacity:1;enable-background:new"
      id="g2066"
      transform="matrix(0.10604738,0,0,0.10604738,81.162033,19.998733)">
     <path
@@ -65,7 +65,7 @@
        inkscape:export-xdpi="16.219999"
        sodipodi:nodetypes="cssscsssssssssscc"
        id="path3607"
-       style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.38636279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#F7F7F7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.38636279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        inkscape:export-ydpi="16.219999"
@@ -74,6 +74,6 @@
        inkscape:export-xdpi="16.219999"
        sodipodi:nodetypes="cssscsssssssssscc"
        id="path3611"
-       style="fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.38636279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:#F7F7F7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3.38636279;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>

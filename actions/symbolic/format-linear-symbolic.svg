@@ -27,7 +27,7 @@
       <path
          id="path8477"
          d="M 0,-7.0710768 L -7.0710894,0 L 0,7.0710589 L 7.0710462,0 L 0,-7.0710768 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         style="fill-rule:evenodd;stroke:#F7F7F7;stroke-width:1.0pt"
          transform="scale(0.2)" />
     </marker>
     <marker
@@ -53,7 +53,7 @@
       <path
          id="path8395"
          d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
-         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt;"
+         style="fill-rule:evenodd;stroke:#F7F7F7;stroke-width:1.0pt;"
          transform="scale(0.8) rotate(180) translate(12.5,0)" />
     </marker>
     <linearGradient
@@ -61,20 +61,20 @@
       <stop
          id="stop3948"
          offset="0"
-         style="stop-color:#000000;stop-opacity:0.74698794;" />
+         style="stop-color:#F7F7F7;stop-opacity:0.74698794;" />
       <stop
          id="stop3950"
          offset="1"
-         style="stop-color:#000000;stop-opacity:0.02409638;" />
+         style="stop-color:#F7F7F7;stop-opacity:0.02409638;" />
     </linearGradient>
     <linearGradient
        id="linearGradient3830-9">
       <stop
-         style="stop-color:#000000;stop-opacity:0.74698794;"
+         style="stop-color:#F7F7F7;stop-opacity:0.74698794;"
          offset="0"
          id="stop3832-7" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.02409638;"
+         style="stop-color:#F7F7F7;stop-opacity:0.02409638;"
          offset="1"
          id="stop3834-5" />
     </linearGradient>
@@ -93,7 +93,7 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#555753"
-     bordercolor="#666666"
+     bordercolor="#F7F7F7666"
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
@@ -144,7 +144,7 @@
      id="layer1"
      transform="translate(-31.97559,-220.36218)">
     <rect
-       style="opacity:0.25;fill:#bebebe;fill-opacity:1;stroke:none"
+       style="opacity:0.25;fill:#F7F7F7;fill-opacity:1;stroke:none"
        id="rect3032"
        width="14"
        height="14"
@@ -152,7 +152,7 @@
        y="1.00002"
        transform="translate(31.97559,220.36218)" />
     <path
-       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#000000;fill:#bebebe;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;stroke-opacity:1"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;baseline-shift:baseline;color:#F7F7F7;fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:1px;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Sans;-inkscape-font-specification:Sans;stroke-opacity:1"
        d="m 45.88184,221.86218 a 0.50005,0.50005 0 0 0 -0.25,0.15625 l -12,12 a 0.50005,0.50005 0 1 0 0.71875,0.6875 l 12,-12 a 0.50005,0.50005 0 0 0 -0.46875,-0.84375 z"
        id="path3820"
        inkscape:connector-curvature="0" />

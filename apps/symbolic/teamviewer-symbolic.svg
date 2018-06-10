@@ -15,8 +15,8 @@
    inkscape:version="0.92.2 (unknown)"
    sodipodi:docname="teamviewer-symbolic.svg">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -49,19 +49,19 @@
        id="linearGradient3924-4-8">
       <stop
          id="stop3926-0-4"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#F7F7F7;stop-opacity:1"
          offset="0" />
       <stop
          id="stop3928-6-8"
-         style="stop-color:#ffffff;stop-opacity:0.23529412"
+         style="stop-color:#F7F7F7;stop-opacity:0.23529412"
          offset="0.06316455" />
       <stop
          id="stop3930-2-1"
-         style="stop-color:#ffffff;stop-opacity:0.15686275"
+         style="stop-color:#F7F7F7;stop-opacity:0.15686275"
          offset="0.95056331" />
       <stop
          id="stop3932-9-0"
-         style="stop-color:#ffffff;stop-opacity:0.39215687"
+         style="stop-color:#F7F7F7;stop-opacity:0.39215687"
          offset="1" />
     </linearGradient>
     <radialGradient
@@ -142,7 +142,7 @@
      transform="translate(0.04145226,0.29015376)"
      style="stroke:none">
     <path
-       style="fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
+       style="fill:#F7F7F7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.5;stroke-miterlimit:4;stroke-dasharray:none"
        d="m 7.958548,0.20984644 c -4.142173,0 -7.50000026,3.35792036 -7.50000026,7.49999996 0,4.1422286 3.35782726,7.4999996 7.50000026,7.4999996 4.141792,0 7.5,-3.357733 7.5,-7.4999996 0,-4.1420796 -3.358208,-7.49999996 -7.5,-7.49999996 z M 6.4585477,4.2088698 V 6.2098464 H 9.458548 V 4.2088698 L 13.457572,7.7098464 9.458548,11.210822 V 9.2098464 H 6.4585477 V 11.210822 L 2.4595243,7.7098464 Z"
        id="path3215-6"
        inkscape:connector-curvature="0" />

@@ -16,7 +16,7 @@
    inkscape:version="0.92.2 (unknown)">
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -54,7 +54,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient4526"
@@ -106,12 +106,12 @@
   <g
      id="g932"
      transform="matrix(-0.29355554,0,0,-0.29355554,37.904973,79.793259)"
-     style="fill:#808080;fill-opacity:1">
+     style="fill:#F7F7F7;fill-opacity:1">
     <path
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cccsccccscc"
        id="path4640"
        d="m 102.74688,269.30969 -11.873058,2.50687 v -39.33945 c 2e-5,-5.0822 1.56253,-8.88023 4.68755,-11.39403 3.10448,-2.51379 7.812578,-3.77068 14.124308,-3.77068 h 2.40545 v 7.95123 h -1.85034 c -2.46713,0 -4.32776,0.61025 -5.58189,1.83071 -1.27467,1.22047 -1.91202,3.0147 -1.91202,5.38277 v 36.83258"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.18540382px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.9;fill:#808080;fill-opacity:1;stroke:none;stroke-width:1.39493775" />
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:25.18540382px;line-height:125%;font-family:'Bitstream Vera Sans';text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.9;fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:1.39493775" />
   </g>
 </svg>

@@ -15,8 +15,8 @@
    sodipodi:docname="CODE.svg"
    inkscape:version="0.92.2 (unknown)">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -54,7 +54,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient4526"
@@ -62,7 +62,7 @@
       <stop
          id="stop4528"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <g
@@ -83,11 +83,11 @@
   <path
      d="M 11.748845,0.5 V 13.38295 L 0.5,11.712228 11.748845,15.5 15.498873,13.940045 V 2.2925321 l 0.0012,-5.625e-4 -0.0012,-0.00281 V 2.0597398 Z"
      id="path951"
-     style="fill:#808080;fill-opacity:1;stroke-width:0.05769274"
+     style="fill:#F7F7F7;fill-opacity:1;stroke-width:0.05769274"
      inkscape:connector-curvature="0" />
   <path
      d="M 7.8123297,2.694807 4.3668789,6.1005919 2.2925321,4.5383771 1.4376204,4.8239136 3.5480247,6.9100921 1.4376204,8.9961577 2.2925321,9.281807 4.3668789,7.7194794 h 1.125e-4 l 3.4452258,3.4055596 2.0635291,-0.876766 v -6.6767 z m -1.125e-4,2.4300744 v 3.569971 L 5.4418563,6.9098671 Z"
      id="path887"
-     style="fill:#808080;fill-opacity:1;stroke-width:0.05769274"
+     style="fill:#F7F7F7;fill-opacity:1;stroke-width:0.05769274"
      inkscape:connector-curvature="0" />
 </svg>

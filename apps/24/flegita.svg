@@ -15,8 +15,8 @@
    sodipodi:docname="flegita.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -58,7 +58,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient4526"
@@ -66,7 +66,7 @@
       <stop
          id="stop4528"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient3600-4"
@@ -116,13 +116,13 @@
      id="layer1"
      transform="translate(-471.99997,-99.999939)" />
   <g
-     style="filter:url(#filter7554);enable-background:new;fill:#808080;fill-opacity:1"
+     style="filter:url(#filter7554);enable-background:new;fill:#F7F7F7;fill-opacity:1"
      transform="translate(-324.86451,154.86049)"
      id="g33">
     <path
        inkscape:connector-curvature="0"
        d="m 327.86851,-153.86049 c 0,0 -0.99902,-0.003 -1,1 l -0.004,3.99609 h -2 l 9e-5,1 h 16 l -9e-5,-1 h -2 l 0.004,-3.99609 c 9.8e-4,-1.00336 -1,-1 -1,-1 z m -0.004,0.99609 h 10 v 4 h -10 z m -0.99609,7 v 5.00391 c 0,0 0,1 1,1 h 10 c 1,0 1,-1 1,-1 v -5.00391 h -1.00391 v 5 h -10 v -5 z"
-       style="fill:#808080;fill-opacity:1"
+       style="fill:#F7F7F7;fill-opacity:1"
        id="path31"
        sodipodi:nodetypes="ccccccccccccccccccssccccccc" />
   </g>

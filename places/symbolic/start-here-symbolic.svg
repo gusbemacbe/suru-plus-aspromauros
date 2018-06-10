@@ -28,8 +28,8 @@
   <defs
      id="defs18" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -54,31 +54,31 @@
   <g
      transform="translate(-428,-185.99664)"
      id="g12"
-     style="fill:#808080;fill-opacity:1">
+     style="fill:#F7F7F7;fill-opacity:1">
     <rect
        height="4"
-       style="fill:#808080;fill-opacity:1"
+       style="fill:#F7F7F7;fill-opacity:1"
        width="4"
        x="431"
        y="189"
        id="rect4" />
     <rect
        height="4"
-       style="fill:#808080;fill-opacity:1"
+       style="fill:#F7F7F7;fill-opacity:1"
        width="4"
        x="437"
        y="189"
        id="rect6" />
     <rect
        height="4"
-       style="fill:#808080;fill-opacity:1"
+       style="fill:#F7F7F7;fill-opacity:1"
        width="4"
        x="437"
        y="195"
        id="rect8" />
     <rect
        height="4"
-       style="fill:#808080;fill-opacity:1"
+       style="fill:#F7F7F7;fill-opacity:1"
        width="4"
        x="431"
        y="195"

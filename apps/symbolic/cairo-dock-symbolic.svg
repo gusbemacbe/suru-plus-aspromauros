@@ -15,8 +15,8 @@
    inkscape:version="0.92.2 (unknown)"
    sodipodi:docname="cairo-dock-symbolic.svg">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -49,19 +49,19 @@
        id="linearGradient3924-4-8">
       <stop
          id="stop3926-0-4"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#F7F7F7;stop-opacity:1"
          offset="0" />
       <stop
          id="stop3928-6-8"
-         style="stop-color:#ffffff;stop-opacity:0.23529412"
+         style="stop-color:#F7F7F7;stop-opacity:0.23529412"
          offset="0.06316455" />
       <stop
          id="stop3930-2-1"
-         style="stop-color:#ffffff;stop-opacity:0.15686275"
+         style="stop-color:#F7F7F7;stop-opacity:0.15686275"
          offset="0.95056331" />
       <stop
          id="stop3932-9-0"
-         style="stop-color:#ffffff;stop-opacity:0.39215687"
+         style="stop-color:#F7F7F7;stop-opacity:0.39215687"
          offset="1" />
     </linearGradient>
     <radialGradient
@@ -173,12 +173,12 @@
        cy="7.7668653"
        cx="7.9586411"
        id="path3821"
-       style="opacity:0.5;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06766987;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="opacity:0.5;fill:#F7F7F7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.06766987;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="css"
        id="path4064"
        d="M -0.04145226,11.726796 C 6.5902573,11.901532 6.936399,9.2535677 8.3694981,9.2805925 10.164373,9.3148647 9.4885817,11.938456 15.958548,11.763715"
-       style="display:inline;opacity:1;fill:#808080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.53383493;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="display:inline;opacity:1;fill:#F7F7F7;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.53383493;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>

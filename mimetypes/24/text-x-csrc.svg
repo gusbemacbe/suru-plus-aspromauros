@@ -23,7 +23,7 @@
   <sodipodi:namedview
      inkscape:bbox-nodes="true"
      inkscape:bbox-paths="false"
-     bordercolor="#666666"
+     bordercolor="#F7F7F7666"
      borderlayer="false"
      borderopacity="1"
      inkscape:current-layer="g6058"
@@ -64,7 +64,7 @@
      inkscape:window-y="34"
      inkscape:zoom="51.875">
     <inkscape:grid
-       color="#000000"
+       color="#F7F7F7"
        dotted="false"
        empcolor="#0800ff"
        empopacity="0.4627451"
@@ -102,7 +102,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <g
@@ -114,7 +114,7 @@
     <path
        inkscape:connector-curvature="0"
        id="path4717"
-       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:medium;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';letter-spacing:0px;word-spacing:0px;display:inline;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.13392858px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
+       style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:medium;line-height:125%;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';letter-spacing:0px;word-spacing:0px;display:inline;fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:0.13392858px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;enable-background:new"
        d="m 126.71442,190.35973 q -0.0701,1.52303 -0.82164,2.69541 -0.7515,1.16231 -2.11423,1.80359 -1.35271,0.64127 -3.09619,0.64127 -2.87575,0 -4.52906,-1.87374 -1.6533,-1.87378 -1.6533,-5.29058 v -0.72144 q 0,-2.14431 0.74148,-3.74751 0.7515,-1.61322 2.15431,-2.48493 1.4028,-0.8818 3.24649,-0.8818 2.65531,0 4.26853,1.40281 1.61323,1.39283 1.83367,3.84771 h -3.50701 q -0.0401,-1.33266 -0.67135,-1.91384 -0.63126,-0.58118 -1.92384,-0.58118 -1.31262,0 -1.92385,0.982 -0.61122,0.982 -0.64128,3.13629 v 1.03204 q 0,2.33469 0.58116,3.33668 0.59118,1.00199 2.02405,1.00199 1.21243,0 1.85371,-0.57117 0.64128,-0.57108 0.68136,-1.8136 z" />
   </g>
 </svg>

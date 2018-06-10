@@ -19,7 +19,7 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#F7F7F7666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
@@ -39,11 +39,11 @@
     <linearGradient
        id="linearGradient4051">
       <stop
-         style="stop-color:#000000;stop-opacity:0.62676054;"
+         style="stop-color:#F7F7F7;stop-opacity:0.62676054;"
          offset="0"
          id="stop4053" />
       <stop
-         style="stop-color:#000000;stop-opacity:0;"
+         style="stop-color:#F7F7F7;stop-opacity:0;"
          offset="1"
          id="stop4055" />
     </linearGradient>
@@ -216,7 +216,7 @@
        id="clipPath3832"
        clipPathUnits="userSpaceOnUse">
       <rect
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#55d093;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.16599989;marker:none;enable-background:accumulate"
+         style="color:#F7F7F7;display:inline;overflow:visible;visibility:visible;fill:#55d093;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.16599989;marker:none;enable-background:accumulate"
          id="rect3834"
          width="40.272732"
          height="40.272732"
@@ -492,7 +492,7 @@
       <stop
          id="stop3824"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
       <stop
          id="stop3826"
          offset="1"
@@ -524,7 +524,7 @@
        id="clipPath4015"
        clipPathUnits="userSpaceOnUse">
       <rect
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#66d35f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:200;marker:none;enable-background:accumulate"
+         style="color:#F7F7F7;display:inline;overflow:visible;visibility:visible;fill:#66d35f;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:200;marker:none;enable-background:accumulate"
          id="rect4017"
          width="26.997219"
          height="26.997219"
@@ -674,7 +674,7 @@
     </g>
     <path
        inkscape:connector-curvature="0"
-       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#808080;stroke-width:0.74581856;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#F7F7F7;stroke-width:0.74581856;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        d="m 0,1046.9893 h 4.06701 c 0,0 0.6566,-8.3634 7.95786,-8.4786 -2.35524,3.686 -0.14777,8.4786 -0.14777,8.4786 H 16"
        id="path1591" />
   </g>

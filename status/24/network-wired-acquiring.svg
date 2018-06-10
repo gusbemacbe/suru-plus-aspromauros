@@ -18,8 +18,8 @@
   <defs
      id="defs15" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -54,31 +54,31 @@
   <g
      id="layer9"
      transform="translate(-260.98 -177)"
-     style="fill:#5c616c;fill-opacity:0.99215686">
+     style="fill:#F7F7F7;fill-opacity:0.99215686">
     <rect
        id="rect12733"
-       style="color-rendering:auto;color:#bebebe;shape-rendering:auto;solid-color:#000000;fill:#5c616c;mix-blend-mode:normal;opacity:0.35;image-rendering:auto;isolation:auto;paint-order:normal;fill-opacity:0.99215686"
+       style="color-rendering:auto;color:#F7F7F7;shape-rendering:auto;solid-color:#F7F7F7;fill:#F7F7F7;mix-blend-mode:normal;opacity:0.35;image-rendering:auto;isolation:auto;paint-order:normal;fill-opacity:0.99215686"
        height="4.9718"
        width="5.016"
        y="187.99"
        x="260.98" />
     <rect
        id="rect12735"
-       style="color-rendering:auto;color:#bebebe;shape-rendering:auto;solid-color:#000000;fill:#5c616c;mix-blend-mode:normal;opacity:0.35;image-rendering:auto;isolation:auto;paint-order:normal;fill-opacity:0.99215686"
+       style="color-rendering:auto;color:#F7F7F7;shape-rendering:auto;solid-color:#F7F7F7;fill:#F7F7F7;mix-blend-mode:normal;opacity:0.35;image-rendering:auto;isolation:auto;paint-order:normal;fill-opacity:0.99215686"
        height="4.9718"
        width="5.016"
        y="178.03"
        x="266" />
     <rect
        id="rect12737"
-       style="color-rendering:auto;color:#bebebe;shape-rendering:auto;solid-color:#000000;fill:#5c616c;mix-blend-mode:normal;opacity:0.35;image-rendering:auto;isolation:auto;paint-order:normal;fill-opacity:0.99215686"
+       style="color-rendering:auto;color:#F7F7F7;shape-rendering:auto;solid-color:#F7F7F7;fill:#F7F7F7;mix-blend-mode:normal;opacity:0.35;image-rendering:auto;isolation:auto;paint-order:normal;fill-opacity:0.99215686"
        height="4.9718"
        width="5.016"
        y="188.03"
        x="272" />
     <rect
        id="rect11487"
-       style="color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;fill:#5c616c;mix-blend-mode:normal;image-rendering:auto;isolation:auto;paint-order:normal;enable-background:new;display:block;fill-opacity:0.99215686"
+       style="color-rendering:auto;color:#F7F7F7;shape-rendering:auto;solid-color:#F7F7F7;fill:#F7F7F7;mix-blend-mode:normal;image-rendering:auto;isolation:auto;paint-order:normal;enable-background:new;display:block;fill-opacity:0.99215686"
        rx="1.4961"
        ry="1.4961"
        height="2.9972"
@@ -87,7 +87,7 @@
        x="263.02" />
     <rect
        id="rect11504"
-       style="color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;fill:#5c616c;mix-blend-mode:normal;image-rendering:auto;isolation:auto;paint-order:normal;enable-background:new;display:block;fill-opacity:0.99215686"
+       style="color-rendering:auto;color:#F7F7F7;shape-rendering:auto;solid-color:#F7F7F7;fill:#F7F7F7;mix-blend-mode:normal;image-rendering:auto;isolation:auto;paint-order:normal;enable-background:new;display:block;fill-opacity:0.99215686"
        rx="1.4961"
        ry="1.4961"
        height="2.9972"
@@ -96,7 +96,7 @@
        x="267.02" />
     <rect
        id="rect11506"
-       style="color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;fill:#5c616c;mix-blend-mode:normal;image-rendering:auto;isolation:auto;paint-order:normal;enable-background:new;display:block;fill-opacity:0.99215686"
+       style="color-rendering:auto;color:#F7F7F7;shape-rendering:auto;solid-color:#F7F7F7;fill:#F7F7F7;mix-blend-mode:normal;image-rendering:auto;isolation:auto;paint-order:normal;enable-background:new;display:block;fill-opacity:0.99215686"
        rx="1.4961"
        ry="1.4961"
        height="2.9972"
@@ -105,7 +105,7 @@
        x="267.02" />
     <rect
        id="rect11528"
-       style="color-rendering:auto;color:#000000;shape-rendering:auto;solid-color:#000000;fill:#5c616c;mix-blend-mode:normal;image-rendering:auto;isolation:auto;paint-order:normal;enable-background:new;display:block;fill-opacity:0.99215686"
+       style="color-rendering:auto;color:#F7F7F7;shape-rendering:auto;solid-color:#F7F7F7;fill:#F7F7F7;mix-blend-mode:normal;image-rendering:auto;isolation:auto;paint-order:normal;enable-background:new;display:block;fill-opacity:0.99215686"
        rx="1.4961"
        ry="1.4961"
        height="2.9972"

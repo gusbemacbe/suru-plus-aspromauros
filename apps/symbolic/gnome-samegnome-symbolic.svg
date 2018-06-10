@@ -22,7 +22,7 @@
        id="linearGradient4751-5-4-1-2-9-1-2-3-365-589-154-4-7-64-3-8-6-5-3-8">
       <stop
          id="stop9737-3-0-8-1-8-3-3-0-4"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#F7F7F7;stop-opacity:1"
          offset="0" />
       <stop
          id="stop9739-4-8-0-7-48-9-7-7-4"
@@ -33,19 +33,19 @@
        id="linearGradient3924-1">
       <stop
          id="stop3926-3"
-         style="stop-color:#ffffff;stop-opacity:1"
+         style="stop-color:#F7F7F7;stop-opacity:1"
          offset="0" />
       <stop
          id="stop3928-91"
-         style="stop-color:#ffffff;stop-opacity:0.23529412"
+         style="stop-color:#F7F7F7;stop-opacity:0.23529412"
          offset="0.06316455" />
       <stop
          id="stop3930-6"
-         style="stop-color:#ffffff;stop-opacity:0.15686275"
+         style="stop-color:#F7F7F7;stop-opacity:0.15686275"
          offset="0.95056331" />
       <stop
          id="stop3932-6"
-         style="stop-color:#ffffff;stop-opacity:0.39215687"
+         style="stop-color:#F7F7F7;stop-opacity:0.39215687"
          offset="1" />
     </linearGradient>
     <linearGradient
@@ -200,8 +200,8 @@
   </defs>
   <sodipodi:namedview
      id="base"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7666"
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
@@ -241,33 +241,33 @@
          inkscape:connector-curvature="0"
          d="m 7.558811,35.529414 a 3.5294115,3.5294115 0 1 0 -7.05882197,0 3.5294115,3.5294115 0 1 0 7.05882197,0 z"
          id="path3663"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.11029411;marker:none;enable-background:accumulate" />
+         style="color:#F7F7F7;display:inline;overflow:visible;visibility:visible;fill:#F7F7F7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.11029411;marker:none;enable-background:accumulate" />
       <path
          inkscape:connector-curvature="0"
          d="m 15.499988,35.529414 a 3.5294118,3.5294118 0 1 1 -7.058823,0 3.5294118,3.5294118 0 1 1 7.058823,0 z"
          id="path3667"
-         style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.11029411;marker:none;enable-background:accumulate" />
+         style="color:#F7F7F7;display:inline;overflow:visible;visibility:visible;fill:#F7F7F7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.11029411;marker:none;enable-background:accumulate" />
       <g
          transform="matrix(0.22058822,0,0,0.22058822,-2.588247,36.852942)"
          id="g3976"
-         style="fill:#808080;fill-opacity:1">
+         style="fill:#F7F7F7;fill-opacity:1">
         <path
            inkscape:connector-curvature="0"
            d="m 48,32 a 16,16 0 1 1 -32,0 16,16 0 1 1 32,0 z"
            transform="translate(34,-2)"
            id="path3978"
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;marker:none;enable-background:accumulate" />
+           style="color:#F7F7F7;display:inline;overflow:visible;visibility:visible;fill:#F7F7F7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;marker:none;enable-background:accumulate" />
       </g>
       <g
          transform="matrix(0.22058822,0,0,0.22058822,-10.529423,36.852942)"
          id="g3988"
-         style="fill:#808080;fill-opacity:1">
+         style="fill:#F7F7F7;fill-opacity:1">
         <path
            inkscape:connector-curvature="0"
            d="m 48,32 a 16,16 0 1 1 -32,0 16,16 0 1 1 32,0 z"
            transform="translate(34,-2)"
            id="path3990"
-           style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;marker:none;enable-background:accumulate" />
+           style="color:#F7F7F7;display:inline;overflow:visible;visibility:visible;fill:#F7F7F7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.5;marker:none;enable-background:accumulate" />
       </g>
     </g>
   </g>

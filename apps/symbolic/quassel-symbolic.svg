@@ -28,8 +28,8 @@
   <defs
      id="defs10" />
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -50,12 +50,12 @@
   <g
      id="g918"
      transform="matrix(0.0875,0,0,0.0875,-49.187374,-39.450559)"
-     style="fill:#808080;fill-opacity:1">
+     style="fill:#F7F7F7;fill-opacity:1">
     <path
        id="path29"
        d="m 593.56998,496.57778 v 19.99999 h -19.99999 v 10.00001 h 19.99999 v 19.99999 h -19.99999 v 9.99999 h 19.99999 v 20 h 10 v -20 h 19.99999 v 20 h 9.99999 v -20 h 20 v -9.99999 h -20 v -19.99999 h 20 v -10.00001 h -20 v -19.99999 h -9.99999 v 19.99999 h -19.99999 v -19.99999 z m 10,30 h 19.99999 v 19.99999 h -19.99999 z"
        inkscape:connector-curvature="0"
-       style="fill:#808080;fill-opacity:1;stroke-width:4.99999809" />
+       style="fill:#F7F7F7;fill-opacity:1;stroke-width:4.99999809" />
     <rect
        id="rect35"
        height="19.999992"
@@ -63,7 +63,7 @@
        y="556.57782"
        x="713.57001"
        width="19.999992"
-       style="fill:#808080;fill-opacity:1;stroke-width:4.99999809" />
+       style="fill:#F7F7F7;fill-opacity:1;stroke-width:4.99999809" />
     <rect
        id="rect37"
        height="19.999992"
@@ -71,6 +71,6 @@
        y="556.57782"
        x="683.57007"
        width="19.999992"
-       style="fill:#808080;fill-opacity:1;stroke-width:4.99999809" />
+       style="fill:#F7F7F7;fill-opacity:1;stroke-width:4.99999809" />
   </g>
 </svg>

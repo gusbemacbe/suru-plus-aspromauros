@@ -16,8 +16,8 @@
    sodipodi:docname="gnome-mastermind-symbolic.svg"
    inkscape:version="0.92.2 (unknown)">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -56,12 +56,12 @@
     </rdf:RDF>
   </metadata>
   <g
-     style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.99065924"
+     style="fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:0.99065924"
      transform="matrix(1.0694602,0,0,1.0897227,-28.948131,-31.062849)"
      id="g3137">
     <rect
        ry="0.35904166"
-       style="opacity:1;fill:#808080;fill-opacity:1;stroke:none;stroke-width:0.99082607;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="opacity:1;fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:0.99082607;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect3135"
        width="2.0458002"
        height="10.580757"
@@ -72,7 +72,7 @@
        sodipodi:nodetypes="cscc"
        id="path3133"
        d="M 15.602102,26.594608 C 15.602102,29.630608 13.861687,32.012545 9.5,32 5.6338956,31.988881 3.1135557,29.708803 3.6074742,26.50841 Z"
-       style="fill:#808080;fill-opacity:1;stroke:none;stroke-width:1.07696009;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#F7F7F7;fill-opacity:1;stroke:none;stroke-width:1.07696009;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        transform="matrix(-0.4230769,-0.7327907,0.8660254,-0.5,17.069283,56.211786)"
        inkscape:connector-curvature="0" />
   </g>

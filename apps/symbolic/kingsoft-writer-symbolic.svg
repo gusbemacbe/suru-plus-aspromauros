@@ -15,8 +15,8 @@
    sodipodi:docname="kingsoft-writer-symbolic.svg"
    inkscape:version="0.92.3 (unknown)">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -54,7 +54,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient4526"
@@ -62,7 +62,7 @@
       <stop
          id="stop4528"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <g
@@ -86,22 +86,22 @@
   <g
      id="g1333"
      transform="matrix(0.43609935,0,0,0.43609935,-5.9675823,-103.51794)"
-     style="fill:#808080;fill-opacity:1">
+     style="fill:#F7F7F7;fill-opacity:1">
     <path
        sodipodi:nodetypes="ccccccc"
        inkscape:connector-curvature="0"
-       style="fill:#808080;fill-opacity:1;stroke-width:0.61421126"
+       style="fill:#F7F7F7;fill-opacity:1;stroke-width:0.61421126"
        d="m 14.830524,255.56943 v -15.9695 h 8.598724 l 2.35e-4,7.37054 -2.35e-4,24.56844 h -8.598724 z"
        id="path4543" />
     <path
        sodipodi:nodetypes="ccccccc"
        inkscape:connector-curvature="0"
-       style="fill:#808080;fill-opacity:1;stroke-width:0.61421126"
+       style="fill:#F7F7F7;fill-opacity:1;stroke-width:0.61421126"
        d="m 40.627398,255.56943 v -15.9695 h 8.598725 l 2.34e-4,7.37054 -2.34e-4,24.56844 h -8.598725 z"
        id="path4543-3" />
     <path
        d="M 40.627164,261.71154 32.028205,254.341 v 9.82737 l 8.599193,7.37054 h -2.34e-4 z m -17.197916,0 8.598957,-7.37054 v 9.82737 l -8.599191,7.37054 h 2.34e-4 z"
-       style="fill:#808080;fill-opacity:1;stroke-width:0.61421126"
+       style="fill:#F7F7F7;fill-opacity:1;stroke-width:0.61421126"
        id="path4543-6-7"
        inkscape:connector-curvature="0" />
   </g>

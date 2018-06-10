@@ -11,10 +11,10 @@
   </metadata>
   <defs id='defs7386'>
     <linearGradient id='linearGradient5606' osb:paint='solid'>
-      <stop id='stop5608' offset='0' style='stop-color:#000000;stop-opacity:1;'/>
+      <stop id='stop5608' offset='0' style='stop-color:#F7F7F7;stop-opacity:1;'/>
     </linearGradient>
     <linearGradient id='linearGradient4526' osb:paint='solid'>
-      <stop id='stop4528' offset='0' style='stop-color:#ffffff;stop-opacity:1;'/>
+      <stop id='stop4528' offset='0' style='stop-color:#F7F7F7;stop-opacity:1;'/>
     </linearGradient>
     <linearGradient id='linearGradient3600-4' osb:paint='gradient'>
       <stop id='stop3602-7' offset='0' style='stop-color:#f4f4f4;stop-opacity:1'/>
@@ -25,7 +25,7 @@
   <g id='layer2' transform='translate(-372,-180)'/>
   <g id='layer4' transform='translate(-372,-180)'/>
   <g id='g1812' style='display:inline' transform='translate(-372,-180)'>
-    <path d='m 373,180 v 16 h 9 0.75 L 387,191.75 V 191 180 Z m 1,1 h 12 v 10 h -4 v 4 h -8 z m 2,2 v 1 h 8 v -1 z m 0,2 v 1 h 8 v -1 z m 0,2 v 1 h 8 v -1 z m 0,2 v 1 h 3 v -1 z' id='path7676' style='color:#000000;display:inline;overflow:visible;visibility:visible;fill:#808080;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;enable-background:accumulate'/>
+    <path d='m 373,180 v 16 h 9 0.75 L 387,191.75 V 191 180 Z m 1,1 h 12 v 10 h -4 v 4 h -8 z m 2,2 v 1 h 8 v -1 z m 0,2 v 1 h 8 v -1 z m 0,2 v 1 h 8 v -1 z m 0,2 v 1 h 3 v -1 z' id='path7676' style='color:#F7F7F7;display:inline;overflow:visible;visibility:visible;fill:#F7F7F7;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4;marker:none;enable-background:accumulate'/>
     
   </g>
   <g id='g6217' transform='translate(-372,-180)'/>

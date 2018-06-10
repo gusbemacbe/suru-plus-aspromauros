@@ -25,7 +25,7 @@
   </metadata>
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#F7F7F7666"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -49,7 +49,7 @@
        type="text/css"
        id="current-color-scheme">
       .ColorScheme-Text {
-        color:#bebebe;
+        color:#F7F7F7;
       }
       .ColorScheme-Highlight {
         color:#3daee9;
@@ -60,7 +60,7 @@
      transform="matrix(1,0,0,-1,-421.71,547.79)"
      id="g6">
     <path
-       style="color:#bebebe;fill:currentColor;fill-opacity:1;stroke:none"
+       style="color:#F7F7F7;fill:currentColor;fill-opacity:1;stroke:none"
        d="m 424.71,545.79 0,-12 10,0 0,9 -3,3 z m 1,-1 5,0 0,-3 3,0 0,-7 -8,0 z"
        class="ColorScheme-Text"
        id="path8"

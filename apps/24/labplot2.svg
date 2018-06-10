@@ -15,8 +15,8 @@
    sodipodi:docname="labplot-symbolic.svg"
    inkscape:version="0.92.3 (2405546, 2018-03-11)">
   <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
+     pagecolor="#F7F7F7"
+     bordercolor="#F7F7F7"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -54,7 +54,7 @@
       <stop
          id="stop5608"
          offset="0"
-         style="stop-color:#000000;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
        id="linearGradient4526"
@@ -62,7 +62,7 @@
       <stop
          id="stop4528"
          offset="0"
-         style="stop-color:#ffffff;stop-opacity:1;" />
+         style="stop-color:#F7F7F7;stop-opacity:1;" />
     </linearGradient>
   </defs>
   <g
@@ -90,7 +90,7 @@
      id="layer1"
      transform="translate(-891.99998,-260)" />
   <g
-     style="color:#000000;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#d6d6d6;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
+     style="color:#F7F7F7;color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#d6d6d6;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto"
      id="g963"
      transform="matrix(0.17500238,0,0,0.17500238,-68.374535,-80.79471)">
     <g
@@ -101,42 +101,42 @@
          id="path33"
          d="m 389.57,524.29 c 13.01,0 15.772,14.973 21.511,15.02 5.739,0.042 5.484,-15.02 18.489,-15.02"
          inkscape:connector-curvature="0"
-         style="stroke:#808080;stroke-opacity:1" />
+         style="stroke:#F7F7F7;stroke-opacity:1" />
       <path
          id="path35"
          d="m 389.57,523.31 c 13.01,0 15.772,-10.274 21.511,-10.316 5.739,-0.042 5.484,10.316 18.489,10.316"
          inkscape:connector-curvature="0"
-         style="stroke:#808080;stroke-opacity:1" />
+         style="stroke:#F7F7F7;stroke-opacity:1" />
     </g>
     <path
        id="path41"
        d="m 6.7659028,257.98498 c 17.1548972,0 20.7968502,-19.74327 28.3642582,-19.80527 7.567404,-0.0553 7.231166,19.80527 24.37947,19.80527"
-       style="fill:none;stroke:#808080;stroke-width:1.29749584;stroke-opacity:1"
+       style="fill:none;stroke:#F7F7F7;stroke-width:1.29749584;stroke-opacity:1"
        inkscape:connector-curvature="0"
        transform="matrix(1.6908413,0,0,1.6908413,380.35948,74.409627)" />
     <rect
-       style="stroke:#808080;stroke-width:2.25778627;stroke-opacity:1"
+       style="stroke:#F7F7F7;stroke-width:2.25778627;stroke-opacity:1"
        id="rect47"
        height="2.2295318"
        y="511.71375"
        x="391.83521"
        width="89.16954" />
     <rect
-       style="stroke:#808080;stroke-width:2.22953176;stroke-opacity:1"
+       style="stroke:#F7F7F7;stroke-width:2.22953176;stroke-opacity:1"
        id="rect49"
        height="6.6885958"
        y="509.48422"
        x="407.40625"
        width="2.2295318" />
     <rect
-       style="stroke:#808080;stroke-width:2.22953176;stroke-opacity:1"
+       style="stroke:#F7F7F7;stroke-width:2.22953176;stroke-opacity:1"
        id="rect51"
        height="6.6885958"
        y="509.48422"
        x="438.61972"
        width="2.2295318" />
     <rect
-       style="stroke:#808080;stroke-width:2.22953176;stroke-opacity:1"
+       style="stroke:#F7F7F7;stroke-width:2.22953176;stroke-opacity:1"
        id="rect53"
        height="6.6885958"
        y="509.48422"
