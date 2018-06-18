@@ -1,4 +1,45 @@
-# 13
+# v14
+
+Designed @Magog64:
+
+* Improved icons in the `apps`, `mimetypes` and `places`
+* Added icons:
+  * Winepak
+
+* Fixed GSConnect icons.
+
+
+Designed by @gusemacbe:
+
+* Added missed icons:
+  * GitKraken
+  * HardInfo
+  * VSCode Exploration
+
+* Added Manjaro missed icons:
+  * Bookmarks Organizer
+  * HP Logo
+  * IPython
+  * KDEsvn
+  * Manjaro Guide
+  * Manjaro Hello
+  * Networks Wired
+  * QT4 Assistant
+  * QT4 Bus Viewer
+  * QT4 Designer
+  * QT4 Logo
+  * Yaourt GUI
+
+* Added online Microsoft icons on Manjaro:
+  * Microsoft Excel
+  * Microsoft Office
+  * Microsoft OneNote
+  * Microsoft Outlook 
+  * Microsoft PowerPoint
+  * Microsoft Skype
+  * Microsoft Word
+
+# v13
 
 * Bigest update: Suru+ Dark is no longer alpga or beta. It is officially released! The most of icons have been whitened for dark environment!
 * The added, fixed and updated icons were added from the repositoru Suru++.
