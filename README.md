@@ -34,13 +34,13 @@ As you want 24px and 26px icons to be colourful in the panel, and want the dark 
 
 ### Installation without CLI
 
-* [For users of before Ubuntu 18.04 and any old and new Debian-derived distributions.](instructions_without_cli1.md)
-* [For users of Ubuntu 18.04](instructions_without_cli2.md).
+* [For users of Ubuntu 16.04 and any old versions of any distributions](instructions_without_cli1.md)
+* [For users of Ubuntu 16.04.4, Ubuntu 18.04, Kali Linux and latest versions of any distributions](instructions_without_cli2.md).
 
 ### Installation with CLI
 
-* [For users of old Ubuntu versions, Ubuntu 16.04 and any Debian-derived distributions.](instructions_with_cli1.md)
-* [For users of Ubuntu 16.04.4 and above, Ubuntu 18.04, Kali Linux and any new Debian-derived distributions.](instructions_with_cli2.md)
+* [For users of UBuntu 16.04.4 and any old versions of any distributions](instructions_with_cli1.md)
+* [For users of Ubuntu 16.04.4, Ubuntu 18.04, Kali Linux and latest versions of any distributions](instructions_with_cli2.md)
 
 ## Known bugs
 

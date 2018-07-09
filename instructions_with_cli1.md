@@ -1,6 +1,6 @@
 # Installation with CLI
 
-## For users of old Ubuntu versions, Ubuntu 16.04 and any Debian-derived distributions
+## For users of Ubuntu 16.04 and any old versions of any distributions
 
 Firstly, you must have `git` and `svn` installed. 
 

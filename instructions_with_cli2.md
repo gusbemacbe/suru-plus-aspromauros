@@ -1,6 +1,6 @@
 # Installation with CLI
 
-## For users of Ubuntu 16.04.4 and above, Ubuntu 18.04, Kali Linux and any new Debian-derived distributions.
+## For users of Ubuntu 16.04.4, Ubuntu 18.04, Kali Linux and latest versions of any distributions
 
 Firstly, you must have `git` and `svn` installed. 
 
