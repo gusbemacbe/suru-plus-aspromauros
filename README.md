@@ -2,7 +2,7 @@
   <img src="logotype.png" alt="Title" height="256px" width="256px">
 </p>
 
-<p align="center">Suru++ Asprómauros</p>
+<h2 align="center">Suru++ Asprómauros</h2>
 
 <h3 align="center">A “aspromautic” icons themes for dark environments</h3>
 
