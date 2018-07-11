@@ -1,8 +1,8 @@
 <p align="center"> 
-  <img src="Title.png" alt="Title" height="256px" width="256px">
+  <img src="logotype.png" alt="Title" height="256px" width="256px">
 </p>
 
-<p align="center"> 
+<p align="center">Suru++ Asprómauros</p>
 
 <h3 align="center">A “aspromautic” icons themes for dark environments</h3>
 
