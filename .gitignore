@@ -1,2 +1,4 @@
-
 actions/16/replace\.sh
+.directory
+**/.directory
+**/.DS_Store
