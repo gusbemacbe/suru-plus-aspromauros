@@ -30,7 +30,7 @@
   </metadata>
   <sodipodi:namedview
      pagecolor="#ffffff"
-     bordercolor="#666666"
+     bordercolor="#f7f7f7"
      borderopacity="1"
      objecttolerance="10"
      gridtolerance="10"
@@ -65,7 +65,7 @@
        id="Group">
       <path
          d=" M 2.05 3.8 L 9.75 1 L 13.95 2.05 L 13.95 13.95 L 9.75 15 L 2.05 12.2 L 9.75 13.25 L 9.75 3.1 L 4.85 4.15 L 4.85 11.15 L 2.05 12.2 L 2.05 3.8 L 2.05 3.8 Z "
-         fill="rgb(128,128,128)"
+         fill="#f7f7f7"
          id="path7"
          style="fill:#f7f7f7;fill-opacity:1" />
     </g>
