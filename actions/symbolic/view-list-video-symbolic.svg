@@ -53,7 +53,7 @@
      style="fill:#f7f7f7;fill-opacity:1">
     <path
        d="M533 34v13h1v-1h1v1h11v-1h1v1h1V34h-1v1h-1v-1h-11v1h-1v-1zm3 1h9v5h-9zm-2 1h1v1h-1zm12 0h1v1h-1zm-12 2h1v1h-1zm12 0h1v1h-1zm-12 2h1v1h-1zm12 0h1v1h-1zm-10 1h9v5h-9zm-2 1h1v1h-1zm12 0h1v1h-1zm-12 2h1v1h-1zm12 0h1v1h-1z"
-       fill="gray"
+       fill="#f7f7f7"
        overflow="visible"
        style="marker:none;fill:#f7f7f7;fill-opacity:1"
        id="path2" />

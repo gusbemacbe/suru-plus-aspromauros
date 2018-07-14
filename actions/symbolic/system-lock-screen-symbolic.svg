@@ -53,7 +53,7 @@
      style="fill:#f7f7f7;fill-opacity:1">
     <path
        d="M274 267v9h12v-9zm1 1h10v7h-10z"
-       fill="gray"
+       fill="#f7f7f7"
        font-family="sans-serif"
        font-weight="400"
        overflow="visible"
@@ -62,7 +62,7 @@
        id="path2" />
     <path
        d="M280 260a5 5 0 0 0-5 5v2h1v-2c0-2.222 1.778-4 4-4s4 1.778 4 4v2h1v-2a5 5 0 0 0-5-5z"
-       fill="gray"
+       fill="#f7f7f7"
        font-family="sans-serif"
        font-weight="400"
        overflow="visible"
@@ -71,7 +71,7 @@
        id="path4" />
     <path
        d="M274 267v9h12v-9zm1 1h10v7h-10z"
-       fill="gray"
+       fill="#f7f7f7"
        font-family="sans-serif"
        font-weight="400"
        overflow="visible"
