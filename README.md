@@ -19,6 +19,7 @@ The good news is that, you are no longer required to depend on Sam Hewitt's and 
 ```shell
 pacaur -Ss suru-plus-aspromauros-git
 yaourt -Ss suru-plus-aspromauros-git
+yay -Ss suru-plus-aspromauros-git
 ```
 
 ### PPA (Ubuntu and Debian-based distributions)
