@@ -72,7 +72,7 @@ DisplayDepth=32
 Encoding=UTF-8
 Example=folder
 
-Inherits=Mint-Y,Papirus-Adapta-Maia,Suru++,Suru
+Inherits=Mint-Y,Papirus-Adapta-Maia,Suru++
 
 DesktopDefault=48
 DesktopSizes=16,22,32,48,64,128,256
