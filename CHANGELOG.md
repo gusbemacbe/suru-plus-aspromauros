@@ -1,3 +1,8 @@
+# v1.6
+
+* Fixing the wrong icon of sound control in Manjaro XFCE by lack of 4 icons. Merci au Maurice ([armageddon51](https://opendesktop.org/member/365784/)) and ευχαριστώ πολύ στο Μπιλ ([bill_t](https://forum.manjaro.org/u/bill_t))! Reference to [this issue](https://forum.manjaro.org/t/help-with-taskbar-sound-control-icon-third-party-icon/). 
+* Adding two missed icons of Manjaro XFCE — SpaceFM and Viewnior.
+
 # v1.5
 
 As this new icons theme sucessfully works in several distributions after purging ALMOST all the bugs, I will integrate this icon theme in all my repositories to get rid of all bugs and to make them compatible with several graphical environments. 
