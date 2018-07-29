@@ -1,3 +1,23 @@
+# v1.7
+
+* Correcting the wrong icon of `preferences-desktop-user-password`, moving from the folder `audio` to the folder `password`.
+* Added the missed `[mimetypes/48]` in the file `index.theme`, sreported by @RollingTaters in the issue #2. Thanks to @RollingTaters!
+
+* Added missed Ftalpak-built Deepin applications icons:
+  * Deepin Image Viewer
+  * Deepin Launcher
+  * Deepin Music
+  * Deepin ScreenRecorder
+  * Deepin Screenshot
+  * Deepin Voice Recorder
+
+* Added missed Linux Mint with XFCE:
+  * Nomacs
+  * Oceanaudio
+  * Parlatype
+  * Tilda
+  * Vokoscreen
+
 # v1.6
 
 * Fixing the wrong icon of sound control in Manjaro XFCE by lack of 4 icons. Merci au Maurice ([armageddon51](https://opendesktop.org/member/365784/)) and ευχαριστώ πολύ στο Μπιλ ([bill_t](https://forum.manjaro.org/u/bill_t))! Reference to [this issue](https://forum.manjaro.org/t/help-with-taskbar-sound-control-icon-third-party-icon/). 
