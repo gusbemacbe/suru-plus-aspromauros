@@ -61,12 +61,17 @@
 Following Sam Hewitt’s rules of grids, and making less conservative and traditional <a href="https://github.com/Magog64">@Magog64</a>’s <a href="https://github.com/Magog64/SURU-PLUS">Suru++ Ubuntu</a>, more than 15k icons have been redesigned, papirusified and improved with new cyberpunk colours and made been compatible with KDE, XFCE and other many environments! Check the new icons:
 
 <p align="center">
-    <img src="images/preview1.png" alt="Screenshot 1">
+    <img src="images/preview1.png" alt="Icons Redesign">
 </p>
+
 
 #### 12 folder colours, Linux Mint colour and new folder colour for dark environment
 
 The new versions has won new colours of folders, based by Alexey Varfolomeev’s Papirus, and won new folders with colour of Linux Mint and for dark environment:
+
+<p align="center">
+    <img src="images/preview2.png" alt="Folder colours" style="border-radius: 10px;">
+</p>
 
 #### Mimetype icons redesign
 
