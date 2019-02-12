@@ -19,17 +19,13 @@
 
 - [What’s new?](#whats-new)
   - [Redesign](#redesign)
-    - [12 folder colours, Linux Mint colour and new folder colour for dark environment](#12-folder-colours-linux-mint-colour-and-new-folder-colour-for-dark-environment)
-    - [Mimetype icons redesign](#mimetype-icons-redesign)
-    - [Firefox alternatives](#firefox-alternatives)
-    - [New flags icons](#new-flags-icons)
-  - [Version 25.0.0](#version-2500)
-    - [Folders with colour of Linux Mint](#folders-with-colour-of-linux-mint)
-    - [Distinction of file managers](#distinction-of-file-managers)
-    - [Steam games](#steam-games)
-  - [Version 25.1.0](#version-2510)
-    - [Oomox](#oomox)
-    - [Alternative icons](#alternative-icons)
+  - [12 folder colours, Linux Mint colour and new folder colour for dark environment](#12-folder-colours-linux-mint-colour-and-new-folder-colour-for-dark-environment)
+  - [Distinction of file managers](#distinction-of-file-managers)
+  - [Mimetype icons redesign](#mimetype-icons-redesign)
+  - [Alternative icons](#alternative-icons)
+  - [Steam games](#steam-games)
+  - [Oomox](#oomox)
+  - [New flags icons](#new-flags-icons)
 - [Installing with CLI](#installing-with-cli)
     - [ROOT directory (recommended)](#root-directory-recommended)
     - [HOME directory for GTK](#home-directory-for-gtk)
@@ -64,8 +60,7 @@ Following Sam Hewitt’s rules of grids, and making less conservative and tradit
     <img src="images/preview1.png" alt="Icons Redesign">
 </p>
 
-
-#### 12 folder colours, Linux Mint colour and new folder colour for dark environment
+### 12 folder colours, Linux Mint colour and new folder colour for dark environment
 
 The new versions has won new colours of folders, based by Alexey Varfolomeev’s Papirus, and won new folders with colour of Linux Mint and for dark environment:
 
@@ -73,74 +68,56 @@ The new versions has won new colours of folders, based by Alexey Varfolomeev’s
     <img src="images/preview2.png" alt="Folder colours" style="border-radius: 10px;">
 </p>
 
-#### Mimetype icons redesign
-
-Almost all mimetype icons have been redesigned with new colours and are based on Numix mimetype icons:
-
-![Screenshot](images/preview3.png)
-
-#### Firefox alternatives
-
-You can choose one of three alternatives of Firefox:
-
-| ![](images/firefox-traditional.png) | ![](images/firefox.png) | ![](images/firefox-mozilla.png) |
-| :---------------------------------: | :---------------------: | :-----------------------------: |
-|             Traditional             |        Suru++ 20        |       Mozilla Unofficial        |
-|      `firefox-traditional.svg`      |      `firefox.svg`      |      `firefox-mozilla.svg`      |
-
-To change the alternative icon, click to see [Changing the alternative icon](#changing-the-alternative-icon). 
-
-#### New flags icons
-
-New countries flags (in development)!
-
-### Version 25.0.0
-
-#### Folders with colour of Linux Mint
-
-Suru++ won the new folders with colour of Linux Mint:
-
-![Screenshot](images/preview4.png)
-
-#### Distinction of file managers
+### Distinction of file managers
 
 The file managers are no longer same, now are different and modern:
 
 <p align="center">
-    <img src="images/preview5.png" alt="Screenshot" height="100px">
+    <img src="images/preview3.png" alt="File managers">
 </p>
+
+### Mimetype icons redesign
+
+Almost all mimetype icons have been redesigned with new colours and are based on Numix mimetype icons:
+
+<p align="center">
+    <img src="images/preview4.png" alt="Mimetype icons">
+</p>
+
+### Alternative icons
+
+Redesigned by [@ChrisP4](https://github.com/ChrisP4) and by [@darcn181](https://github.com/darcn181). You can choose one of your alternates. To change the alternate, please see [Alternative icons](#alternative-icons).
+
+|        Icon name         |                                       Default                                       |                                            Alt 1                                            |                                            Alt 2                                            |                        Alt 3                        |                        Alt 4                        |
+| :----------------------: | :---------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-------------------------------------------------: | :-------------------------------------------------: |
+|         firefox          |                  ![default](./images/firefox.png)<br>`firefox.svg`                  |           ![alt 1](./images/firefox-traditional.png)<br>`firefox-traditional.svg`           |               ![alt 2](./images/firefox-mozilla.png)<br>`firefox-mozilla.svg`               |                          -                          |                          -                          |
+|         settings         |                 ![default](./images/settings.png)<br>`settings.svg`                 |                 ![alt 1](./images/settings-alt1.png)<br>`settings-alt1.svg`                 |                 ![alt 2](./images/settings-alt2.png)<br>`settings-alt2.svg`                 |                          -                          |                          -                          |
+|       sublime-text       |             ![default](./images/sublime-text.png)<br>`sublime-text.svg`             |              ![alt 1](./images/sublime-text-alt.png)<br>`sublime-text-alt.svg`              |                                              -                                              |                          -                          |                          -                          |
+|    system-lock-screen    |       ![default](./images/system-lock-screen.png)<br>`system-lock-screen.svg`       |       ![alt 1](./images/system-lock-screen-alt1.png)<br>`system-lock-screen-alt1.svg`       |       ![alt 2](./images/system-lock-screen-alt2.png)<br>`system-lock-screen-alt2.svg`       |                          -                          |                          -                          |
+|      system-log-out      |           ![default](./images/system-log-out.png)<br>`system-log-out.svg`           |           ![alt 1](./images/system-log-out-alt1.png)<br>`system-log-out-alt1.svg`           |           ![alt 2](./images/system-log-out-alt2.png)<br>`system-log-out-alt2.svg`           |                          -                          |                          -                          |
+|      system-reboot       |            ![default](./images/system-reboot.png)<br>`system-reboot.svg`            |            ![alt 1](./images/system-reboot-alt1.png)<br>`system-reboot-alt1.svg`            |            ![alt 2](./images/system-reboot-alt2.png)<br>`system-reboot-alt2.svg`            |                          -                          |                          -                          |
+|     system-shutdown      |          ![default](./images/system-shutdown.png)<br>`system-shutdown.svg`          |          ![alt 1](./images/system-shutdown-alt1.png)<br>`system-shutdown-alt1.svg`          |          ![alt 2](./images/system-shutdown-alt2.png)<br>`system-shutdown-alt2.svg`          |                          -                          |                          -                          |
+|      system-suspend      |           ![default](./images/system-suspend.png)<br>`system-suspend.svg`           |           ![alt 1](./images/system-suspend-alt1.png)<br>`system-suspend-alt1.svg`           |           ![alt 2](./images/system-suspend-alt2.png)<br>`system-suspend-alt2.svg`           |                          -                          |                          -                          |
+| system-suspend-hibernate | ![default](./images/system-suspend-hibernate.png)<br>`system-suspend-hibernate.svg` | ![alt 1](./images/system-suspend-hibernate-alt1.png)<br>`system-suspend-hibernate-alt1.svg` | ![alt 2](./images/system-suspend-hibernate-alt2.png)<br>`system-suspend-hibernate-alt2.svg` |                          -                          |                          -                          |
+|           user           |                     ![default](./images/user.png)<br>`user.svg`                     |                     ![alt 1](./images/user-alt1.png)<br>`user-alt1.svg`                     |                     ![alt 2](./images/user-alt2.png)<br>`user-alt2.svg`                     | ![alt 3](./images/user-alt3.png)<br>`user-alt3.svg` | ![alt 4](./images/user-alt4.png)<br>`user-alt4.svg` |
 
 To change the default icon of each file manager (Caja, Nautilus, Nemo, etc.), see [File manager icon](#file-manager-icon).
 
-#### Steam games
+### Steam games
 
 Hundreds Steam games icons are supported officially:
 
 <p align="center">
-    <img src="images/preview6.png" alt="Screenshot" height="450px">
+    <img src="images/preview5.png" alt="Steam games icons">
 </p>
 
-### Version 25.1.0
-
-#### Oomox
+### Oomox
 
 Suru++ is officially compatible with with @actionless's [Oomox](https://github.com/themix-project/oomox). You can change any colour of all 16px icons and of all folders once in a while!
 
-#### Alternative icons
+### New flags icons
 
-Redesigned by [@darcn181](https://github.com/darcn181). You can choose one of your alternates. To change the alternate, please see [Alternative icons](#alternative-icons).
-
-|        Icon name         |                      Default                      |                        Alt 1                         |                        Alt 2                         |              Alt 3               |              Alt 4               |
-| :----------------------: | :-----------------------------------------------: | :--------------------------------------------------: | :--------------------------------------------------: | :------------------------------: | :------------------------------: |
-|         settings         |         ![default](./images/settings.png)         |         ![alt 1](./images/settings-alt1.png)         |         ![alt 2](./images/settings-alt2.png)         |                -                 |                -                 |
-|       sublime-text       |       ![default](./images/sublime-text.png)       |       ![alt 1](./images/sublime-text-alt.png)        |                          -                           |                -                 |                -                 |
-|    system-lock-screen    |    ![default](./images/system-lock-screen.png)    |    ![alt 1](./images/system-lock-screen-alt1.png)    |    ![alt 2](./images/system-lock-screen-alt2.png)    |                -                 |                -                 |
-|      system-log-out      |      ![default](./images/system-log-out.png)      |      ![alt 1](./images/system-log-out-alt1.png)      |      ![alt 2](./images/system-log-out-alt2.png)      |                -                 |                -                 |
-|      system-reboot       |      ![default](./images/system-reboot.png)       |      ![alt 1](./images/system-reboot-alt1.png)       |      ![alt 2](./images/system-reboot-alt2.png)       |                -                 |                -                 |
-|     system-shutdown      |     ![default](./images/system-shutdown.png)      |     ![alt 1](./images/system-shutdown-alt1.png)      |     ![alt 2](./images/system-shutdown-alt2.png)      |                -                 |                -                 |
-|      system-suspend      |      ![default](./images/system-suspend.png)      |      ![alt 1](./images/system-suspend-alt1.png)      |      ![alt 2](./images/system-suspend-alt2.png)      |                -                 |                -                 |
-| system-suspend-hibernate | ![default](./images/system-suspend-hibernate.png) | ![alt 1](./images/system-suspend-hibernate-alt1.png) | ![alt 2](./images/system-suspend-hibernate-alt2.png) |                -                 |                -                 |
-|           user           |           ![default](./images/user.png)           |           ![alt 1](./images/user-alt1.png)           |           ![alt 2](./images/user-alt2.png)           | ![alt 3](./images/user-alt3.png) | ![alt 4](./images/user-alt4.png) |
+New countries flags (in development)!
 
 ## Installing with CLI
 
@@ -151,31 +128,31 @@ Use the scripts to install the latest version directly from this repo (independe
 #### ROOT directory (recommended)
 
 ```
-wget -qO- https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/install.sh | sh
+wget -qO- https://raw.githubusercontent.com/gusbemacbe/suru-plus-dark/master/install.sh | sh
 ```
 
 #### HOME directory for GTK
 
 ```
-wget -qO- https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/install.sh | env DESTDIR="$HOME/.icons" sh
+wget -qO- https://raw.githubusercontent.com/gusbemacbe/suru-plus-dark/master/install.sh | env DESTDIR="$HOME/.icons" sh
 ```
 
 #### HOME directory for KDE
 
 ```
-wget -qO- https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/install.sh | env DESTDIR="$HOME/.local/share/icons" sh
+wget -qO- https://raw.githubusercontent.com/gusbemacbe/suru-plus-dark/master/install.sh | env DESTDIR="$HOME/.local/share/icons" sh
 ```
 
 #### \*BSD systems
 
 ```
-wget -qO- https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/install.sh | env DESTDIR="/usr/local/share/icons" sh
+wget -qO- https://raw.githubusercontent.com/gusbemacbe/suru-plus-dark/master/install.sh | env DESTDIR="/usr/local/share/icons" sh
 ```
 
 #### Uninstall
 
 ```
-wget -qO- https://raw.githubusercontent.com/gusbemacbe/suru-plus/master/install.sh | env uninstall=true sh
+wget -qO- https://raw.githubusercontent.com/gusbemacbe/suru-plus-dark/master/install.sh | env uninstall=true sh
 ```
 
 ## Changing the folder colour
@@ -193,13 +170,13 @@ Please visit directly the tutorial: [Suru++ Folders](https://github.com/gusbemac
 
 ### Alternative icons
 
-1. Run `cd "go_to_/Suru++/64/"`;
+1. Run `cd "go_to_/Suru++\ Dark/64/"`;
 2. Download the script [`alt-icon.sh`](./scripts/alt-icon.sh), make it executable and trusted and copy the path of this script to the terminal;
 3. For example:
 
 ```bash
-cd ~/.local/share/icons/Suru++/64
-$ ~/.local/share/icons/Suru++/64
+cd ~/.local/share/icons/Suru++\ Dark/64
+$ ~/.local/share/icons/Suru++\ Dark/64
 ~/alt-icon.sh
 => Old symlink
 user.svg

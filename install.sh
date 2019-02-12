@@ -4,7 +4,7 @@ set -e
 
 # these variables can be overwritten
 : "${DESTDIR:=/usr/share/icons}"
-: "${TAG:=master}"
+: "${TAG:=beta}"
 : "${THEMES:=Suru++ Dark}"
 : "${uninstall:=false}"
 
