@@ -1,18 +1,18 @@
 <p align="center">
-    <img src="images/logo-new.png" alt="Logotype" height="250px">
+    <img src="images/logo.svg" alt="Logotype" height="250px">
 </p>
 
-<h3 align="center">A third-party Suru icons for more than 20 distributions </h3>
+<h3 align="center">Dark third-party Suru icons for more than 20 distributions </h3>
 <h3 align="center">Successor of <a href="https://github.com/Magog64">@Magog64</a>’s <a href="https://github.com/Magog64/SURU-PLUS">Suru++ Ubuntu</a></h3>
-<h3 align="center">A cyberpunkish, elegant, futuristic, macOS-like, papirusified and modern Suru icons based on <a href="https://snwh.org/suru">Suru Icons</a> by Sam Hewitt</h3>
+<h3 align="center">A cyberpunkish, elegant, futuristic, Papirus-like and modern Suru icons based on <a href="https://snwh.org/suru">Suru Icons</a> by Sam Hewitt</h3>
 
 <p align="center">
-  <img alt="apps" src="https://img.shields.io/badge/apps_icons-5200%2B-1AD6AB.svg?style=plastic?&colorA=329DB6"/>
-  <img alt="actions" src="https://img.shields.io/badge/actions_icons-1800%2B-1AD6AB.svg?style=plastic?&colorA=329DB6"/>
-  <img alt="devices" src="https://img.shields.io/badge/devices_icons-150%2B-1AD6AB.svg?style=plastic?&colorA=329DB6"/>
-  <img alt="mimetypes" src="https://img.shields.io/badge/mimetypes_icons-1100%2B-1AD6AB.svg?style=plastic?&colorA=329DB6"/>
-  <img alt="panel" src="https://img.shields.io/badge/panel_icons-1900%2B-1AD6AB.svg?style=plastic?&colorA=329DB6"/>
-  <img alt="places" src="https://img.shields.io/badge/places_icons-1300%2B-1AD6AB.svg?style=plastic?&colorA=329DB6"/>
+  <img alt="apps" src="https://img.shields.io/badge/apps_icons-5200%2B-01e074.svg?style=plastic?&colorA=4C5561"/>
+  <img alt="actions" src="https://img.shields.io/badge/actions_icons-1800%2B-01e074.svg?style=plastic?&colorA=4C5561"/>
+  <img alt="devices" src="https://img.shields.io/badge/devices_icons-150%2B-01e074.svg?style=plastic?&colorA=4C5561"/>
+  <img alt="mimetypes" src="https://img.shields.io/badge/mimetypes_icons-1100%2B-01e074.svg?style=plastic?&colorA=4C5561"/>
+  <img alt="panel" src="https://img.shields.io/badge/panel_icons-1900%2B-01e074.svg?style=plastic?&colorA=4C5561"/>
+  <img alt="places" src="https://img.shields.io/badge/places_icons-1300%2B-01e074.svg?style=plastic?&colorA=4C5561"/>
 </p>
 
 <h1>Index</h1>
