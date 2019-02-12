@@ -5,7 +5,7 @@ set -e
 # these variables can be overwritten
 : "${DESTDIR:=/usr/share/icons}"
 : "${TAG:=master}"
-: "${THEMES:=Suru++\ Dark}"
+: "${THEMES:=Suru++ Dark}"
 : "${uninstall:=false}"
 
 gh_url="https://github.com/gusbemacbe"

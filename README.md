@@ -18,9 +18,8 @@
 <h1>Index</h1>
 
 - [What’s new?](#whats-new)
-  - [Version 20.0.0](#version-2000)
-    - [Redesign](#redesign)
-    - [Folder redesign and 12 folder colours](#folder-redesign-and-12-folder-colours)
+  - [Redesign](#redesign)
+    - [12 folder colours, Linux Mint colour and new folder colour for dark environment](#12-folder-colours-linux-mint-colour-and-new-folder-colour-for-dark-environment)
     - [Mimetype icons redesign](#mimetype-icons-redesign)
     - [Firefox alternatives](#firefox-alternatives)
     - [New flags icons](#new-flags-icons)
@@ -57,19 +56,17 @@
 
 ## What’s new?
 
-### Version 20.0.0
-
-#### Redesign
+### Redesign
 
 Following Sam Hewitt’s rules of grids, and making less conservative and traditional <a href="https://github.com/Magog64">@Magog64</a>’s <a href="https://github.com/Magog64/SURU-PLUS">Suru++ Ubuntu</a>, more than 15k icons have been redesigned, papirusified and improved with new cyberpunk colours and made been compatible with KDE, XFCE and other many environments! Check the new icons:
 
-![Screenshot](images/preview1-new.png)
+<p align="center">
+    <img src="images/preview1.png" alt="Screenshot 1">
+</p>
 
-#### Folder redesign and 12 folder colours
+#### 12 folder colours, Linux Mint colour and new folder colour for dark environment
 
-The new versions has won new colours of folders, based by Alexey Varfolomeev’s Papirus:
-
-![Screenshot](images/preview2.png)
+The new versions has won new colours of folders, based by Alexey Varfolomeev’s Papirus, and won new folders with colour of Linux Mint and for dark environment:
 
 #### Mimetype icons redesign
 
