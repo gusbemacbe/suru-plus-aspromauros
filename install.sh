@@ -5,7 +5,7 @@ set -e
 # these variables can be overwritten
 : "${DESTDIR:=/usr/share/icons}"
 : "${TAG:=beta}"
-: "${THEMES:=Suru++ Dark}"
+: "${THEMES:=Suru++-Dark}"
 : "${uninstall:=false}"
 
 gh_url="https://github.com/gusbemacbe"
@@ -186,8 +186,8 @@ temp_dir="$(mktemp -d)"
 
 if [ "$uninstall" = "false" ]; then
     _download
-    _uninstall '$THEMES'
-    _install '$THEMES'
+    _uninstall $THEMES
+    _install $THEMES
 else
-    _uninstall '$THEMES'
+    _uninstall $THEMES
 fi
