@@ -1,3 +1,9 @@
+# v25.1 or XXV.1 Nantes
+
+* Added gradient colours support
+* New three folders colours
+* Added new 55 icons
+
 # v25 or XXV
 
 * I have increased from 2,2k to 4,7k icons!
