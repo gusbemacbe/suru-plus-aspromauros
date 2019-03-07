@@ -5,12 +5,12 @@ set -e
 # these variables can be overwritten
 : "${DESTDIR:=/usr/share/icons}"
 : "${TAG:=beta}"
-: "${THEMES:=Suru++-Dark}"
+: "${THEMES:=Suru++-Asprómauros}"
 : "${uninstall:=false}"
 
 gh_url="https://github.com/gusbemacbe"
-gh_repo="suru-plus-dark"
-gh_desc="Suru++ Dark icon theme"
+gh_repo="suru-plus-aspromauros"
+gh_desc="Suru++ Asprómauros icon theme"
 
 cat <<- EOF
 
