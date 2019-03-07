@@ -4,7 +4,14 @@
 
 <h2 align="center">Suru++ Asprómauros</h2>
 
-<h3 align="center">A “aspromautic” icons themes for dark environments</h3>
+<p align="center">
+  <img alt="apps" src="https://img.shields.io/badge/apps_icons-5200%2B-01e074.svg?style=plastic?&colorA=4C5561"/>
+  <img alt="actions" src="https://img.shields.io/badge/actions_icons-1800%2B-01e074.svg?style=plastic?&colorA=4C5561"/>
+  <img alt="devices" src="https://img.shields.io/badge/devices_icons-150%2B-01e074.svg?style=plastic?&colorA=4C5561"/>
+  <img alt="mimetypes" src="https://img.shields.io/badge/mimetypes_icons-1100%2B-01e074.svg?style=plastic?&colorA=4C5561"/>
+  <img alt="panel" src="https://img.shields.io/badge/panel_icons-1900%2B-01e074.svg?style=plastic?&colorA=4C5561"/>
+  <img alt="places" src="https://img.shields.io/badge/places_icons-1300%2B-01e074.svg?style=plastic?&colorA=4C5561"/>
+</p>
 
 These aspromautic or monochromatic icons are based on Andrea Bonnani's [Suru++ [Minimal]](https://github.com/Magog64/SURU-PLUS) icons of sizes 16, 24 and 32. It is flat, minimalist and designed for dark environments. 
 
