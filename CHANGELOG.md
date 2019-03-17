@@ -2,7 +2,7 @@
 
 Upstreamed from Suru++ 25 Dark.
 
-# v.17 – Τροίας
+# v1.7 – Τροίας
 
 * Correcting the wrong icon of `preferences-desktop-user-password`, moving from the folder `audio` to the folder `password`.
 * Added the missed `[mimetypes/48]` in the file `index.theme`, sreported by @RollingTaters in the issue #2. Thanks to @RollingTaters!
