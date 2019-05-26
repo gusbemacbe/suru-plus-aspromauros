@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <rect fill="#ececec" width="4.625" height="3.594" x="17.09" y="-.09" transform="matrix(1,0,0,1,0,0)"/>
+ <path fill="#ececec" d="M 1 1 L 1 5.667 L 5.667 5.667 L 5.667 1 M 10.333 5.667 L 5.667 5.667 L 5.667 8 L 3.333 8 L 3.333 15 L 5.667 15 L 5.667 12.667 L 10.333 12.667 L 10.333 15 L 12.667 15 L 12.667 8 L 10.333 8 L 10.333 5.667 L 15 5.667 L 15 1 L 10.333 1"/>
+</svg>

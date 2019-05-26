@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
+ <rect fill="#ececec" width="4.625" height="3.594" x="17.09" y="-.09" transform="matrix(1,0,0,1,0,0)"/>
+ <path fill="#ececec" fill-rule="evenodd" d="M 1.778 13.445 L 2.815 15 L 4.889 15 L 8 1 L 1.778 13.445 Z"/>
+ <path fill="#ececec" fill-rule="evenodd" d="M 14.222 13.445 L 13.185 15 L 11.111 15 L 8 1"/>
+ <path fill="#ececec" d="M 1.778 13.445 L 14.222 13.445 L 8 1 L 1.778 13.445 Z"/>
+</svg>
