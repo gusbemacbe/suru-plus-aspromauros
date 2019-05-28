@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
-  <rect fill="#ececec" width="4" height="4" x="-275" y="140" transform="scale(-1,-1)"/>
-  <rect fill="#ececec" width="4" height="4" x="-270" y="140" transform="scale(-1,-1)"/>
-  <rect fill="#ececec" width="4" height="4" x="-270" y="135" transform="scale(-1,-1)"/>
-  <rect fill="#ececec" width="4" height="4" x="-270" y="130" transform="scale(-1,-1)"/>
+ <path fill="#ececec" d="m -13.142853,-4.5714259 h 4.5714285 V 2.3841858e-6 h -4.5714285 z" transform="scale(-1)"/>
+ <path fill="#ececec" d="m -7.4285669,-4.5714259 h 4.5714283 V 2.3841858e-6 h -4.5714283 z" transform="scale(-1)"/>
+ <path fill="#ececec" d="m -7.4285669,-10.285711 h 4.5714283 v 4.571428 h -4.5714283 z"     transform="scale(-1)"/>
+ <path fill="#ececec" d="m -7.4285669,-15.999997 h 4.5714283 v 4.571428 h -4.5714283 z"     transform="scale(-1)"/>
 </svg>
