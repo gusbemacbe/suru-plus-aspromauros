@@ -48,7 +48,6 @@
    <stop offset="100%" style="stop-color: #0f83ae; stop-opacity: 1"/>
   </linearGradient>
  </defs>
-
  <g transform="translate(-3,-3)">
   <path fill="currentColor" class="ColorScheme-Text" d="M 8 1 A 7 7 0 0 0 1 8 A 7 7 0 0 0 8 15 A 7 7 0 0 0 8.0058594 15 A 5 5 0 0 1 7 12 A 5 5 0 0 1 7.4199219 10 L 7 10 L 6 8.5 L 6 11 L 4 11 L 4 5 L 6 5 L 8 8 L 10 5 L 12 5 L 12 7 A 5 5 0 0 1 15 8.0078125 A 7 7 0 0 0 15 8 A 7 7 0 0 0 8 1 z" transform="translate(3,3)"/>
  </g>

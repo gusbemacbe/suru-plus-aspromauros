@@ -48,7 +48,6 @@
    <stop offset="100%" style="stop-color: #0f83ae; stop-opacity: 1"/>
   </linearGradient>
  </defs>
-
  <path fill="currentColor" class="ColorScheme-Text" d="M 10.925,4.0902 C 9.4422,4.1873 6.8342,6.8086 7.2012,6.8086 10.234,6.663 12.129,6.8572 14.495,7.6337 14.846,7.7308 14.117,4.3329 10.925,4.0902 Z" xml:space="default"/>
  <path fill="currentColor" class="ColorScheme-Text" d="M 6.4138,1.9542 C 5.5705,3.2164 5.4646,8.1679 5.682,7.8768 7.4772,5.3523 11.777,2.2456 14.342,0.98342 17.513,-0.52153 8.2909,-0.37587 6.4138,1.9542 Z" xml:space="default"/>
  <path fill="currentColor" class="ColorScheme-Text" d="M 2.5946,7.2945 C 3.0808,8.7502 6.1907,10.692 6.0838,10.304 5.1995,7.2945 4.8798,5.4009 4.9792,2.828 4.9941,2.4397 2.0094,4.0416 2.5946,7.2945 Z" xml:space="default"/>

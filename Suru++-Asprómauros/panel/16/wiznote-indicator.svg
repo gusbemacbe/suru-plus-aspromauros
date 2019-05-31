@@ -48,6 +48,5 @@
    <stop offset="100%" style="stop-color: #0f83ae; stop-opacity: 1"/>
   </linearGradient>
  </defs>
-
  <path fill="currentColor" class="ColorScheme-Text" d="M 11,1 9.5,7 9,4 5,5 4,8 3,3 0,4 2,13.5 5.777,14.066 6.5,11.5 7.264,14.289 12,15 16,2 Z"/>
 </svg>

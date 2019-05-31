@@ -48,7 +48,6 @@
    <stop offset="100%" style="stop-color: #0f83ae; stop-opacity: 1"/>
   </linearGradient>
  </defs>
-
  <rect fill="currentColor" class="ColorScheme-Text" width="2" height="2" x="3" y="3" rx=".5" ry=".5"/>
  <rect fill="currentColor" class="ColorScheme-Text" width="2" height="2" x="7" y="3" rx=".5" ry=".5"/>
  <rect fill="currentColor" class="ColorScheme-Text" width="2" height="2" x="11" y="3" rx=".5" ry=".5"/>
