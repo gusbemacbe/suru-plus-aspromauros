@@ -48,10 +48,5 @@
    <stop offset="100%" style="stop-color: #0f83ae; stop-opacity: 1"/>
   </linearGradient>
  </defs>
- <g transform="translate(-512 -32)">
-  <path fill="currentColor" class="ColorScheme-Text" d="M526 37v-2h-2.002z" overflow="visible"/>
-  <path fill="currentColor" class="ColorScheme-Text" d="M514 39v8h9v-1h-8v-7.667zm11.002-1L525 47h1v-8z"/>
-  <path fill="currentColor" class="ColorScheme-Text" d="M520 40.986a8.47 8.47 0 0 1 .607-.122c.253-.043.543-.064.872-.064.295 0 .54.043.735.129.195.08.35.197.465.35.119.147.202.326.25.535.047.21.071.44.071.693V46.2h-3z"/>
-  <path fill="currentColor" fill-rule="evenodd" class="ColorScheme-Text" d="M520 32.293l-7.854 7.853.708.708L520 33.707l7.146 7.147.708-.708z" overflow="visible"/>
- </g>
+ <path fill="currentColor" class="ColorScheme-Text" d="M 13.648 1.529 C 12.338 0.923 10.773 1.08 9.569 1.805 L 8.259 4.668 L 10.854 6.928 L 8.138 10.599 L 9.132 7.18 L 5.806 4.935 L 6.785 2.053 C 5.547 1.126 3.798 0.86 2.351 1.529 C 0.181 2.536 -0.856 5.107 0.858 8.143 C 2.076 10.301 4.235 11.929 8 14.845 C 11.765 11.929 13.923 10.302 15.142 8.143 C 16.856 5.107 15.818 2.536 13.648 1.529 Z"/>
 </svg>
