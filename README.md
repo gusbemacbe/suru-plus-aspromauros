@@ -25,6 +25,7 @@ Observe that Suru++ Asprómauros also supports gradient colours, and is compatib
     - [HOME directory for KDE](#home-directory-for-kde)
     - [\*BSD systems](#bsd-systems)
     - [Uninstall](#uninstall)
+- [Installing in the Arch-based distributions:](#installing-in-the-arch-based-distributions)
 - [Known bugs](#known-bugs)
   - [Snap-built apps](#snap-built-apps)
   - [AppImage-built apps](#appimage-built-apps)
@@ -73,6 +74,12 @@ wget -qO- https://raw.githubusercontent.com/gusbemacbe/suru-plus-aspromauros/mas
 
 ```
 wget -qO- https://raw.githubusercontent.com/gusbemacbe/suru-plus-aspromauros/master/install.sh | env uninstall=true sh
+```
+
+## Installing in the Arch-based distributions:
+
+```bash
+yay -S suru-plus-aspromauros
 ```
 
 ## Known bugs
