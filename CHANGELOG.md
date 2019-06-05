@@ -1,3 +1,48 @@
+# v3.0 – Βαρκινών
+
+The version 3.0 is named after Βαρκινών (Barkinón in Greek), in tribute to Barcelona, because of Suru++ 30 version named after Barcelona. Βαρκινών is a old name of Barcelona, which was used to be inhabited by Ionic Greek immigrants, which founded the state-city of Empórion (Ἐμπόριον). These immigrants came from Phocaea, which used to belong to the kingdom of Mycenaeans. In the Greek Dark Ages, Phocaea, as part of Aegean Islands, which where capital of geometric art and poetry, became important for the black-and-white geometric art brought to Hispania by that time. 
+
+* Added new icons in the folder `actions`:
+  * `16`: 62 icons;
+  * `22`: 110 icons;
+  * `24`: 64 icons and 
+  * `symbolic`: 10 icons;
+* Upstreamed `apps` folder from Suru++ 30;
+* Added new 43 icons in the folder `devices/16`:
+* In the folder `devices`, the icons of iPod, iPod nano and old phones of Android – Google Nexus, HTC, Nokia 900 and Palm Pre, have been improved and redesigned;
+* Added new icons in the folder `emblems`:
+  * `16`: 9 icons;
+  * `22`: 10 icons;
+  * `24`: 10 icons;
+  * `32`: 35 icons;
+  * `48`: 10 icons;
+* The `emotes/scalable` and `intl/scalable` have been optimised and cleaned, and their SVG codes have been purified;
+* The Russian flag has been added to `intl/scalable`;
+* Upstreamed `mimetypes` folder from Suru++ 30;
+* Added new icons in the folder `panel`:
+  * `16`: 60 icons;
+  * `22`: 58 icons;
+  * `24`: 61 icons;
+* Upstreamded `places` from Suru++ 30;
+* Upgraded `status` folder;
+* Purified the SVG codes of all icons of all folders;
+* Recolored and reimaged with Suru++ cybercolours the following folders, including with newly added Papirus icons upstreamed from Papirus Icon Theme Project:
+  * `actions`: `16`, `22`, `24` and `symbolic`;
+  * `devices`: `16` and `symbolic`;
+  * `emblems`: `16`, `22`, `24`, `32` and `48`;
+  * `panel`: `15`, `22` and `24`;
+  * `status`: `16`, `22`, `24`, `32`, `48` and `symbolic`;
+* Added gradients, including Cyberpunk Neon, support for the following folders, including with newly added Papirus icons:
+  * `actions`: `16`, `22`, `24` and `symbolic`;
+  * `devices`: `16` and `symbolic`;
+  * `emblems`: `16`, `22`, `24`, `32` and `48`;
+  * `emotes/symbolic`;
+  * `panel`: `15`, `22` and `24`;
+  * `places/symbolic`;
+  * `status`: `16`, `22`, `24`, `32`, `48` and `symbolic`;
+* Reordered the gradients list of all icons of all folders;
+* Renamed all `64` folders to `scalable` folders;
+
 # v2.0 – Νιχώρια
 
 Upstreamed from Suru++ 25 Dark.

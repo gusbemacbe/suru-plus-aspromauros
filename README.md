@@ -5,14 +5,15 @@
 <h2 align="center">Suru++ Asprómauros</h2>
 
 <p align="center">
-  <img alt="actions" src="https://img.shields.io/badge/actions_icons-1800%2B-01e074.svg?style=plastic?&colorA=2E3842"/>
-  <img alt="devices" src="https://img.shields.io/badge/devices_icons-150%2B-01e074.svg?style=plastic?&colorA=2E3842"/>
-  <img alt="mimetypes" src="https://img.shields.io/badge/mimetypes_icons-1100%2B-01e074.svg?style=plastic?&colorA=2E3842"/>
+  <img alt="actions" src="https://img.shields.io/badge/actions_icons-2000%2B-01e074.svg?style=plastic?&colorA=2E3842"/>
+  <img alt="apps" src="https://img.shields.io/badge/apps_icons-5400%2B-01e074.svg?style=plastic?&colorA=2E3842"/>
+  <img alt="devices" src="https://img.shields.io/badge/devices_icons-190%2B-01e074.svg?style=plastic?&colorA=2E3842"/>
+  <img alt="mimetypes" src="https://img.shields.io/badge/mimetypes_icons-1600%2B-01e074.svg?style=plastic?&colorA=2E3842"/>
   <img alt="panel" src="https://img.shields.io/badge/panel_icons-1900%2B-01e074.svg?style=plastic?&colorA=2E3842"/>
-  <img alt="places" src="https://img.shields.io/badge/places_icons-1300%2B-01e074.svg?style=plastic?&colorA=2E3842"/>
+  <img alt="places" src="https://img.shields.io/badge/places_icons-160%2B-01e074.svg?style=plastic?&colorA=2E3842"/>
 </p>
 
-These aspromautic or monochromatic icons are based on [Suru++ 25 Dark](https;//github.com/gusbemacbe/suru-plus-dark) icons of sizes 16, 24 and 32. It is flat, minimalist and designed for full dark environments. 
+These aspromautic or monochromatic icons are based on [Suru++ 30 Dark](https;//github.com/gusbemacbe/suru-plus-dark) icons of sizes 16, 24 and 32. It is flat, minimalist and designed for full dark environments. 
 
 The word "Asprómauros" comes from the modern Greek word *ασπρόμαυρος*, which means *black and white*.
 
@@ -24,6 +25,7 @@ Observe that Suru++ Asprómauros also supports gradient colours, and is compatib
     - [HOME directory for KDE](#home-directory-for-kde)
     - [\*BSD systems](#bsd-systems)
     - [Uninstall](#uninstall)
+- [Installing in the Arch-based distributions:](#installing-in-the-arch-based-distributions)
 - [Known bugs](#known-bugs)
   - [Snap-built apps](#snap-built-apps)
   - [AppImage-built apps](#appimage-built-apps)
@@ -74,6 +76,12 @@ wget -qO- https://raw.githubusercontent.com/gusbemacbe/suru-plus-aspromauros/mas
 wget -qO- https://raw.githubusercontent.com/gusbemacbe/suru-plus-aspromauros/master/install.sh | env uninstall=true sh
 ```
 
+## Installing in the Arch-based distributions:
+
+```bash
+yay -S suru-plus-aspromauros
+```
+
 ## Known bugs
 
 ### Snap-built apps
@@ -113,7 +121,7 @@ chmod a+x *.AppImage
 ```
 
 3. Reboot;
-4. Create the desktop files manually in the directory `~/.local/share/applications`. Do not forget of adding the option `StartupWNClass` or the icon will be unrecognised or ugly. 
+4. Create the desktop files manually in the directory `~/.local/share/applications`. Do not forget of adding the option `StartupWMClass` (to know which, use the command `xprop WM_CLASS` to calibrate an AppImage window) or the icon will be unrecognised or ugly. 
 
 ### Hardcoded application icons with ugly name
 
@@ -166,13 +174,13 @@ The changelog is available on the release page in theme's repository.
 
 ## Donation
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=gusbemacbe%40gmail%2ecom&lc=BR&item_name=Suru%2b%2b%20Project&item_number=SURU2018GBRC&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted">Donate here</a>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=gusbemacbe%40gmail%2ecom&lc=BR&item_name=Suru%2b%2b%20Project&item_number=SURUFAMILYGBRC&currency_code=USD&bn=PP%2dDonationsBF%3abtn_donate_SM%2egif%3aNonHosted">Donate here</a>
 
 ## Credits and Licences
 
 * CC BY-SA/GPL3 © 2018-2019 [Suru Icons](https://github.com/snwh/suru-icon-theme) by [Sam Hewitt](https://github.com/snwh).
 * GPL3 © 2018-2019 [Suru++ Ubuntu](https://github.com/Magog64/suru-plus) by [Andrea Bonanni](https://github.com/Magog64) and Gustavo Costa.
-* GPL3 © 2018-2019 Suru++ 25 by Gustavo Costa.
+* GPL3 © 2018-2019 Suru++ 30 by Gustavo Costa.
 * GPL3 © [Papirus](https://github.com/PapirusDevelopmentTeam/) by [Alexey Varfolomeev](https://github.com/varlesh).
 * GPL3 © [Numix](https://github.com/numixproject/numix-icon-theme) by Numix Team.
 * GPL3/MIT © 2015-2019 [La Capitaine](https://github.com/keeferrourke/la-capitaine-icon-theme) by [Keefer Rourke](https://github.com/keeferrourke).
