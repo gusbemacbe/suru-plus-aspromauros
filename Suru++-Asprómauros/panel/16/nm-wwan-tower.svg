@@ -48,9 +48,4 @@
    <stop offset="100%" style="stop-color: #0f83ae; stop-opacity: 1"/>
   </linearGradient>
  </defs>
- <defs>
-  <style type="text/css">
-   .ColorScheme-Text { color:#ececec; } .ColorScheme-Highlight { color:#5294e2; }
-  </style>
- </defs>
 </svg>

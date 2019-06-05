@@ -48,10 +48,5 @@
    <stop offset="100%" style="stop-color:#0f83ae"/>
   </linearGradient>
  </defs>
- <defs>
-  <style type="text/css">
-   .ColorScheme-Text { color:#ececec; } .ColorScheme-Highlight { color:#5294e2; }
-  </style>
- </defs>
- <path style="stroke-linejoin:round;stroke:currentColor;fill:none" class="ColorScheme-Text" d="m17 18.5h2m0.5-2.5v5m-3-5v5"/>
+ <path fill="none" stroke="currentColor" class="ColorScheme-Text" stroke-linejoin="round" d="m17 18.5h2m0.5-2.5v5m-3-5v5"/>
 </svg>

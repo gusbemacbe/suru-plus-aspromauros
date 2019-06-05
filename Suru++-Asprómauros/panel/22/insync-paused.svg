@@ -48,11 +48,6 @@
    <stop offset="100%" style="stop-color:#0f83ae"/>
   </linearGradient>
  </defs>
- <defs>
-  <style type="text/css">
-   .ColorScheme-Text { color:#ececec; } .ColorScheme-Highlight { color:#5294e2; }
-  </style>
- </defs>
  <rect fill="currentColor" class="ColorScheme-Text" width="3" height="4" x="14" y="15"/>
  <circle fill="currentColor" class="ColorScheme-Text" cx="15.5" cy="12.5" r="1.5"/>
  <path style="opacity:.3;stroke:currentColor;stroke-width:2;fill:none" class="ColorScheme-Text" d="m7 14a10 10 0 0 1 10 -10"/>

@@ -49,5 +49,5 @@
   </linearGradient>
  </defs>
  <path fill="currentColor" class="ColorScheme-Text" d="m11 3a8 8 0 0 0 -8 8 8 8 0 0 0 8 8 8 8 0 0 0 8 -8 8 8 0 0 0 -8 -8zm0 4a4 4 0 0 1 4 4 4 4 0 0 1 -4 4 4 4 0 0 1 -4 -4 4 4 0 0 1 4 -4z"/>
- <circle fill="currentColor" opacity=".3" class="ColorScheme-Text" cx="11" cy="11" r="3"/>
+ <circle fill="currentColor" class="ColorScheme-Text" opacity="0.3" cx="11" cy="11" r="3"/>
 </svg>

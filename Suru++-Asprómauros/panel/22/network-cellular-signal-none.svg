@@ -49,6 +49,6 @@
   </linearGradient>
  </defs>
  <g transform="translate(-129 -599.36)">
-  <path fill="currentColor" opacity=".3" class="ColorScheme-Text" d="m133 617.37 14-14v14z"/>
+  <path fill="currentColor" class="ColorScheme-Text" opacity="0.3" d="m133 617.37 14-14v14z"/>
  </g>
 </svg>

@@ -50,5 +50,5 @@
  </defs>
  <path fill="currentColor" class="ColorScheme-Text" d="m 6,3 0,16 11,0 c 0.554,0 1,-0.446 1,-1 L 18,4 C 18,3.446 17.554,3 17,3 L 12,3 6,3 Z"/>
  <path fill="currentColor" class="ColorScheme-Highlight" d="m 13,3 0,7 2,0 0,-7 z"/>
- <path fill="currentColor" opacity=".3" class="ColorScheme-Text" d="M 5,3 C 4.446,3 4,3.446 4,4 l 0,14 c 0,0.554 0.446,1 1,1 L 6,19 6,3 5,3 Z"/>
+ <path fill="currentColor" class="ColorScheme-Text" opacity="0.3" d="M 5,3 C 4.446,3 4,3.446 4,4 l 0,14 c 0,0.554 0.446,1 1,1 L 6,19 6,3 5,3 Z"/>
 </svg>

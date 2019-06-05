@@ -48,11 +48,6 @@
    <stop offset="100%" style="stop-color:#0f83ae"/>
   </linearGradient>
  </defs>
- <defs>
-  <style type="text/css">
-   .ColorScheme-Text { color:#ececec; } .ColorScheme-Highlight { color:#5294e2; }
-  </style>
- </defs>
- <path style="stroke-linejoin:round;stroke:currentColor;fill:none" class="ColorScheme-Text" d="m20.5 18v1.5c0 1-0 1-1 1-1 0-1-0-1-1l-0-2c-0-1 0-1 1-1h1.5"/>
- <path style="stroke-linejoin:round;stroke:currentColor;fill:none" class="ColorScheme-Text" d="m16.5 21v-2.5h-2v-2.5m2 2.5v-2.5"/>
+ <path fill="none" stroke="currentColor" class="ColorScheme-Text" stroke-linejoin="round" d="m20.5 18v1.5c0 1-0 1-1 1-1 0-1-0-1-1l-0-2c-0-1 0-1 1-1h1.5"/>
+ <path fill="none" stroke="currentColor" class="ColorScheme-Text" stroke-linejoin="round" d="m16.5 21v-2.5h-2v-2.5m2 2.5v-2.5"/>
 </svg>

@@ -57,7 +57,7 @@
    <stop offset="100%"  stop-color= "#0f83ae" stop-opacity="1"/>
   </linearGradient>
  </defs>
- <circle style="opacity:0.5;fill:currentColor" class="ColorScheme-Text" cx="8" cy="6" r="5"/>
+ <circle fill="currentColor" class="ColorScheme-Text" opacity="0.5" cx="8" cy="6" r="5"/>
  <circle fill="currentColor" class="ColorScheme-Text" cx="6" cy="10" r="5"/>
- <circle cx="10" cy="10" r="5" style="opacity:0.3;fill:currentColor" class="ColorScheme-Text"/>
+ <circle cx="10" cy="10" r="5" fill="currentColor" class="ColorScheme-Text" opacity="0.3"/>
 </svg>
